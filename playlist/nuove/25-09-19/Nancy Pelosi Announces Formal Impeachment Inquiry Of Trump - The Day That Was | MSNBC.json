@@ -1,0 +1,6067 @@
+{
+  "RESPONSE" : {
+    "TRANSACTIONS" : {
+      "dailyCount" : "90",
+      "limit" : "1000"
+    },
+    "DOCUMENT" : "the actions of the trump presidency revealed dishonorable fact of the president's betrayal of his oath of office betrayal of our national security and betrayal of the integrity of our elections therefore today I'm announcing the House of Representative in forward with an official impeachment [Music] this is a huge escalation from a speaker that has been very very very reluctant to formally dive into impeachment she has in some ways had very little choice as more than 40 and maybe more congressional Democrats have come out in support of impeachment proceedings just since yesterday morning and that includes members like Abigail Spann burger and ELISA slot kin and Antonio Delgado absolute front line members who flipped Republican districts that Trump won some of the most vulnerable Democrats the ones that Pelosi was worried about protecting in an impeachment inquiry meanwhile the big issue that Pelosi alluded to is that the Trump administration in coordination with the Department of Justice and attorney general Liam bar have been blocking a whistleblower from going to Congress as is legally required today House Intelligence Committee Chair Adam Schiff shared the huge news that he and his staff has been in contact with the whistleblowers Council and the whistleblower would like to speak directly to their committee as soon as this week NBC News is now reporting that the White House does intend to give Congress the whistleblower complaint at least a version of the whistleblowers complaint by Thursday the complaint will reportedly go through a classic eight classification review and then Congress will get it but I mean bottom line here we haven't known about this whistleblowers existence or about this complaint for very long the complaint was reportedly filed on August 4th it's a member of the intelligence community who was reportedly disturbed by something that he or she observed when it came to President Trump in his contact with foreign leaders that whistleblower conveyed that information by the process that he or she was supposed to under law in a way that should protect him or her from retaliation up to and including losing his or her job or being prosecuted the White House then apparently intervened to stop that complaint from being conveyed to Congress that has led to these two twin stories the stymieing of the congressional oversight process including what is supposed to be a sacrosanct legal whistleblower protection regime and whatever it is that so upset that whistleblower in the first place if the whistleblowers complaint is conveyed to Congress because of this announcement from Stan's Nancy Pelosi today both of those matters will make serious progress both in terms of the obstruction and in terms of the content here this is the pattern we see over and over you asked for documents you should get they refuse you subpoena you get something you talk about bringing contempt you get a little more now I think the big Club has been brought out and I started forcing them to agree to provide the transcript and provide the whistleblower and that big club is the club of impeachment I think but for that being brought out the White House would not be relinquish this information Congress might not actually need to do an investigation here I mean they might not really need to figure out much more about whatever has gone wrong here simply because the admitted facts the facts that are not in dispute anymore are the basis for what you didn't pitch him on right I mean it's sort of an in disputed and admitted fact now that President Trump asked a foreign country to help him in his reelection bid by giving him dirt on Joe Biden and the president personally intervened to withhold military aid from that country at the same time that he was making that request about Biden in so doing the president according to the laws of common sense created the impression in that foreign country but they wouldn't get that life-saving military aid from our country unless they coughed up the help that Trump wanted for his campaign when do you expect the Judiciary Committee might be considering potential articles of impeachment I don't have that information but I do expect that the Judiciary Committee is prepared to move very quickly at some point you have to exercise your constitutional authority and utilize the checks and balances system to say look this is a country that has the rule of law and that you can't have your your president colluding the foreign powers and putting pressure on them in return for aid against political rivals at some point you have to do the right thing even if the political calculation isn't necessarily in your favor there are many members of this administration starting with the president who believes that he is above the law and no one in our system of democracy and in our system of justice is above the law including the President of the United States and there must be accountability and consequence for behaviors that are clearly against the law\n",
+    "CATEGORIZATION" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 40.06,
+        "SCORE" : 39375,
+        "NAME" : "Politics",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1260,
+            "BEGIN" : 1254
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3185,
+            "BEGIN" : 3175
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3641,
+            "BEGIN" : 3632
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1398,
+            "BEGIN" : 1388
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1615,
+            "BEGIN" : 1608
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 233,
+            "BEGIN" : 229
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2594,
+            "BEGIN" : 2587
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1089,
+            "BEGIN" : 1082
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1427,
+            "BEGIN" : 1420
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2291,
+            "BEGIN" : 2284
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4649,
+            "BEGIN" : 4641
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 192,
+            "BEGIN" : 184
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 954,
+            "BEGIN" : 941
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4739,
+            "BEGIN" : 4726
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 735,
+            "BEGIN" : 726
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3235,
+            "BEGIN" : 3228
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4575,
+            "BEGIN" : 4567
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2209,
+            "BEGIN" : 2199
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4934,
+            "BEGIN" : 4905
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3847,
+            "BEGIN" : 3839
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4481,
+            "BEGIN" : 4473
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 798,
+            "BEGIN" : 790
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3587,
+            "BEGIN" : 3583
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4044,
+            "BEGIN" : 4040
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3695,
+            "BEGIN" : 3687
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4767,
+            "BEGIN" : 4759
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 251,
+            "BEGIN" : 238
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1931,
+            "BEGIN" : 1923
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1937,
+            "BEGIN" : 1933
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 756,
+            "BEGIN" : 752
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 78,
+            "BEGIN" : 70
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3581,
+            "BEGIN" : 3573
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4843,
+            "BEGIN" : 4835
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 512,
+            "BEGIN" : 504
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 34,
+            "BEGIN" : 25
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 14.09,
+        "SCORE" : 13850,
+        "NAME" : "Executive (government)",
+        "RULE" : [ {
+          "SCORE" : 50,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 78,
+            "BEGIN" : 70
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1931,
+            "BEGIN" : 1923
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3695,
+            "BEGIN" : 3687
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3847,
+            "BEGIN" : 3839
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 34,
+            "BEGIN" : 25
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3581,
+            "BEGIN" : 3573
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4767,
+            "BEGIN" : 4759
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4481,
+            "BEGIN" : 4473
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4934,
+            "BEGIN" : 4905
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 251,
+            "BEGIN" : 238
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 756,
+            "BEGIN" : 752
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4044,
+            "BEGIN" : 4040
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1937,
+            "BEGIN" : 1933
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3587,
+            "BEGIN" : 3583
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1937,
+            "BEGIN" : 1933
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 756,
+            "BEGIN" : 752
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3587,
+            "BEGIN" : 3583
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4044,
+            "BEGIN" : 4040
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1931,
+            "BEGIN" : 1923
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 3581,
+            "BEGIN" : 3573
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 6.79,
+        "SCORE" : 6675,
+        "NAME" : "Impeachment",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 866,
+            "BEGIN" : 856
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4166,
+            "BEGIN" : 4156
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 552,
+            "BEGIN" : 542
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 291,
+            "BEGIN" : 281
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 552,
+            "BEGIN" : 542
+          }, {
+            "END" : 564,
+            "BEGIN" : 554
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 6.28,
+        "SCORE" : 6170,
+        "NAME" : "Parliament",
+        "RULE" : [ {
+          "SCORE" : 860,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1089,
+            "BEGIN" : 1082
+          }
+        }, {
+          "SCORE" : 860,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1427,
+            "BEGIN" : 1420
+          }
+        }, {
+          "SCORE" : 860,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1615,
+            "BEGIN" : 1608
+          }
+        }, {
+          "SCORE" : 860,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 233,
+            "BEGIN" : 229
+          }
+        }, {
+          "SCORE" : 860,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3235,
+            "BEGIN" : 3228
+          }
+        }, {
+          "SCORE" : 860,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2594,
+            "BEGIN" : 2587
+          }
+        }, {
+          "SCORE" : 860,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2291,
+            "BEGIN" : 2284
+          }
+        }, {
+          "SCORE" : 150,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 251,
+            "BEGIN" : 238
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 4.07,
+        "SCORE" : 4005,
+        "NAME" : "Political Campaigns",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 512,
+            "BEGIN" : 504
+          }, {
+            "END" : 4068,
+            "BEGIN" : 4061
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 192,
+            "BEGIN" : 184
+          }, {
+            "END" : 4068,
+            "BEGIN" : 4061
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 3641,
+            "BEGIN" : 3632
+          }, {
+            "END" : 4068,
+            "BEGIN" : 4061
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 2.37,
+        "SCORE" : 2330,
+        "NAME" : "International Relations",
+        "RULE" : [ {
+          "SCORE" : 940,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3611,
+            "BEGIN" : 3597
+          }
+        }, {
+          "SCORE" : 940,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3932,
+            "BEGIN" : 3918
+          }
+        }, {
+          "SCORE" : 300,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 145,
+            "BEGIN" : 129
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 2.18,
+        "SCORE" : 2145,
+        "NAME" : "National Security",
+        "RULE" : [ {
+          "SCORE" : 810,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 145,
+            "BEGIN" : 129
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 145,
+            "BEGIN" : 129
+          }, {
+            "END" : 1377,
+            "BEGIN" : 1369
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 1.92,
+        "SCORE" : 1890,
+        "NAME" : "Judiciary (System of Justice)",
+        "RULE" : [ {
+          "SCORE" : 750,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4872,
+            "BEGIN" : 4866
+          }
+        }, {
+          "SCORE" : 100,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4805,
+            "BEGIN" : 4803
+          }
+        }, {
+          "SCORE" : 100,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2074,
+            "BEGIN" : 2072
+          }
+        }, {
+          "SCORE" : 100,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4889,
+            "BEGIN" : 4887
+          }
+        }, {
+          "SCORE" : 100,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3869,
+            "BEGIN" : 3866
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2435,
+            "BEGIN" : 2431
+          }
+        }, {
+          "SCORE" : 40,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1103,
+            "BEGIN" : 1097
+          }
+        }, {
+          "SCORE" : 100,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 564,
+            "BEGIN" : 554
+          }
+        }, {
+          "SCORE" : 330,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 564,
+            "BEGIN" : 554
+          }
+        }, {
+          "SCORE" : 200,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4437,
+            "BEGIN" : 4427
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 1.91,
+        "SCORE" : 1880,
+        "NAME" : "War",
+        "RULE" : [ {
+          "SCORE" : 940,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3742,
+            "BEGIN" : 3731
+          }
+        }, {
+          "SCORE" : 940,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3984,
+            "BEGIN" : 3973
+          }
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : {
+        "FREQUENCY" : 1.36,
+        "SCORE" : 1335,
+        "NAME" : "Judicial proceedings",
+        "RULE" : {
+          "SCORE" : 1335,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 2193,
+            "BEGIN" : 2184
+          }, {
+            "END" : 2209,
+            "BEGIN" : 2199
+          } ]
+        }
+      }
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 0.03,
+        "SCORE" : 26,
+        "NAME" : "Success",
+        "RULE" : [ {
+          "SCORE" : 3,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 760,
+            "BEGIN" : 758
+          }
+        }, {
+          "SCORE" : 3,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 760,
+            "BEGIN" : 758
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 760,
+            "BEGIN" : 758
+          }, {
+            "END" : 3641,
+            "BEGIN" : 3632
+          } ]
+        }, {
+          "SCORE" : 10,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 192,
+            "BEGIN" : 184
+          }, {
+            "END" : 760,
+            "BEGIN" : 758
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 0.02,
+        "SCORE" : 20,
+        "NAME" : "Shame",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2925,
+            "BEGIN" : 2918
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 56,
+            "BEGIN" : 45
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.01,
+        "SCORE" : 13,
+        "NAME" : "Desire",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4051,
+            "BEGIN" : 4046
+          }
+        }, {
+          "SCORE" : 3,
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1293,
+            "BEGIN" : 1290
+          }
+        } ]
+      } ]
+    } ],
+    "PEOPLE" : {
+      "FEATURE" : "LIST",
+      "PERSON" : [ {
+        "BASE" : "Joe Biden",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 3669,
+            "END" : 3677
+          }, {
+            "BEGIN" : 3817,
+            "END" : 3821
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 1,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Biden",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Joe",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Biden",
+          "NAME" : "SURNAME"
+        } ]
+      }, {
+        "BASE" : "Stan",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2630,
+            "END" : 2633
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 2,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Stan",
+          "NAME" : "NAME"
+        } ]
+      }, {
+        "BASE" : "Adam Schiff",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 1155,
+            "END" : 1165
+          }, {
+            "BEGIN" : 1193,
+            "END" : 1194
+          }, {
+            "BEGIN" : 1888,
+            "END" : 1889
+          }, {
+            "BEGIN" : 2040,
+            "END" : 2041
+          }, {
+            "BEGIN" : 2105,
+            "END" : 2107
+          }, {
+            "BEGIN" : 3498,
+            "END" : 3500
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 3,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Adam",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Schiff",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "chairman/House Intelligence Committee",
+          "NAME" : "humanrole"
+        } ]
+      }, {
+        "BASE" : "Liam",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1024,
+            "END" : 1027
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 4,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Liam",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "attorney general",
+          "NAME" : "humanrole"
+        } ]
+      }, {
+        "BASE" : "Nancy Pelosi",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 814,
+            "END" : 819
+          }, {
+            "BEGIN" : 905,
+            "END" : 910
+          }, {
+            "BEGIN" : 1894,
+            "END" : 1896
+          }, {
+            "BEGIN" : 2046,
+            "END" : 2048
+          }, {
+            "BEGIN" : 2112,
+            "END" : 2114
+          }, {
+            "BEGIN" : 2637,
+            "END" : 2648
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 5,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Pelosi",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "F",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Nancy",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Pelosi",
+          "NAME" : "SURNAME"
+        } ]
+      }, {
+        "BASE" : "Antonio Delgado",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 670,
+            "END" : 684
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 6,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Antonio",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Delgado",
+          "NAME" : "SURNAME"
+        } ]
+      }, {
+        "BASE" : "Abigail Spann",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 626,
+            "END" : 638
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 7,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "F",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Abigail",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Spann",
+          "NAME" : "SURNAME"
+        } ]
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 752,
+            "END" : 756
+          }, {
+            "BEGIN" : 1933,
+            "END" : 1937
+          }, {
+            "BEGIN" : 3583,
+            "END" : 3587
+          }, {
+            "BEGIN" : 3621,
+            "END" : 3623
+          }, {
+            "BEGIN" : 3657,
+            "END" : 3659
+          }, {
+            "BEGIN" : 3683,
+            "END" : 3695
+          }, {
+            "BEGIN" : 3784,
+            "END" : 3785
+          }, {
+            "BEGIN" : 3835,
+            "END" : 3847
+          }, {
+            "BEGIN" : 4040,
+            "END" : 4044
+          }, {
+            "BEGIN" : 4463,
+            "END" : 4481
+          }, {
+            "BEGIN" : 4750,
+            "END" : 4767
+          }, {
+            "BEGIN" : 4787,
+            "END" : 4788
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 8,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Trump",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Donald",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Trump",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "businessman",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "important person",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president/United States of America",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 5,
+          "LINKED_SYNCON" : [ {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "businessman"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "important person"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "chief executive"
+              }
+            }
+          }, {
+            "NAME" : "Country",
+            "SYNCON" : {
+              "TYPE" : "Proper noun",
+              "LEMMA" : {
+                "TEXT" : "United States of America"
+              }
+            }
+          }, {
+            "NAME" : "Wealth source",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "real estate company"
+              }
+            }
+          } ]
+        },
+        "SENTIMENT" : {
+          "OVERALL" : 3.5
+        }
+      } ]
+    },
+    "ORGANIZATIONS" : {
+      "FEATURE" : "LIST",
+      "ORGANIZATION" : [ {
+        "BASE" : "Judiciary Committee",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 4093,
+            "END" : 4111
+          }, {
+            "BEGIN" : 4223,
+            "END" : 4241
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 9,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "committee",
+          "NAME" : "orgrole"
+        } ]
+      }, {
+        "BASE" : "Club",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2969,
+            "END" : 2972
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 10,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "company",
+          "NAME" : "comrole"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : 5.0
+        }
+      }, {
+        "BASE" : "NBC News",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1353,
+            "END" : 1360
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 11,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "media",
+          "NAME" : "mmdrole"
+        } ]
+      }, {
+        "BASE" : "House Intelligence Committee",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 1120,
+            "END" : 1147
+          }, {
+            "BEGIN" : 1313,
+            "END" : 1330
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 12,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "committee",
+          "NAME" : "orgrole"
+        } ]
+      }, {
+        "BASE" : "White House",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 1388,
+            "END" : 1398
+          }, {
+            "BEGIN" : 2199,
+            "END" : 2209
+          }, {
+            "BEGIN" : 3175,
+            "END" : 3185
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 13,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "government",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "the chief executive department of the US government"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "government"
+              }
+            }
+          }
+        }
+      }, {
+        "BASE" : "Democrats",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 504,
+            "END" : 512
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 14,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "party",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "a political party"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "party"
+              }
+            }
+          }
+        }
+      }, {
+        "BASE" : "Department of Justice",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 981,
+            "END" : 1001
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 15,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "ministry",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "A justice ministry is a ministry or other government agency charged with justice. The ministry is often headed by..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "ministry"
+              }
+            }
+          }
+        }
+      } ]
+    },
+    "PLACES" : {
+      "FEATURE" : "LIST",
+      "PLACE" : [ ]
+    },
+    "TEXTMINING" : [ {
+      "FEATURE" : "DOM_SPECIFIC",
+      "ENTITY" : [ {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 752,
+            "END" : 756
+          }, {
+            "BEGIN" : 1933,
+            "END" : 1937
+          }, {
+            "BEGIN" : 3583,
+            "END" : 3587
+          }, {
+            "BEGIN" : 3621,
+            "END" : 3623
+          }, {
+            "BEGIN" : 3657,
+            "END" : 3659
+          }, {
+            "BEGIN" : 3683,
+            "END" : 3695
+          }, {
+            "BEGIN" : 3784,
+            "END" : 3785
+          }, {
+            "BEGIN" : 3835,
+            "END" : 3847
+          }, {
+            "BEGIN" : 4040,
+            "END" : 4044
+          }, {
+            "BEGIN" : 4463,
+            "END" : 4481
+          }, {
+            "BEGIN" : 4750,
+            "END" : 4767
+          }, {
+            "BEGIN" : 4787,
+            "END" : 4788
+          } ]
+        },
+        "TYPE" : "Most Influential People",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "businessman",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "important person",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      }, {
+        "BASE" : "a little more now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2935,
+            "END" : 2951
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "as soon as this week",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1332,
+            "END" : 1351
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "UNDEFINED",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "by Thursday",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1508,
+            "END" : 1518
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "UNDEFINED",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "just since yesterday morning",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 566,
+            "END" : 593
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "RECENT",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1365,
+            "END" : 1367
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 3564,
+            "END" : 3566
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "on Aug-4",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1783,
+            "END" : 1795
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "today",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 204,
+            "END" : 208
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "RECENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "today",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1114,
+            "END" : 1118
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "today",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2650,
+            "END" : 2654
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "FUTURE",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 752,
+            "END" : 756
+          }, {
+            "BEGIN" : 1933,
+            "END" : 1937
+          }, {
+            "BEGIN" : 3583,
+            "END" : 3587
+          }, {
+            "BEGIN" : 3621,
+            "END" : 3623
+          }, {
+            "BEGIN" : 3657,
+            "END" : 3659
+          }, {
+            "BEGIN" : 3683,
+            "END" : 3695
+          }, {
+            "BEGIN" : 3784,
+            "END" : 3785
+          }, {
+            "BEGIN" : 3835,
+            "END" : 3847
+          }, {
+            "BEGIN" : 4040,
+            "END" : 4044
+          }, {
+            "BEGIN" : 4463,
+            "END" : 4481
+          }, {
+            "BEGIN" : 4750,
+            "END" : 4767
+          }, {
+            "BEGIN" : 4787,
+            "END" : 4788
+          } ]
+        },
+        "TYPE" : "World Leaders",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "head of state",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "president",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "politician",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      }, {
+        "BASE" : "Aug-4",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1786,
+            "END" : 1795
+          }
+        },
+        "TYPE" : "Dates"
+      } ]
+    }, {
+      "FEATURE" : "PLACES_REASONING"
+    }, {
+      "FEATURE" : "INFERENTIAL_ENTITIES",
+      "ENTITY" : {
+        "BASE" : "United States of America",
+        "EVIDENCE" : {
+          "ATTRIBUTE" : "Country",
+          "CUE" : "Donald Trump",
+          "TRACKS" : {
+            "TRACK" : [ {
+              "BEGIN" : 752,
+              "END" : 756
+            }, {
+              "BEGIN" : 1933,
+              "END" : 1937
+            }, {
+              "BEGIN" : 3583,
+              "END" : 3587
+            }, {
+              "BEGIN" : 3621,
+              "END" : 3623
+            }, {
+              "BEGIN" : 3657,
+              "END" : 3659
+            }, {
+              "BEGIN" : 3683,
+              "END" : 3695
+            }, {
+              "BEGIN" : 3784,
+              "END" : 3785
+            }, {
+              "BEGIN" : 3835,
+              "END" : 3847
+            }, {
+              "BEGIN" : 4040,
+              "END" : 4044
+            }, {
+              "BEGIN" : 4463,
+              "END" : 4481
+            }, {
+              "BEGIN" : 4750,
+              "END" : 4767
+            }, {
+              "BEGIN" : 4787,
+              "END" : 4788
+            } ]
+          }
+        }
+      }
+    }, {
+      "FEATURE" : "ENTITIESRELATIONS",
+      "NODES" : {
+        "NODE" : [ ]
+      },
+      "RELATIONS" : {
+        "REL" : [ ]
+      }
+    } ],
+    "TAGGING" : [ {
+      "FEATURE" : "MAINSENTENCES",
+      "RELEVANT" : {
+        "SENTENCE_TEXT" : "the actions of the trump presidency revealed dishonorable fact of the president's betrayal of his oath of office betrayal of our national security and betrayal of the integrity of our elections therefore today I'm announcing the House of Representative in forward with an official impeachment [Music] this is a huge escalation from a speaker that has been very very very reluctant to formally dive into impeachment she has in some ways had very little choice as more than 40 and maybe more congressional Democrats have come out in support of impeachment proceedings just since yesterday morning and that includes members like Abigail Spann burger and ELISA slot kin and Antonio Delgado absolute front line members who flipped Republican districts that Trump won some of the most vulnerable Democrats the ones that Pelosi was worried about protecting in an impeachment inquiry meanwhile the big issue that Pelosi alluded to is that the Trump administration in coordination with the Department of Justice and attorney general Liam bar have been blocking a whistleblower from going to Congress as is legally required today House Intelligence Committee Chair Adam Schiff shared the huge news that he and his staff has been in contact with the whistleblowers Council and the whistleblower would like to speak directly to their committee as soon as this week NBC News is now reporting that the White House does intend to give Congress the whistleblower complaint at least a version of the whistleblowers complaint by Thursday the complaint will reportedly go through a classic eight classification review and then Congress will get it but I mean bottom line here we haven't known about this whistleblowers existence or about this complaint for very long the complaint was reportedly filed on August 4th it's a member of the intelligence community who was reportedly disturbed by something that he or she observed when it came to President Trump in his contact with foreign leaders that whistleblower conveyed that information by the process that he or she was supposed to under law in a way that should protect him or her from retaliation up to and including losing his or her job or being prosecuted the White House then apparently intervened to stop that complaint from being conveyed to Congress that has led to these two twin stories the stymieing of the congressional oversight process including what is supposed to be a sacrosanct legal whistleblower protection regime and whatever it is that so upset that whistleblower in the first place if the whistleblowers complaint is conveyed to Congress because of this announcement from Stan's Nancy Pelosi today both of those matters will make serious progress both in terms of the obstruction and in terms of the content here this is the pattern we see over and over you asked for documents you should get they refuse you subpoena you get something you talk about bringing contempt you get a little more now I think the big Club has been brought out and I started forcing them to agree to provide the transcript and provide the whistleblower and that big club is the club of impeachment I think but for that being brought out the White House would not be relinquish this information Congress might not actually need to do an investigation here I mean they might not really need to figure out much more about whatever has gone wrong here simply because the admitted facts the facts that are not in dispute anymore are the basis for what you didn't pitch him on right I mean it's sort of an in disputed and admitted fact now that President Trump asked a foreign country to help him in his reelection bid by giving him dirt on Joe Biden and the president personally intervened to withhold military aid from that country at the same time that he was making that request about Biden in so doing the president according to the laws of common sense created the impression in that foreign country but they wouldn't get that life-saving military aid from our country unless they coughed up the help that Trump wanted for his campaign when do you expect the Judiciary Committee might be considering potential articles of impeachment I don't have that information but I do expect that the Judiciary Committee is prepared to move very quickly at some point you have to exercise your constitutional authority and utilize the checks and balances system to say look this is a country that has the rule of law and that you can't have your your president colluding the foreign powers and putting pressure on them in return for aid against political rivals at some point you have to do the right thing even if the political calculation isn't necessarily in your favor there are many members of this administration starting with the president who believes that he is above the law and no one in our system of democracy and in our system of justice is above the law including the President of the United States and there must be accountability and consequence for behaviors that are clearly against the law",
+        "SCORE" : 100.0,
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 0,
+            "END" : 5030
+          }
+        }
+      }
+    }, {
+      "FEATURE" : "MAINELEMENTS",
+      "LEMMA" : [ {
+        "LABEL" : "Donald Trump",
+        "SCORE" : 18.0,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 752,
+          "END" : 756
+        }, {
+          "BEGIN" : 1933,
+          "END" : 1937
+        }, {
+          "BEGIN" : 3583,
+          "END" : 3587
+        }, {
+          "BEGIN" : 3621,
+          "END" : 3623
+        }, {
+          "BEGIN" : 3657,
+          "END" : 3659
+        }, {
+          "BEGIN" : 3784,
+          "END" : 3785
+        }, {
+          "BEGIN" : 4040,
+          "END" : 4044
+        }, {
+          "BEGIN" : 4787,
+          "END" : 4788
+        } ]
+      }, {
+        "LABEL" : "president",
+        "SCORE" : 14.8,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 70,
+          "END" : 78
+        }, {
+          "BEGIN" : 1923,
+          "END" : 1931
+        }, {
+          "BEGIN" : 3573,
+          "END" : 3581
+        }, {
+          "BEGIN" : 3687,
+          "END" : 3695
+        }, {
+          "BEGIN" : 3839,
+          "END" : 3847
+        }, {
+          "BEGIN" : 4473,
+          "END" : 4481
+        }, {
+          "BEGIN" : 4759,
+          "END" : 4767
+        } ]
+      }, {
+        "LABEL" : "White House",
+        "SCORE" : 7.2,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1388,
+          "END" : 1398
+        }, {
+          "BEGIN" : 2199,
+          "END" : 2209
+        }, {
+          "BEGIN" : 3175,
+          "END" : 3185
+        } ]
+      }, {
+        "LABEL" : "system",
+        "SCORE" : 6.6,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 2027,
+          "END" : 2033
+        }, {
+          "BEGIN" : 2081,
+          "END" : 2083
+        }, {
+          "BEGIN" : 2377,
+          "END" : 2383
+        }, {
+          "BEGIN" : 4825,
+          "END" : 4830
+        }, {
+          "BEGIN" : 4856,
+          "END" : 4861
+        } ]
+      }, {
+        "LABEL" : "administration",
+        "SCORE" : 5.4,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 941,
+          "END" : 954
+        }, {
+          "BEGIN" : 4726,
+          "END" : 4739
+        } ]
+      }, {
+        "LABEL" : "impeachment",
+        "SCORE" : 4.9,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 281,
+          "END" : 291
+        }, {
+          "BEGIN" : 542,
+          "END" : 552
+        }, {
+          "BEGIN" : 856,
+          "END" : 866
+        }, {
+          "BEGIN" : 4156,
+          "END" : 4166
+        } ]
+      }, {
+        "LABEL" : "military aid",
+        "SCORE" : 4.6,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 3731,
+          "END" : 3742
+        }, {
+          "BEGIN" : 3973,
+          "END" : 3984
+        } ]
+      }, {
+        "LABEL" : "member",
+        "SCORE" : 4.2,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 613,
+          "END" : 619
+        }, {
+          "BEGIN" : 1804,
+          "END" : 1809
+        }, {
+          "BEGIN" : 4710,
+          "END" : 4716
+        } ]
+      }, {
+        "LABEL" : "betrayal",
+        "SCORE" : 3.5,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 82,
+          "END" : 89
+        }, {
+          "BEGIN" : 113,
+          "END" : 120
+        }, {
+          "BEGIN" : 151,
+          "END" : 158
+        } ]
+      }, {
+        "LABEL" : "fact",
+        "SCORE" : 3.4,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 58,
+          "END" : 61
+        }, {
+          "BEGIN" : 3410,
+          "END" : 3414
+        }, {
+          "BEGIN" : 3420,
+          "END" : 3424
+        }, {
+          "BEGIN" : 3559,
+          "END" : 3562
+        } ]
+      }, {
+        "LABEL" : "Nancy Pelosi",
+        "SCORE" : 4.5,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 814,
+          "END" : 819
+        }, {
+          "BEGIN" : 905,
+          "END" : 910
+        }, {
+          "BEGIN" : 1894,
+          "END" : 1896
+        }, {
+          "BEGIN" : 2046,
+          "END" : 2048
+        }, {
+          "BEGIN" : 2112,
+          "END" : 2114
+        }, {
+          "BEGIN" : 2637,
+          "END" : 2648
+        } ]
+      }, {
+        "LABEL" : "Adam Schiff",
+        "SCORE" : 3.5,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 1155,
+          "END" : 1165
+        }, {
+          "BEGIN" : 1193,
+          "END" : 1194
+        }, {
+          "BEGIN" : 1888,
+          "END" : 1889
+        }, {
+          "BEGIN" : 2040,
+          "END" : 2041
+        }, {
+          "BEGIN" : 2105,
+          "END" : 2107
+        }, {
+          "BEGIN" : 3498,
+          "END" : 3500
+        } ]
+      }, {
+        "LABEL" : "Liam",
+        "SCORE" : 2.4,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1024,
+          "END" : 1027
+        }
+      }, {
+        "LABEL" : "Judiciary Committee",
+        "SCORE" : 2.4,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 4093,
+          "END" : 4111
+        }, {
+          "BEGIN" : 4223,
+          "END" : 4241
+        } ]
+      }, {
+        "LABEL" : "president's betrayal",
+        "SCORE" : 6.6,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 70,
+          "END" : 89
+        }
+      }, {
+        "LABEL" : "impeachment inquiry",
+        "SCORE" : 5.7,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 856,
+          "END" : 874
+        }
+      }, {
+        "LABEL" : "trump administration",
+        "SCORE" : 5.4,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 935,
+          "END" : 954
+        }
+      }, {
+        "LABEL" : "balances system",
+        "SCORE" : 3.6,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 4368,
+          "END" : 4382
+        }
+      }, {
+        "LABEL" : "impeachment proceedings",
+        "SCORE" : 3.5,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 542,
+          "END" : 564
+        }
+      } ]
+    } ],
+    "FACTMINING" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "NAME" : "Election",
+        "RULE" : {
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 192,
+            "BEGIN" : 184,
+            "NAME" : "elections"
+          }, {
+            "END" : 512,
+            "BEGIN" : 504,
+            "NAME" : "Democrats"
+          }, {
+            "END" : 3641,
+            "BEGIN" : 3632,
+            "NAME" : "reelection"
+          }, {
+            "END" : 4068,
+            "BEGIN" : 4061,
+            "NAME" : "campaign"
+          } ],
+          "TOPIC" : {
+            "NAME" : "Political Campaigns"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 208,
+            "BEGIN" : 204,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0014",
+            "END" : 512,
+            "BEGIN" : 504,
+            "NAME" : "Democrats",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 593,
+            "BEGIN" : 566,
+            "NAME" : "just since yesterday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 638,
+            "BEGIN" : 626,
+            "NAME" : "Abigail Spann",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 684,
+            "BEGIN" : 670,
+            "NAME" : "Antonio Delgado",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "END" : 819,
+            "BEGIN" : 814,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 910,
+            "BEGIN" : 905,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0015",
+            "END" : 1001,
+            "BEGIN" : 981,
+            "NAME" : "Department of Justice",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0004",
+            "END" : 1027,
+            "BEGIN" : 1024,
+            "NAME" : "Liam",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1118,
+            "BEGIN" : 1114,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0012",
+            "END" : 1147,
+            "BEGIN" : 1120,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1165,
+            "BEGIN" : 1155,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1194,
+            "BEGIN" : 1193,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0012",
+            "END" : 1330,
+            "BEGIN" : 1313,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1351,
+            "BEGIN" : 1332,
+            "NAME" : "as soon as this week",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0011",
+            "END" : 1360,
+            "BEGIN" : 1353,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1367,
+            "BEGIN" : 1365,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0013",
+            "END" : 1398,
+            "BEGIN" : 1388,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1518,
+            "BEGIN" : 1508,
+            "NAME" : "by Thursday",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1795,
+            "BEGIN" : 1783,
+            "NAME" : "on Aug-4",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1795,
+            "BEGIN" : 1786,
+            "NAME" : "Aug-4",
+            "TYPE" : "Dates"
+          }, {
+            "ID" : "0003",
+            "END" : 1889,
+            "BEGIN" : 1888,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 1896,
+            "BEGIN" : 1894,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 2041,
+            "BEGIN" : 2040,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2048,
+            "BEGIN" : 2046,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 2107,
+            "BEGIN" : 2105,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2114,
+            "BEGIN" : 2112,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0013",
+            "END" : 2209,
+            "BEGIN" : 2199,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 2633,
+            "BEGIN" : 2630,
+            "NAME" : "Stan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2648,
+            "BEGIN" : 2637,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2654,
+            "BEGIN" : 2650,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2951,
+            "BEGIN" : 2935,
+            "NAME" : "a little more now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "END" : 2972,
+            "BEGIN" : 2969,
+            "NAME" : "Club",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0013",
+            "END" : 3185,
+            "BEGIN" : 3175,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 3500,
+            "BEGIN" : 3498,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3566,
+            "BEGIN" : 3564,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3677,
+            "BEGIN" : 3669,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3821,
+            "BEGIN" : 3817,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0009",
+            "END" : 4111,
+            "BEGIN" : 4093,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "END" : 4241,
+            "BEGIN" : 4223,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0008",
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }
+      }, {
+        "NAME" : "Defence",
+        "RULE" : {
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 145,
+            "BEGIN" : 129,
+            "NAME" : "national security"
+          }, {
+            "END" : 1377,
+            "BEGIN" : 1369,
+            "NAME" : "reporting"
+          } ],
+          "TOPIC" : {
+            "NAME" : "National Security"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 208,
+            "BEGIN" : 204,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0014",
+            "END" : 512,
+            "BEGIN" : 504,
+            "NAME" : "Democrats",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 593,
+            "BEGIN" : 566,
+            "NAME" : "just since yesterday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 638,
+            "BEGIN" : 626,
+            "NAME" : "Abigail Spann",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 684,
+            "BEGIN" : 670,
+            "NAME" : "Antonio Delgado",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "END" : 819,
+            "BEGIN" : 814,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 910,
+            "BEGIN" : 905,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0015",
+            "END" : 1001,
+            "BEGIN" : 981,
+            "NAME" : "Department of Justice",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0004",
+            "END" : 1027,
+            "BEGIN" : 1024,
+            "NAME" : "Liam",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1118,
+            "BEGIN" : 1114,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0012",
+            "END" : 1147,
+            "BEGIN" : 1120,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1165,
+            "BEGIN" : 1155,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1194,
+            "BEGIN" : 1193,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0012",
+            "END" : 1330,
+            "BEGIN" : 1313,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1351,
+            "BEGIN" : 1332,
+            "NAME" : "as soon as this week",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0011",
+            "END" : 1360,
+            "BEGIN" : 1353,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1367,
+            "BEGIN" : 1365,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0013",
+            "END" : 1398,
+            "BEGIN" : 1388,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1518,
+            "BEGIN" : 1508,
+            "NAME" : "by Thursday",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1795,
+            "BEGIN" : 1783,
+            "NAME" : "on Aug-4",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1795,
+            "BEGIN" : 1786,
+            "NAME" : "Aug-4",
+            "TYPE" : "Dates"
+          }, {
+            "ID" : "0003",
+            "END" : 1889,
+            "BEGIN" : 1888,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 1896,
+            "BEGIN" : 1894,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 2041,
+            "BEGIN" : 2040,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2048,
+            "BEGIN" : 2046,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 2107,
+            "BEGIN" : 2105,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2114,
+            "BEGIN" : 2112,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0013",
+            "END" : 2209,
+            "BEGIN" : 2199,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 2633,
+            "BEGIN" : 2630,
+            "NAME" : "Stan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2648,
+            "BEGIN" : 2637,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2654,
+            "BEGIN" : 2650,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2951,
+            "BEGIN" : 2935,
+            "NAME" : "a little more now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "END" : 2972,
+            "BEGIN" : 2969,
+            "NAME" : "Club",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0013",
+            "END" : 3185,
+            "BEGIN" : 3175,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 3500,
+            "BEGIN" : 3498,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3566,
+            "BEGIN" : 3564,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3677,
+            "BEGIN" : 3669,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3821,
+            "BEGIN" : 3817,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0009",
+            "END" : 4111,
+            "BEGIN" : 4093,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "END" : 4241,
+            "BEGIN" : 4223,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0008",
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }
+      }, {
+        "NAME" : "Judiciary (System of Justice)",
+        "RULE" : {
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 564,
+            "BEGIN" : 554,
+            "NAME" : "proceedings"
+          }, {
+            "END" : 1103,
+            "BEGIN" : 1097,
+            "NAME" : "legally"
+          }, {
+            "END" : 2074,
+            "BEGIN" : 2072,
+            "NAME" : "law"
+          }, {
+            "END" : 2435,
+            "BEGIN" : 2431,
+            "NAME" : "legal"
+          }, {
+            "END" : 3869,
+            "BEGIN" : 3866,
+            "NAME" : "laws"
+          }, {
+            "END" : 4437,
+            "BEGIN" : 4427,
+            "NAME" : "rule of law"
+          }, {
+            "END" : 4805,
+            "BEGIN" : 4803,
+            "NAME" : "law"
+          }, {
+            "END" : 4872,
+            "BEGIN" : 4866,
+            "NAME" : "justice"
+          }, {
+            "END" : 4889,
+            "BEGIN" : 4887,
+            "NAME" : "law"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 208,
+            "BEGIN" : 204,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0014",
+            "END" : 512,
+            "BEGIN" : 504,
+            "NAME" : "Democrats",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 593,
+            "BEGIN" : 566,
+            "NAME" : "just since yesterday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 638,
+            "BEGIN" : 626,
+            "NAME" : "Abigail Spann",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 684,
+            "BEGIN" : 670,
+            "NAME" : "Antonio Delgado",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "END" : 819,
+            "BEGIN" : 814,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 910,
+            "BEGIN" : 905,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0015",
+            "END" : 1001,
+            "BEGIN" : 981,
+            "NAME" : "Department of Justice",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0004",
+            "END" : 1027,
+            "BEGIN" : 1024,
+            "NAME" : "Liam",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1118,
+            "BEGIN" : 1114,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0012",
+            "END" : 1147,
+            "BEGIN" : 1120,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1165,
+            "BEGIN" : 1155,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1194,
+            "BEGIN" : 1193,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0012",
+            "END" : 1330,
+            "BEGIN" : 1313,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1351,
+            "BEGIN" : 1332,
+            "NAME" : "as soon as this week",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0011",
+            "END" : 1360,
+            "BEGIN" : 1353,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1367,
+            "BEGIN" : 1365,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0013",
+            "END" : 1398,
+            "BEGIN" : 1388,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1518,
+            "BEGIN" : 1508,
+            "NAME" : "by Thursday",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1795,
+            "BEGIN" : 1783,
+            "NAME" : "on Aug-4",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1795,
+            "BEGIN" : 1786,
+            "NAME" : "Aug-4",
+            "TYPE" : "Dates"
+          }, {
+            "ID" : "0003",
+            "END" : 1889,
+            "BEGIN" : 1888,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 1896,
+            "BEGIN" : 1894,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 2041,
+            "BEGIN" : 2040,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2048,
+            "BEGIN" : 2046,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 2107,
+            "BEGIN" : 2105,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2114,
+            "BEGIN" : 2112,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0013",
+            "END" : 2209,
+            "BEGIN" : 2199,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 2633,
+            "BEGIN" : 2630,
+            "NAME" : "Stan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2648,
+            "BEGIN" : 2637,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2654,
+            "BEGIN" : 2650,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2951,
+            "BEGIN" : 2935,
+            "NAME" : "a little more now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "END" : 2972,
+            "BEGIN" : 2969,
+            "NAME" : "Club",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0013",
+            "END" : 3185,
+            "BEGIN" : 3175,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 3500,
+            "BEGIN" : 3498,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3566,
+            "BEGIN" : 3564,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3677,
+            "BEGIN" : 3669,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3821,
+            "BEGIN" : 3817,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0009",
+            "END" : 4111,
+            "BEGIN" : 4093,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "END" : 4241,
+            "BEGIN" : 4223,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0008",
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }
+      }, {
+        "NAME" : "War",
+        "RULE" : {
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 3742,
+            "BEGIN" : 3731,
+            "NAME" : "military aid"
+          }, {
+            "END" : 3984,
+            "BEGIN" : 3973,
+            "NAME" : "military aid"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 208,
+            "BEGIN" : 204,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0014",
+            "END" : 512,
+            "BEGIN" : 504,
+            "NAME" : "Democrats",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 593,
+            "BEGIN" : 566,
+            "NAME" : "just since yesterday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 638,
+            "BEGIN" : 626,
+            "NAME" : "Abigail Spann",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 684,
+            "BEGIN" : 670,
+            "NAME" : "Antonio Delgado",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "END" : 819,
+            "BEGIN" : 814,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 910,
+            "BEGIN" : 905,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0015",
+            "END" : 1001,
+            "BEGIN" : 981,
+            "NAME" : "Department of Justice",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0004",
+            "END" : 1027,
+            "BEGIN" : 1024,
+            "NAME" : "Liam",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1118,
+            "BEGIN" : 1114,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0012",
+            "END" : 1147,
+            "BEGIN" : 1120,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1165,
+            "BEGIN" : 1155,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1194,
+            "BEGIN" : 1193,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0012",
+            "END" : 1330,
+            "BEGIN" : 1313,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1351,
+            "BEGIN" : 1332,
+            "NAME" : "as soon as this week",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0011",
+            "END" : 1360,
+            "BEGIN" : 1353,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1367,
+            "BEGIN" : 1365,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0013",
+            "END" : 1398,
+            "BEGIN" : 1388,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1518,
+            "BEGIN" : 1508,
+            "NAME" : "by Thursday",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1795,
+            "BEGIN" : 1783,
+            "NAME" : "on Aug-4",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1795,
+            "BEGIN" : 1786,
+            "NAME" : "Aug-4",
+            "TYPE" : "Dates"
+          }, {
+            "ID" : "0003",
+            "END" : 1889,
+            "BEGIN" : 1888,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 1896,
+            "BEGIN" : 1894,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 2041,
+            "BEGIN" : 2040,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2048,
+            "BEGIN" : 2046,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 2107,
+            "BEGIN" : 2105,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2114,
+            "BEGIN" : 2112,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0013",
+            "END" : 2209,
+            "BEGIN" : 2199,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 2633,
+            "BEGIN" : 2630,
+            "NAME" : "Stan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2648,
+            "BEGIN" : 2637,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2654,
+            "BEGIN" : 2650,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2951,
+            "BEGIN" : 2935,
+            "NAME" : "a little more now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "END" : 2972,
+            "BEGIN" : 2969,
+            "NAME" : "Club",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0013",
+            "END" : 3185,
+            "BEGIN" : 3175,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 3500,
+            "BEGIN" : 3498,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3566,
+            "BEGIN" : 3564,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3677,
+            "BEGIN" : 3669,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3821,
+            "BEGIN" : 3817,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0009",
+            "END" : 4111,
+            "BEGIN" : 4093,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "END" : 4241,
+            "BEGIN" : 4223,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0008",
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : {
+        "NAME" : "Investigations, inquiries and legal proceedings",
+        "RULE" : {
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 2193,
+            "BEGIN" : 2184,
+            "NAME" : "prosecuted"
+          }, {
+            "END" : 2209,
+            "BEGIN" : 2199,
+            "NAME" : "White House"
+          } ],
+          "TOPIC" : {
+            "NAME" : "Judicial proceedings"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 208,
+            "BEGIN" : 204,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0014",
+            "END" : 512,
+            "BEGIN" : 504,
+            "NAME" : "Democrats",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 593,
+            "BEGIN" : 566,
+            "NAME" : "just since yesterday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 638,
+            "BEGIN" : 626,
+            "NAME" : "Abigail Spann",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 684,
+            "BEGIN" : 670,
+            "NAME" : "Antonio Delgado",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "END" : 819,
+            "BEGIN" : 814,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 910,
+            "BEGIN" : 905,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0015",
+            "END" : 1001,
+            "BEGIN" : 981,
+            "NAME" : "Department of Justice",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0004",
+            "END" : 1027,
+            "BEGIN" : 1024,
+            "NAME" : "Liam",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1118,
+            "BEGIN" : 1114,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0012",
+            "END" : 1147,
+            "BEGIN" : 1120,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1165,
+            "BEGIN" : 1155,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1194,
+            "BEGIN" : 1193,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0012",
+            "END" : 1330,
+            "BEGIN" : 1313,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1351,
+            "BEGIN" : 1332,
+            "NAME" : "as soon as this week",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0011",
+            "END" : 1360,
+            "BEGIN" : 1353,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1367,
+            "BEGIN" : 1365,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0013",
+            "END" : 1398,
+            "BEGIN" : 1388,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1518,
+            "BEGIN" : 1508,
+            "NAME" : "by Thursday",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1795,
+            "BEGIN" : 1783,
+            "NAME" : "on Aug-4",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1795,
+            "BEGIN" : 1786,
+            "NAME" : "Aug-4",
+            "TYPE" : "Dates"
+          }, {
+            "ID" : "0003",
+            "END" : 1889,
+            "BEGIN" : 1888,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 1896,
+            "BEGIN" : 1894,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 2041,
+            "BEGIN" : 2040,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2048,
+            "BEGIN" : 2046,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 2107,
+            "BEGIN" : 2105,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2114,
+            "BEGIN" : 2112,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0013",
+            "END" : 2209,
+            "BEGIN" : 2199,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 2633,
+            "BEGIN" : 2630,
+            "NAME" : "Stan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2648,
+            "BEGIN" : 2637,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2654,
+            "BEGIN" : 2650,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2951,
+            "BEGIN" : 2935,
+            "NAME" : "a little more now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "END" : 2972,
+            "BEGIN" : 2969,
+            "NAME" : "Club",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0013",
+            "END" : 3185,
+            "BEGIN" : 3175,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 3500,
+            "BEGIN" : 3498,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3566,
+            "BEGIN" : 3564,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3677,
+            "BEGIN" : 3669,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3821,
+            "BEGIN" : 3817,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0009",
+            "END" : 4111,
+            "BEGIN" : 4093,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "END" : 4241,
+            "BEGIN" : 4223,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0008",
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }
+      }
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "NAME" : "Success",
+        "RULE" : {
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 192,
+            "BEGIN" : 184,
+            "NAME" : "elections"
+          }, {
+            "END" : 760,
+            "BEGIN" : 758,
+            "NAME" : "won"
+          }, {
+            "END" : 3641,
+            "BEGIN" : 3632,
+            "NAME" : "reelection"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 208,
+            "BEGIN" : 204,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0014",
+            "END" : 512,
+            "BEGIN" : 504,
+            "NAME" : "Democrats",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 593,
+            "BEGIN" : 566,
+            "NAME" : "just since yesterday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 638,
+            "BEGIN" : 626,
+            "NAME" : "Abigail Spann",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 684,
+            "BEGIN" : 670,
+            "NAME" : "Antonio Delgado",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "END" : 819,
+            "BEGIN" : 814,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 910,
+            "BEGIN" : 905,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0015",
+            "END" : 1001,
+            "BEGIN" : 981,
+            "NAME" : "Department of Justice",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0004",
+            "END" : 1027,
+            "BEGIN" : 1024,
+            "NAME" : "Liam",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1118,
+            "BEGIN" : 1114,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0012",
+            "END" : 1147,
+            "BEGIN" : 1120,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1165,
+            "BEGIN" : 1155,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1194,
+            "BEGIN" : 1193,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0012",
+            "END" : 1330,
+            "BEGIN" : 1313,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1351,
+            "BEGIN" : 1332,
+            "NAME" : "as soon as this week",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0011",
+            "END" : 1360,
+            "BEGIN" : 1353,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1367,
+            "BEGIN" : 1365,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0013",
+            "END" : 1398,
+            "BEGIN" : 1388,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1518,
+            "BEGIN" : 1508,
+            "NAME" : "by Thursday",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1795,
+            "BEGIN" : 1783,
+            "NAME" : "on Aug-4",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1795,
+            "BEGIN" : 1786,
+            "NAME" : "Aug-4",
+            "TYPE" : "Dates"
+          }, {
+            "ID" : "0003",
+            "END" : 1889,
+            "BEGIN" : 1888,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 1896,
+            "BEGIN" : 1894,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 2041,
+            "BEGIN" : 2040,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2048,
+            "BEGIN" : 2046,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 2107,
+            "BEGIN" : 2105,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2114,
+            "BEGIN" : 2112,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0013",
+            "END" : 2209,
+            "BEGIN" : 2199,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 2633,
+            "BEGIN" : 2630,
+            "NAME" : "Stan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2648,
+            "BEGIN" : 2637,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2654,
+            "BEGIN" : 2650,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2951,
+            "BEGIN" : 2935,
+            "NAME" : "a little more now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "END" : 2972,
+            "BEGIN" : 2969,
+            "NAME" : "Club",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0013",
+            "END" : 3185,
+            "BEGIN" : 3175,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 3500,
+            "BEGIN" : 3498,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3566,
+            "BEGIN" : 3564,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3677,
+            "BEGIN" : 3669,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3821,
+            "BEGIN" : 3817,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0009",
+            "END" : 4111,
+            "BEGIN" : 4093,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "END" : 4241,
+            "BEGIN" : 4223,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0008",
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }
+      }, {
+        "NAME" : "Shame",
+        "RULE" : {
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 56,
+            "BEGIN" : 45,
+            "NAME" : "dishonorable"
+          }, {
+            "END" : 2925,
+            "BEGIN" : 2918,
+            "NAME" : "contempt"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 208,
+            "BEGIN" : 204,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0014",
+            "END" : 512,
+            "BEGIN" : 504,
+            "NAME" : "Democrats",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 593,
+            "BEGIN" : 566,
+            "NAME" : "just since yesterday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 638,
+            "BEGIN" : 626,
+            "NAME" : "Abigail Spann",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 684,
+            "BEGIN" : 670,
+            "NAME" : "Antonio Delgado",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "END" : 819,
+            "BEGIN" : 814,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 910,
+            "BEGIN" : 905,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0015",
+            "END" : 1001,
+            "BEGIN" : 981,
+            "NAME" : "Department of Justice",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0004",
+            "END" : 1027,
+            "BEGIN" : 1024,
+            "NAME" : "Liam",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1118,
+            "BEGIN" : 1114,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0012",
+            "END" : 1147,
+            "BEGIN" : 1120,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1165,
+            "BEGIN" : 1155,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1194,
+            "BEGIN" : 1193,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0012",
+            "END" : 1330,
+            "BEGIN" : 1313,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1351,
+            "BEGIN" : 1332,
+            "NAME" : "as soon as this week",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0011",
+            "END" : 1360,
+            "BEGIN" : 1353,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1367,
+            "BEGIN" : 1365,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0013",
+            "END" : 1398,
+            "BEGIN" : 1388,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1518,
+            "BEGIN" : 1508,
+            "NAME" : "by Thursday",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1795,
+            "BEGIN" : 1783,
+            "NAME" : "on Aug-4",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1795,
+            "BEGIN" : 1786,
+            "NAME" : "Aug-4",
+            "TYPE" : "Dates"
+          }, {
+            "ID" : "0003",
+            "END" : 1889,
+            "BEGIN" : 1888,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 1896,
+            "BEGIN" : 1894,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 2041,
+            "BEGIN" : 2040,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2048,
+            "BEGIN" : 2046,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 2107,
+            "BEGIN" : 2105,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2114,
+            "BEGIN" : 2112,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0013",
+            "END" : 2209,
+            "BEGIN" : 2199,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 2633,
+            "BEGIN" : 2630,
+            "NAME" : "Stan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2648,
+            "BEGIN" : 2637,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2654,
+            "BEGIN" : 2650,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2951,
+            "BEGIN" : 2935,
+            "NAME" : "a little more now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "END" : 2972,
+            "BEGIN" : 2969,
+            "NAME" : "Club",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0013",
+            "END" : 3185,
+            "BEGIN" : 3175,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 3500,
+            "BEGIN" : 3498,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3566,
+            "BEGIN" : 3564,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3677,
+            "BEGIN" : 3669,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3821,
+            "BEGIN" : 3817,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0009",
+            "END" : 4111,
+            "BEGIN" : 4093,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "END" : 4241,
+            "BEGIN" : 4223,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0008",
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }
+      }, {
+        "NAME" : "Desire",
+        "RULE" : {
+          "END" : 5030,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1293,
+            "BEGIN" : 1290,
+            "NAME" : "like"
+          }, {
+            "END" : 4051,
+            "BEGIN" : 4046,
+            "NAME" : "wanted"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 208,
+            "BEGIN" : 204,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0014",
+            "END" : 512,
+            "BEGIN" : 504,
+            "NAME" : "Democrats",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 593,
+            "BEGIN" : 566,
+            "NAME" : "just since yesterday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 638,
+            "BEGIN" : 626,
+            "NAME" : "Abigail Spann",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 684,
+            "BEGIN" : 670,
+            "NAME" : "Antonio Delgado",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 756,
+            "BEGIN" : 752,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "END" : 819,
+            "BEGIN" : 814,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 910,
+            "BEGIN" : 905,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0015",
+            "END" : 1001,
+            "BEGIN" : 981,
+            "NAME" : "Department of Justice",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0004",
+            "END" : 1027,
+            "BEGIN" : 1024,
+            "NAME" : "Liam",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1118,
+            "BEGIN" : 1114,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0012",
+            "END" : 1147,
+            "BEGIN" : 1120,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1165,
+            "BEGIN" : 1155,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1194,
+            "BEGIN" : 1193,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0012",
+            "END" : 1330,
+            "BEGIN" : 1313,
+            "NAME" : "House Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1351,
+            "BEGIN" : 1332,
+            "NAME" : "as soon as this week",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0011",
+            "END" : 1360,
+            "BEGIN" : 1353,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1367,
+            "BEGIN" : 1365,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0013",
+            "END" : 1398,
+            "BEGIN" : 1388,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1518,
+            "BEGIN" : 1508,
+            "NAME" : "by Thursday",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1795,
+            "BEGIN" : 1783,
+            "NAME" : "on Aug-4",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1795,
+            "BEGIN" : 1786,
+            "NAME" : "Aug-4",
+            "TYPE" : "Dates"
+          }, {
+            "ID" : "0003",
+            "END" : 1889,
+            "BEGIN" : 1888,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 1896,
+            "BEGIN" : 1894,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1937,
+            "BEGIN" : 1933,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 2041,
+            "BEGIN" : 2040,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2048,
+            "BEGIN" : 2046,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 2107,
+            "BEGIN" : 2105,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2114,
+            "BEGIN" : 2112,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0013",
+            "END" : 2209,
+            "BEGIN" : 2199,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 2633,
+            "BEGIN" : 2630,
+            "NAME" : "Stan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2648,
+            "BEGIN" : 2637,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2654,
+            "BEGIN" : 2650,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2951,
+            "BEGIN" : 2935,
+            "NAME" : "a little more now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "END" : 2972,
+            "BEGIN" : 2969,
+            "NAME" : "Club",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0013",
+            "END" : 3185,
+            "BEGIN" : 3175,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 3500,
+            "BEGIN" : 3498,
+            "NAME" : "Adam Schiff",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3566,
+            "BEGIN" : 3564,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3587,
+            "BEGIN" : 3583,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3623,
+            "BEGIN" : 3621,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3659,
+            "BEGIN" : 3657,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3677,
+            "BEGIN" : 3669,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3695,
+            "BEGIN" : 3683,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3785,
+            "BEGIN" : 3784,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 3821,
+            "BEGIN" : 3817,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0008",
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3847,
+            "BEGIN" : 3835,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4044,
+            "BEGIN" : 4040,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0009",
+            "END" : 4111,
+            "BEGIN" : 4093,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "END" : 4241,
+            "BEGIN" : 4223,
+            "NAME" : "Judiciary Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0008",
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4481,
+            "BEGIN" : 4463,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4767,
+            "BEGIN" : 4750,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4788,
+            "BEGIN" : 4787,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }
+      } ]
+    } ],
+    "WRITEPRINT" : {
+      "FEATURE" : "INDEXES",
+      "READABILITY_INDEX" : {
+        "GRADE_LEVEL" : 15,
+        "EVALUATION" : "LOW",
+        "VALUE" : 0.0
+      },
+      "STYLE_INDEXES" : {
+        "SEMANTIC_INDEXES" : {
+          "DOCUMENT_STRUCTURE" : {
+            "INDEX" : [ {
+              "VALUE" : 1.0,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "N_SENT"
+            }, {
+              "VALUE" : 5031.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "CHAR_PER_SENT"
+            }, {
+              "VALUE" : 806.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "WORD_PER_SENT"
+            } ]
+          },
+          "VOCABULARY_RICHNESS" : {
+            "INDEX" : [ {
+              "VALUE" : 53.76,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "SEMANTIC_RICHNESS"
+            }, {
+              "VALUE" : 61.12,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "DIFFERENT_LEMMA"
+            }, {
+              "VALUE" : 23.36,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "SHORT_WORD"
+            }, {
+              "VALUE" : 7.44,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "HIGH_FREQ"
+            }, {
+              "VALUE" : 5.39,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ADVANCED_WORD"
+            }, {
+              "VALUE" : 1.64,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ACADEMIC_WORD"
+            }, {
+              "VALUE" : 71.19,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "COMMON_WORD"
+            } ]
+          },
+          "GRAMMAR" : {
+            "INDEX" : [ {
+              "VALUE" : 21.46,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_NOU"
+            }, {
+              "VALUE" : 8.93,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADJ"
+            }, {
+              "VALUE" : 14.64,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_VER"
+            }, {
+              "VALUE" : 6.33,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_CON"
+            }, {
+              "VALUE" : 7.94,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADV"
+            }, {
+              "VALUE" : 2.54,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_CONDITIONAL"
+            }, {
+              "VALUE" : 5.93,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ED_FORM"
+            }, {
+              "VALUE" : 2.54,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_FUTURE"
+            }, {
+              "VALUE" : 11.02,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ING_FORM"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PAST_PERFECT"
+            }, {
+              "VALUE" : 5.93,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PRESENT_PERFECT"
+            }, {
+              "VALUE" : 16.1,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PAST"
+            }, {
+              "VALUE" : 43.22,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PRESENT"
+            }, {
+              "VALUE" : 12.71,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_UNDEFINED"
+            } ]
+          },
+          "REGISTER" : {
+            "INDEX" : [ {
+              "VALUE" : 0.5,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_ABBREVIATION"
+            }, {
+              "VALUE" : 0.12,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_FOREIGN"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_LITERARY"
+            }, {
+              "VALUE" : 0.5,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CRIMINAL_ENTERPRISE_SLANG"
+            }, {
+              "VALUE" : 0.99,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CYBER_ILLEGAL_SLANG"
+            }, {
+              "VALUE" : 0.25,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_MILITARY_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_SOCIAL_SLANG"
+            } ]
+          },
+          "CHAINS" : {
+            "CHAIN-INDEX" : [ {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ABOUT_NATURAL_EVENTS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.54,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ILLEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "INCORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "LEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ASSAILMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DISSENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DRUGS_USE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.69,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ECONOMY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_EXISTENCE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FINANCES",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FIRING_A_WEAPON",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERAL_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.54,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_CREATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INFORMATICS_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INVESTIGATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.85,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LAW",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 8.47,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MILITARY_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 8.47,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.85,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT_ON_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_NO_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POLITICS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 4.24,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POSSESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.69,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_PSYCHOLOGICAL_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 6.78,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SHIFT_OF_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 3.39,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SOCIAL_BEHAVIOUR",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TAKING",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.69,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRADE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.85,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRAVEL",
+              "TYPE" : "VER"
+            } ]
+          }
+        }
+      }
+    }
+  }
+}

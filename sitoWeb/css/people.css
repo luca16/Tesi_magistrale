@@ -1,0 +1,54 @@
+.slidecontainer {
+  width: 100%; /* Width of the outside container */
+ 
+  display: flex;
+  
+ 
+ 
+}
+.occ {
+  display: inline-flex;
+  margin-left: 80px;
+  margin-right: 50px;
+  padding: 5px;
+  font-size: large;
+ 
+  
+}
+
+.navmenu{
+  margin-top: 35px;
+  display: flex;
+  place-items: 10px;
+  margin-left: 40px;
+  
+}
+
+.btn {
+  margin-bottom: 5px;
+  margin-right:15px ;
+}
+
+
+.tit{
+  align-items: centers;
+}
+
+
+
+.myText {
+  font-size: 0.8em;
+  fill: black;
+  width: 10%;
+  max-width: 10%;
+  display: block;
+  
+}
+
+
+.title{
+  margin-top: 50px;
+  
+  font-size: 50px;
+}
+

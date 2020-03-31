@@ -1,0 +1,14 @@
+.myText {
+    font-size: 0.8em;
+    fill: black;
+    width: 10%;
+    max-width: 10%;
+    display: block;
+    
+  }
+
+  .title{
+    margin-top: 50px;
+    
+    font-size: 50px;
+}

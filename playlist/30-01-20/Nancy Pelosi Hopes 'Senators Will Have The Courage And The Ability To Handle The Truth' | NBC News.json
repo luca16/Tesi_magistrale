@@ -1,0 +1,1455 @@
+{
+  "RESPONSE" : {
+    "TRANSACTIONS" : {
+      "dailyCount" : "900",
+      "limit" : "1000"
+    },
+    "DOCUMENT" : "we did our job we had a strong case from the Pietschmann of the President of the United States no matter what the Senators have the courage or not to do he will be impeached forever we believe our argument was strong enough for removal but we do believe that there's more truth for the American people to know it is important for them to know not that we think it needed to bolster our case but because we needed to prove to the American people that never should this happen again we are right now prayerful and hopeful that the Senate will have the courage to hear the truth about the president's action and then we'll see what we do next we have a situation I have a situation where again the fate of our nation is riding on how this is resolved it isn't about just one person it's about the precedent that it sets for the future it's not about whether you like Donald Trump or not and I about person it's not personal it's not political it's not partisan it's about patriotism it's about undermining the system of checks and balances and that is what they are doing on the Senate floor and there's in these days I guess they'll go in about one o'clock today how shameful of them I just pray that the senators will have the courage and the ability to handle the truth instead of blocking the truth from themselves in the decision and from the American people\n",
+    "CATEGORIZATION" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 40.61,
+        "SCORE" : 9390,
+        "NAME" : "Politics",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1081,
+            "BEGIN" : 1076
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 938,
+            "BEGIN" : 930
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 534,
+            "BEGIN" : 529
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 121,
+            "BEGIN" : 114
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1210,
+            "BEGIN" : 1203
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 93,
+            "BEGIN" : 64
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 875,
+            "BEGIN" : 864
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 594,
+            "BEGIN" : 586
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 978,
+            "BEGIN" : 969
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 33.95,
+        "SCORE" : 7850,
+        "NAME" : "Upper House",
+        "RULE" : [ {
+          "SCORE" : 810,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 534,
+            "BEGIN" : 529
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1081,
+            "BEGIN" : 1076
+          }
+        }, {
+          "SCORE" : 1780,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 121,
+            "BEGIN" : 114
+          }
+        }, {
+          "SCORE" : 1780,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1210,
+            "BEGIN" : 1203
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 534,
+            "BEGIN" : 529
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1081,
+            "BEGIN" : 1076
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 11.98,
+        "SCORE" : 2770,
+        "NAME" : "Executive (government)",
+        "RULE" : [ {
+          "SCORE" : 50,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 594,
+            "BEGIN" : 586
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 93,
+            "BEGIN" : 64
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 875,
+            "BEGIN" : 864
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 875,
+            "BEGIN" : 864
+          }
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 0.13,
+        "SCORE" : 30,
+        "NAME" : "Courage",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 138,
+            "BEGIN" : 132
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 556,
+            "BEGIN" : 550
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1232,
+            "BEGIN" : 1226
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.04,
+        "SCORE" : 10,
+        "NAME" : "Dissolution",
+        "RULE" : {
+          "SCORE" : 10,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1172,
+            "BEGIN" : 1165
+          }
+        }
+      }, {
+        "FREQUENCY" : 0.04,
+        "SCORE" : 10,
+        "NAME" : "Shame",
+        "RULE" : {
+          "SCORE" : 10,
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1172,
+            "BEGIN" : 1165
+          }
+        }
+      } ]
+    } ],
+    "PEOPLE" : {
+      "FEATURE" : "LIST",
+      "PERSON" : {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 864,
+            "END" : 875
+          }, {
+            "BEGIN" : 890,
+            "END" : 901
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 1,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Donald",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Trump",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "businessman",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "important person",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president/United States of America",
+          "NAME" : "humanrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 5,
+          "LINKED_SYNCON" : [ {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "businessman"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "important person"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "chief executive"
+              }
+            }
+          }, {
+            "NAME" : "Country",
+            "SYNCON" : {
+              "TYPE" : "Proper noun",
+              "LEMMA" : {
+                "TEXT" : "United States of America"
+              }
+            }
+          }, {
+            "NAME" : "Wealth source",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "real estate company"
+              }
+            }
+          } ]
+        }
+      }
+    },
+    "ORGANIZATIONS" : {
+      "FEATURE" : "LIST",
+      "ORGANIZATION" : [ {
+        "BASE" : "Pietschmann",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 45,
+            "END" : 55
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 2,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "institution",
+          "NAME" : "orgrole"
+        } ]
+      }, {
+        "BASE" : "U.S. Senate",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 529,
+            "END" : 534
+          }, {
+            "BEGIN" : 1076,
+            "END" : 1081
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 3,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Senate",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "senate/United States of America",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "the upper house of the US Congress"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "senate"
+              }
+            }
+          }
+        }
+      } ]
+    },
+    "PLACES" : {
+      "FEATURE" : "LIST",
+      "PLACE" : [ ]
+    },
+    "TEXTMINING" : [ {
+      "FEATURE" : "DOM_SPECIFIC",
+      "ENTITY" : [ {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 864,
+            "END" : 875
+          }, {
+            "BEGIN" : 890,
+            "END" : 901
+          } ]
+        },
+        "TYPE" : "Most Influential People",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "businessman",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "important person",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      }, {
+        "BASE" : "about one o'clock today",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1137,
+            "END" : 1159
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "FUTURE",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "in these days",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1101,
+            "END" : 1113
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "RECENT",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 494,
+            "END" : 496
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 864,
+            "END" : 875
+          }, {
+            "BEGIN" : 890,
+            "END" : 901
+          } ]
+        },
+        "TYPE" : "World Leaders",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "head of state",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "president",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "politician",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      }, {
+        "BASE" : "one o'clock",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1143,
+            "END" : 1153
+          }
+        },
+        "TYPE" : "Times"
+      } ]
+    }, {
+      "FEATURE" : "PLACES_REASONING"
+    }, {
+      "FEATURE" : "INFERENTIAL_ENTITIES",
+      "ENTITY" : {
+        "BASE" : "United States of America",
+        "EVIDENCE" : {
+          "ATTRIBUTE" : "Country",
+          "CUE" : "Donald Trump",
+          "TRACKS" : {
+            "TRACK" : [ {
+              "BEGIN" : 864,
+              "END" : 875
+            }, {
+              "BEGIN" : 890,
+              "END" : 901
+            } ]
+          }
+        }
+      }
+    }, {
+      "FEATURE" : "ENTITIESRELATIONS",
+      "NODES" : {
+        "NODE" : [ ]
+      },
+      "RELATIONS" : {
+        "REL" : [ ]
+      }
+    } ],
+    "TAGGING" : [ {
+      "FEATURE" : "MAINSENTENCES",
+      "RELEVANT" : {
+        "SENTENCE_TEXT" : "we did our job we had a strong case from the Pietschmann of the President of the United States no matter what the Senators have the courage or not to do he will be impeached forever we believe our argument was strong enough for removal but we do believe that there's more truth for the American people to know it is important for them to know not that we think it needed to bolster our case but because we needed to prove to the American people that never should this happen again we are right now prayerful and hopeful that the Senate will have the courage to hear the truth about the president's action and then we'll see what we do next we have a situation I have a situation where again the fate of our nation is riding on how this is resolved it isn't about just one person it's about the precedent that it sets for the future it's not about whether you like Donald Trump or not and I about person it's not personal it's not political it's not partisan it's about patriotism it's about undermining the system of checks and balances and that is what they are doing on the Senate floor and there's in these days I guess they'll go in about one o'clock today how shameful of them I just pray that the senators will have the courage and the ability to handle the truth instead of blocking the truth from themselves in the decision and from the American people",
+        "SCORE" : 100.0,
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 0,
+            "END" : 1359
+          }
+        }
+      }
+    }, {
+      "FEATURE" : "MAINELEMENTS",
+      "LEMMA" : [ {
+        "LABEL" : "chief executive",
+        "SCORE" : 12.7,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 64,
+          "END" : 93
+        }, {
+          "BEGIN" : 153,
+          "END" : 154
+        } ]
+      }, {
+        "LABEL" : "senator",
+        "SCORE" : 10.8,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 114,
+          "END" : 121
+        }, {
+          "BEGIN" : 1203,
+          "END" : 1210
+        } ]
+      }, {
+        "LABEL" : "courage",
+        "SCORE" : 10.1,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 132,
+          "END" : 138
+        }, {
+          "BEGIN" : 550,
+          "END" : 556
+        }, {
+          "BEGIN" : 1226,
+          "END" : 1232
+        } ]
+      }, {
+        "LABEL" : "Donald Trump",
+        "SCORE" : 8.8,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 864,
+          "END" : 875
+        }
+      }, {
+        "LABEL" : "U.S. Senate",
+        "SCORE" : 5.9,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 529,
+          "END" : 534
+        }, {
+          "BEGIN" : 1076,
+          "END" : 1081
+        } ]
+      }, {
+        "LABEL" : "dismissal",
+        "SCORE" : 5.7,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 228,
+          "END" : 234
+        }
+      }, {
+        "LABEL" : "accuracy",
+        "SCORE" : 5.4,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1264,
+          "END" : 1268
+        }, {
+          "BEGIN" : 1294,
+          "END" : 1298
+        } ]
+      }, {
+        "LABEL" : "truth",
+        "SCORE" : 4.9,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 272,
+          "END" : 276
+        }, {
+          "BEGIN" : 570,
+          "END" : 574
+        } ]
+      }, {
+        "LABEL" : "argument",
+        "SCORE" : 4.6,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 197,
+          "END" : 204
+        }
+      }, {
+        "LABEL" : "work",
+        "SCORE" : 4.4,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 11,
+          "END" : 13
+        }
+      }, {
+        "LABEL" : "precedent",
+        "SCORE" : 4.3,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 794,
+          "END" : 802
+        }
+      }, {
+        "LABEL" : "situation",
+        "SCORE" : 4.2,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 650,
+          "END" : 658
+        }, {
+          "BEGIN" : 669,
+          "END" : 677
+        } ]
+      }, {
+        "LABEL" : "country",
+        "SCORE" : 4.1,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 707,
+          "END" : 712
+        }
+      }, {
+        "LABEL" : "President of the United States",
+        "SCORE" : 11.5,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 64,
+          "END" : 93
+        }, {
+          "BEGIN" : 153,
+          "END" : 154
+        } ]
+      }, {
+        "LABEL" : "Pietschmann",
+        "SCORE" : 7.7,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 45,
+          "END" : 55
+        }
+      }, {
+        "LABEL" : "removal",
+        "SCORE" : 5.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 228,
+          "END" : 234
+        }
+      }, {
+        "LABEL" : "one o'clock",
+        "SCORE" : 4.4,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1143,
+          "END" : 1153
+        }
+      }, {
+        "LABEL" : "nation",
+        "SCORE" : 3.7,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 707,
+          "END" : 712
+        }
+      }, {
+        "LABEL" : "job",
+        "SCORE" : 3.4,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 11,
+          "END" : 13
+        }
+      }, {
+        "LABEL" : "patriotism",
+        "SCORE" : 1.6,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 969,
+          "END" : 978
+        }
+      }, {
+        "LABEL" : "hopeful",
+        "SCORE" : 1.6,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 512,
+          "END" : 518
+        }
+      }, {
+        "LABEL" : "person",
+        "SCORE" : 1.3,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 772,
+          "END" : 777
+        }, {
+          "BEGIN" : 896,
+          "END" : 901
+        } ]
+      }, {
+        "LABEL" : "ability",
+        "SCORE" : 1.2,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1242,
+          "END" : 1248
+        }
+      }, {
+        "LABEL" : "decision",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1323,
+          "END" : 1330
+        }
+      }, {
+        "LABEL" : "fate",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 695,
+          "END" : 698
+        }
+      }, {
+        "LABEL" : "president",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 586,
+          "END" : 594
+        }
+      }, {
+        "LABEL" : "floor",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1083,
+          "END" : 1087
+        }
+      }, {
+        "LABEL" : "Senate floor",
+        "SCORE" : 53.8,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1076,
+          "END" : 1087
+        }
+      }, {
+        "LABEL" : "Pietschmann of the President of the United States",
+        "SCORE" : 14.8,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 45,
+          "END" : 93
+        }
+      }, {
+        "LABEL" : "have the courage",
+        "SCORE" : 6.8,
+        "TYPE" : "group",
+        "TRACK" : [ {
+          "BEGIN" : 123,
+          "END" : 138
+        }, {
+          "BEGIN" : 541,
+          "END" : 556
+        }, {
+          "BEGIN" : 1217,
+          "END" : 1232
+        } ]
+      }, {
+        "LABEL" : "have a situation",
+        "SCORE" : 2.8,
+        "TYPE" : "group",
+        "TRACK" : [ {
+          "BEGIN" : 643,
+          "END" : 658
+        }, {
+          "BEGIN" : 662,
+          "END" : 677
+        } ]
+      }, {
+        "LABEL" : "go in about one o'clock",
+        "SCORE" : 2.7,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1131,
+          "END" : 1153
+        }
+      } ]
+    } ],
+    "FACTMINING" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "NAME" : "Courage",
+        "RULE" : {
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 138,
+            "BEGIN" : 132,
+            "NAME" : "courage"
+          }, {
+            "END" : 556,
+            "BEGIN" : 550,
+            "NAME" : "courage"
+          }, {
+            "END" : 1232,
+            "BEGIN" : 1226,
+            "NAME" : "courage"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0002",
+            "END" : 55,
+            "BEGIN" : 45,
+            "NAME" : "Pietschmann",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 496,
+            "BEGIN" : 494,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 534,
+            "BEGIN" : 529,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 875,
+            "BEGIN" : 864,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 875,
+            "BEGIN" : 864,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 875,
+            "BEGIN" : 864,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 901,
+            "BEGIN" : 890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 901,
+            "BEGIN" : 890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 901,
+            "BEGIN" : 890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 1081,
+            "BEGIN" : 1076,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1113,
+            "BEGIN" : 1101,
+            "NAME" : "in these days",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1159,
+            "BEGIN" : 1137,
+            "NAME" : "about one o'clock today",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1153,
+            "BEGIN" : 1143,
+            "NAME" : "one o'clock",
+            "TYPE" : "Times"
+          } ]
+        }
+      }, {
+        "NAME" : "Dissolution",
+        "RULE" : {
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1172,
+            "BEGIN" : 1165,
+            "NAME" : "shameful"
+          },
+          "ENTITY" : [ {
+            "ID" : "0002",
+            "END" : 55,
+            "BEGIN" : 45,
+            "NAME" : "Pietschmann",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 496,
+            "BEGIN" : 494,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 534,
+            "BEGIN" : 529,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 875,
+            "BEGIN" : 864,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 875,
+            "BEGIN" : 864,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 875,
+            "BEGIN" : 864,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 901,
+            "BEGIN" : 890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 901,
+            "BEGIN" : 890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 901,
+            "BEGIN" : 890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 1081,
+            "BEGIN" : 1076,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1113,
+            "BEGIN" : 1101,
+            "NAME" : "in these days",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1159,
+            "BEGIN" : 1137,
+            "NAME" : "about one o'clock today",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1153,
+            "BEGIN" : 1143,
+            "NAME" : "one o'clock",
+            "TYPE" : "Times"
+          } ]
+        }
+      }, {
+        "NAME" : "Shame",
+        "RULE" : {
+          "END" : 1359,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1172,
+            "BEGIN" : 1165,
+            "NAME" : "shameful"
+          },
+          "ENTITY" : [ {
+            "ID" : "0002",
+            "END" : 55,
+            "BEGIN" : 45,
+            "NAME" : "Pietschmann",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 496,
+            "BEGIN" : 494,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 534,
+            "BEGIN" : 529,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 875,
+            "BEGIN" : 864,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 875,
+            "BEGIN" : 864,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 875,
+            "BEGIN" : 864,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 901,
+            "BEGIN" : 890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 901,
+            "BEGIN" : 890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 901,
+            "BEGIN" : 890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 1081,
+            "BEGIN" : 1076,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1113,
+            "BEGIN" : 1101,
+            "NAME" : "in these days",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1159,
+            "BEGIN" : 1137,
+            "NAME" : "about one o'clock today",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1153,
+            "BEGIN" : 1143,
+            "NAME" : "one o'clock",
+            "TYPE" : "Times"
+          } ]
+        }
+      } ]
+    } ],
+    "WRITEPRINT" : {
+      "FEATURE" : "INDEXES",
+      "READABILITY_INDEX" : {
+        "GRADE_LEVEL" : 15,
+        "EVALUATION" : "LOW",
+        "VALUE" : 0.0
+      },
+      "STYLE_INDEXES" : {
+        "SEMANTIC_INDEXES" : {
+          "DOCUMENT_STRUCTURE" : {
+            "INDEX" : [ {
+              "VALUE" : 1.0,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "N_SENT"
+            }, {
+              "VALUE" : 1360.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "CHAR_PER_SENT"
+            }, {
+              "VALUE" : 261.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "WORD_PER_SENT"
+            } ]
+          },
+          "VOCABULARY_RICHNESS" : {
+            "INDEX" : [ {
+              "VALUE" : 176.43,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "SEMANTIC_RICHNESS"
+            }, {
+              "VALUE" : 61.42,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "DIFFERENT_LEMMA"
+            }, {
+              "VALUE" : 30.92,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "SHORT_WORD"
+            }, {
+              "VALUE" : 3.33,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "HIGH_FREQ"
+            }, {
+              "VALUE" : 7.87,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ADVANCED_WORD"
+            }, {
+              "VALUE" : 0.79,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ACADEMIC_WORD"
+            }, {
+              "VALUE" : 81.1,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "COMMON_WORD"
+            } ]
+          },
+          "GRAMMAR" : {
+            "INDEX" : [ {
+              "VALUE" : 13.79,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_NOU"
+            }, {
+              "VALUE" : 7.28,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADJ"
+            }, {
+              "VALUE" : 18.39,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_VER"
+            }, {
+              "VALUE" : 8.43,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_CON"
+            }, {
+              "VALUE" : 9.2,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADV"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_CONDITIONAL"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ED_FORM"
+            }, {
+              "VALUE" : 8.33,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_FUTURE"
+            }, {
+              "VALUE" : 4.17,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ING_FORM"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PAST_PERFECT"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PRESENT_PERFECT"
+            }, {
+              "VALUE" : 10.42,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PAST"
+            }, {
+              "VALUE" : 60.42,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PRESENT"
+            }, {
+              "VALUE" : 16.67,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_UNDEFINED"
+            } ]
+          },
+          "REGISTER" : {
+            "INDEX" : [ {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_ABBREVIATION"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_FOREIGN"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_LITERARY"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CRIMINAL_ENTERPRISE_SLANG"
+            }, {
+              "VALUE" : 0.77,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CYBER_ILLEGAL_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_MILITARY_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_SOCIAL_SLANG"
+            } ]
+          },
+          "CHAINS" : {
+            "CHAIN-INDEX" : [ {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ABOUT_NATURAL_EVENTS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ILLEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "INCORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "LEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ASSAILMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DISSENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DRUGS_USE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ECONOMY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_EXISTENCE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FINANCES",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FIRING_A_WEAPON",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERAL_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_CREATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INFORMATICS_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INVESTIGATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LAW",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 6.25,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MILITARY_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT_ON_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_NO_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POLITICS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 12.5,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POSSESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.08,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_PSYCHOLOGICAL_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SHIFT_OF_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SOCIAL_BEHAVIOUR",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TAKING",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRADE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRAVEL",
+              "TYPE" : "VER"
+            } ]
+          }
+        }
+      }
+    }
+  }
+}

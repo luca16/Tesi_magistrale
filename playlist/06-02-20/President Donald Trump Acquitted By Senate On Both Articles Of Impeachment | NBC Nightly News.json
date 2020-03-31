@@ -1,0 +1,3906 @@
+{
+  "RESPONSE" : {
+    "TRANSACTIONS" : {
+      "dailyCount" : "720",
+      "limit" : "1000"
+    },
+    "DOCUMENT" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill\n",
+    "CATEGORIZATION" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 41.95,
+        "SCORE" : 29220,
+        "NAME" : "Politics",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 669,
+            "BEGIN" : 661
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1013,
+            "BEGIN" : 1007
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1026,
+            "BEGIN" : 1017
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1575,
+            "BEGIN" : 1571
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 147,
+            "BEGIN" : 144
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1078,
+            "BEGIN" : 1074
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 727,
+            "BEGIN" : 719
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 43,
+            "BEGIN" : 40
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 967,
+            "BEGIN" : 963
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 507,
+            "BEGIN" : 504
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 362,
+            "BEGIN" : 354
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1287,
+            "BEGIN" : 1275
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 690,
+            "BEGIN" : 682
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 432,
+            "BEGIN" : 416
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 599,
+            "BEGIN" : 591
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 194,
+            "BEGIN" : 186
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 200,
+            "BEGIN" : 196
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 955,
+            "BEGIN" : 947
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 931,
+            "BEGIN" : 924
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 12,
+            "BEGIN" : 4
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1360,
+            "BEGIN" : 1352
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 737,
+            "BEGIN" : 729
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 977,
+            "BEGIN" : 969
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1091,
+            "BEGIN" : 1087
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1035,
+            "BEGIN" : 1028
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1588,
+            "BEGIN" : 1584
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1437,
+            "BEGIN" : 1424
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 10.16,
+        "SCORE" : 7075,
+        "NAME" : "Executive (government)",
+        "RULE" : [ {
+          "SCORE" : 50,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1437,
+            "BEGIN" : 1424
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 12,
+            "BEGIN" : 4
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 362,
+            "BEGIN" : 354
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 194,
+            "BEGIN" : 186
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 955,
+            "BEGIN" : 947
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 690,
+            "BEGIN" : 682
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 599,
+            "BEGIN" : 591
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1360,
+            "BEGIN" : 1352
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 200,
+            "BEGIN" : 196
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 432,
+            "BEGIN" : 416
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 432,
+            "BEGIN" : 416
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 200,
+            "BEGIN" : 196
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 194,
+            "BEGIN" : 186
+          }, {
+            "END" : 200,
+            "BEGIN" : 196
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 6.03,
+        "SCORE" : 4200,
+        "NAME" : "Heads of State",
+        "RULE" : [ {
+          "SCORE" : 600,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 955,
+            "BEGIN" : 947
+          }
+        }, {
+          "SCORE" : 600,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 12,
+            "BEGIN" : 4
+          }
+        }, {
+          "SCORE" : 600,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 362,
+            "BEGIN" : 354
+          }
+        }, {
+          "SCORE" : 600,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 690,
+            "BEGIN" : 682
+          }
+        }, {
+          "SCORE" : 600,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1360,
+            "BEGIN" : 1352
+          }
+        }, {
+          "SCORE" : 600,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 599,
+            "BEGIN" : 591
+          }
+        }, {
+          "SCORE" : 600,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 194,
+            "BEGIN" : 186
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 4.67,
+        "SCORE" : 3250,
+        "NAME" : "Judiciary (System of Justice)",
+        "RULE" : [ {
+          "SCORE" : 940,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 119,
+            "BEGIN" : 111
+          }
+        }, {
+          "SCORE" : 320,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 323,
+            "BEGIN" : 314
+          }
+        }, {
+          "SCORE" : 200,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 585,
+            "BEGIN" : 579
+          }
+        }, {
+          "SCORE" : 250,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 462,
+            "BEGIN" : 454
+          }
+        }, {
+          "SCORE" : 250,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 372,
+            "BEGIN" : 364
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 987,
+            "BEGIN" : 979
+          }
+        }, {
+          "SCORE" : 400,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 477,
+            "BEGIN" : 471
+          }
+        }, {
+          "SCORE" : 30,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 655,
+            "BEGIN" : 645
+          }
+        }, {
+          "SCORE" : 330,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 299,
+            "BEGIN" : 293
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 4.65,
+        "SCORE" : 3240,
+        "NAME" : "Lower House",
+        "RULE" : [ {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 967,
+            "BEGIN" : 963
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 147,
+            "BEGIN" : 144
+          }, {
+            "END" : 967,
+            "BEGIN" : 963
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 507,
+            "BEGIN" : 504
+          }, {
+            "END" : 967,
+            "BEGIN" : 963
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 43,
+            "BEGIN" : 40
+          }, {
+            "END" : 967,
+            "BEGIN" : 963
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 3.14,
+        "SCORE" : 2185,
+        "NAME" : "Crime",
+        "RULE" : [ {
+          "SCORE" : 490,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 119,
+            "BEGIN" : 111
+          }
+        }, {
+          "SCORE" : 410,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 585,
+            "BEGIN" : 579
+          }
+        }, {
+          "SCORE" : 500,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 655,
+            "BEGIN" : 645
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 1.92,
+        "SCORE" : 1335,
+        "NAME" : "Voting",
+        "RULE" : {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 147,
+            "BEGIN" : 144
+          }, {
+            "END" : 967,
+            "BEGIN" : 963
+          } ]
+        }
+      }, {
+        "FREQUENCY" : 1.92,
+        "SCORE" : 1335,
+        "NAME" : "Political Candidates",
+        "RULE" : {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 568,
+            "BEGIN" : 542
+          }, {
+            "END" : 574,
+            "BEGIN" : 570
+          }, {
+            "END" : 1035,
+            "BEGIN" : 1028
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : {
+        "FREQUENCY" : 3.83,
+        "SCORE" : 2670,
+        "NAME" : "Acquittals",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 462,
+            "BEGIN" : 454
+          }, {
+            "END" : 477,
+            "BEGIN" : 471
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 362,
+            "BEGIN" : 354
+          }, {
+            "END" : 372,
+            "BEGIN" : 364
+          } ]
+        } ]
+      }
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : {
+        "FREQUENCY" : 0.05,
+        "SCORE" : 25,
+        "NAME" : "Ukraine",
+        "RULE" : [ {
+          "SCORE" : 15,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 640,
+            "BEGIN" : 634
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 640,
+            "BEGIN" : 634
+          }
+        } ]
+      }
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 0.02,
+        "SCORE" : 13,
+        "NAME" : "Desire",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 137,
+            "BEGIN" : 132
+          }
+        }, {
+          "SCORE" : 3,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 304,
+            "BEGIN" : 301
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.01,
+        "SCORE" : 10,
+        "NAME" : "Nostalgia",
+        "RULE" : {
+          "SCORE" : 10,
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 304,
+            "BEGIN" : 301
+          }
+        }
+      } ]
+    } ],
+    "PEOPLE" : {
+      "FEATURE" : "LIST",
+      "PERSON" : [ {
+        "BASE" : "Hallie Jackson",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1608,
+            "END" : 1621
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 1,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Hallie Jackson",
+          "NAME" : "SURNAME"
+        } ]
+      }, {
+        "BASE" : "Nancy Pelosi",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 1289,
+            "END" : 1300
+          }, {
+            "BEGIN" : 1506,
+            "END" : 1508
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 2,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "F",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Nancy",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Pelosi",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "Speaker",
+          "NAME" : "humanrole"
+        } ]
+      }, {
+        "BASE" : "Manchin",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 757,
+            "END" : 763
+          }, {
+            "BEGIN" : 989,
+            "END" : 991
+          }, {
+            "BEGIN" : 1385,
+            "END" : 1386
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 3,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Manchin",
+          "NAME" : "SURNAME"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : -8.0
+        }
+      }, {
+        "BASE" : "McConnell",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 329,
+            "END" : 337
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 4,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "McConnell",
+          "NAME" : "SURNAME"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : 12.0
+        }
+      }, {
+        "BASE" : "Collins",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 306,
+            "END" : 312
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 5,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Collins",
+          "NAME" : "SURNAME"
+        } ]
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 196,
+            "END" : 200
+          }, {
+            "BEGIN" : 416,
+            "END" : 432
+          }, {
+            "BEGIN" : 441,
+            "END" : 442
+          }, {
+            "BEGIN" : 587,
+            "END" : 599
+          }, {
+            "BEGIN" : 678,
+            "END" : 692
+          }, {
+            "BEGIN" : 943,
+            "END" : 955
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 6,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Donald John Trump",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "Trump",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Donald",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Trump",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "businessman",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "important person",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president/United States of America",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 5,
+          "LINKED_SYNCON" : [ {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "businessman"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "important person"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "chief executive"
+              }
+            }
+          }, {
+            "NAME" : "Country",
+            "SYNCON" : {
+              "TYPE" : "Proper noun",
+              "LEMMA" : {
+                "TEXT" : "United States of America"
+              }
+            }
+          }, {
+            "NAME" : "Wealth source",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "real estate company"
+              }
+            }
+          } ]
+        }
+      } ]
+    },
+    "ORGANIZATIONS" : {
+      "FEATURE" : "LIST",
+      "ORGANIZATION" : [ {
+        "BASE" : "Utah Republican Mitt Romney",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 542,
+            "END" : 568
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 7,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "organization",
+          "NAME" : "orgrole"
+        } ]
+      }, {
+        "BASE" : "US House of Representatives",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 963,
+            "END" : 967
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 8,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "House",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "lower house",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "the lower legislative house of the US Congress"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "lower house"
+              }
+            }
+          }
+        }
+      } ]
+    },
+    "PLACES" : {
+      "FEATURE" : "LIST",
+      "PLACE" : [ {
+        "BASE" : "NBC News Capitol Hill",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1623,
+            "END" : 1643
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 9,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Capitol Hill",
+          "NAME" : "gearole"
+        } ]
+      }, {
+        "BASE" : "Ukraine",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 634,
+            "END" : 640
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 10,
+          "NAME" : "ID"
+        }, {
+          "BASE" : 690791,
+          "NAME" : "GeonamesId"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "unitary state (Europe)"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "unitary state"
+              }
+            }
+          }
+        },
+        "PROP" : [ {
+          "CONTINENT" : "Europe"
+        }, {
+          "COORD" : "49.0/32.0"
+        } ]
+      } ]
+    },
+    "TEXTMINING" : [ {
+      "FEATURE" : "DOM_SPECIFIC",
+      "ENTITY" : [ {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 196,
+            "END" : 200
+          }, {
+            "BEGIN" : 416,
+            "END" : 432
+          }, {
+            "BEGIN" : 441,
+            "END" : 442
+          }, {
+            "BEGIN" : 587,
+            "END" : 599
+          }, {
+            "BEGIN" : 678,
+            "END" : 692
+          }, {
+            "BEGIN" : 943,
+            "END" : 955
+          } ]
+        },
+        "TYPE" : "Most Influential People",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "businessman",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "important person",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      }, {
+        "BASE" : "a half month",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 232,
+            "END" : 243
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 149,
+            "END" : 151
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 804,
+            "END" : 806
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "tomorrow",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 45,
+            "END" : 52
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "FUTURE",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "tonight",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 72,
+            "END" : 78
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "FUTURE",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "tonight",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1590,
+            "END" : 1596
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 196,
+            "END" : 200
+          }, {
+            "BEGIN" : 416,
+            "END" : 432
+          }, {
+            "BEGIN" : 441,
+            "END" : 442
+          }, {
+            "BEGIN" : 587,
+            "END" : 599
+          }, {
+            "BEGIN" : 678,
+            "END" : 692
+          }, {
+            "BEGIN" : 943,
+            "END" : 955
+          } ]
+        },
+        "TYPE" : "World Leaders",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "head of state",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "president",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "politician",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      } ]
+    }, {
+      "FEATURE" : "PLACES_REASONING"
+    }, {
+      "FEATURE" : "INFERENTIAL_ENTITIES",
+      "ENTITY" : {
+        "BASE" : "United States of America",
+        "EVIDENCE" : {
+          "ATTRIBUTE" : "Country",
+          "CUE" : "Donald Trump",
+          "TRACKS" : {
+            "TRACK" : [ {
+              "BEGIN" : 196,
+              "END" : 200
+            }, {
+              "BEGIN" : 416,
+              "END" : 432
+            }, {
+              "BEGIN" : 441,
+              "END" : 442
+            }, {
+              "BEGIN" : 587,
+              "END" : 599
+            }, {
+              "BEGIN" : 678,
+              "END" : 692
+            }, {
+              "BEGIN" : 943,
+              "END" : 955
+            } ]
+          }
+        }
+      }
+    }, {
+      "FEATURE" : "ENTITIESRELATIONS",
+      "NODES" : {
+        "NODE" : [ {
+          "content" : "Manchin",
+          "ID" : 3,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "McConnell",
+          "ID" : 4,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Collins",
+          "ID" : 5,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Donald Trump",
+          "ID" : 6,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Utah Republican Mitt Romney",
+          "ID" : 7,
+          "TYPE" : "ORGANIZATION"
+        }, {
+          "content" : "US House of Representatives",
+          "ID" : 8,
+          "TYPE" : "ORGANIZATION"
+        } ]
+      },
+      "RELATIONS" : {
+        "REL" : [ {
+          "SOURCE" : 5,
+          "TARGET" : 4,
+          "FREQ" : 1,
+          "VERB" : "minute",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 306,
+              "REL_END" : 312
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 329,
+              "REL_END" : 337
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 293,
+              "REL_END" : 299
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          } ]
+        }, {
+          "SOURCE" : 5,
+          "TARGET" : 4,
+          "FREQ" : 1,
+          "VERB" : "say",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 306,
+              "REL_END" : 312
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 329,
+              "REL_END" : 337
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 482,
+              "REL_END" : 485
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          } ]
+        }, {
+          "SOURCE" : 4,
+          "TARGET" : 6,
+          "FREQ" : 2,
+          "VERB" : "say",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 329,
+              "REL_END" : 337
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 416,
+              "REL_END" : 432
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 482,
+              "REL_END" : 485
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          }, {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 329,
+              "REL_END" : 337
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 441,
+              "REL_END" : 442
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 482,
+              "REL_END" : 485
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          } ]
+        }, {
+          "SOURCE" : 5,
+          "TARGET" : 6,
+          "FREQ" : 2,
+          "VERB" : "say",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 306,
+              "REL_END" : 312
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 416,
+              "REL_END" : 432
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 482,
+              "REL_END" : 485
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          }, {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 306,
+              "REL_END" : 312
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 441,
+              "REL_END" : 442
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 482,
+              "REL_END" : 485
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          } ]
+        }, {
+          "SOURCE" : 3,
+          "TARGET" : 8,
+          "FREQ" : 1,
+          "VERB" : "article",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 757,
+              "REL_END" : 763
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 963,
+              "REL_END" : 967
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 881,
+              "REL_END" : 888
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          } ]
+        }, {
+          "SOURCE" : 6,
+          "TARGET" : 7,
+          "FREQ" : 2,
+          "VERB" : "say",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 416,
+              "REL_END" : 432
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 542,
+              "REL_END" : 568
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 482,
+              "REL_END" : 485
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          }, {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 441,
+              "REL_END" : 442
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 542,
+              "REL_END" : 568
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 482,
+              "REL_END" : 485
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          } ]
+        }, {
+          "SOURCE" : 4,
+          "TARGET" : 7,
+          "FREQ" : 1,
+          "VERB" : "say",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 329,
+              "REL_END" : 337
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 542,
+              "REL_END" : 568
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 482,
+              "REL_END" : 485
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          } ]
+        }, {
+          "SOURCE" : 5,
+          "TARGET" : 7,
+          "FREQ" : 1,
+          "VERB" : "say",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 306,
+              "REL_END" : 312
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 542,
+              "REL_END" : 568
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 482,
+              "REL_END" : 485
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          } ]
+        }, {
+          "SOURCE" : 5,
+          "TARGET" : 4,
+          "FREQ" : 1,
+          "NOUN" : "president",
+          "TYPE" : "Social activity",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 306,
+              "REL_END" : 312
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 329,
+              "REL_END" : 337
+            }, {
+              "ELEMENT" : "NOUN",
+              "REL_BEGIN" : 354,
+              "REL_END" : 362
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          } ]
+        }, {
+          "SOURCE" : 8,
+          "TARGET" : 3,
+          "FREQ" : 1,
+          "NOUN" : "senator",
+          "TYPE" : "Social activity",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 963,
+              "REL_END" : 967
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 989,
+              "REL_END" : 991
+            }, {
+              "ELEMENT" : "NOUN",
+              "REL_BEGIN" : 924,
+              "REL_END" : 931
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          } ]
+        }, {
+          "SOURCE" : 3,
+          "TARGET" : 8,
+          "FREQ" : 1,
+          "VERB" : "impeach",
+          "TYPE" : "Social activity",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1643
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 757,
+              "REL_END" : 763
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 963,
+              "REL_END" : 967
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 979,
+              "REL_END" : 987
+            } ],
+            "BASE" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill"
+          } ]
+        } ]
+      }
+    } ],
+    "TAGGING" : [ {
+      "FEATURE" : "MAINSENTENCES",
+      "RELEVANT" : {
+        "SENTENCE_TEXT" : "the president says he will address this vote tomorrow declaring victory tonight but this is not the bipartisan acquittal his allies wanted this vote now closing a chapter that will mark president Trump's legacy forever the four and a half month impeachment saga over in just 22 history-making minutes miss Collins not guilty mr. McConnell not guilty the president acquitted of abusing power and obstructing Congress Donald John Trump be and he is hereby acquitted of the charges in said articles but the vote was not on party lines not after Utah Republican Mitt Romney chose to convict the President on one of the charges pressuring Ukraine to investigate his political rivals the president's purpose was personal and political Democrats stayed united mr. Manchin guilty how damaging is it that this is now not a bipartisan approach was a bipartisan opposition to the impeachment articles themselves it would have taken 67 senators to remove the president after House Democrats impeached him but given the Chamber's Republican majority that always seemed a non-starter the state of our union is stronger than ever before it comes at a moment of bitter partisanship after a State of the Union speech that began with an apparent missed handshake and ended with ripped remarks House Speaker Nancy Pelosi defending her decision to tear up her copy of the President's speech moments after he delivered it Vinson was a man truth vice president pence firing battery and I think it was a new low I wasn't sure if she was ripping up the speech or ripping up the Constitution the state of our union tonight divide it Hallie Jackson NBC News Capitol Hill",
+        "SCORE" : 100.0,
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 0,
+            "END" : 1643
+          }
+        }
+      }
+    }, {
+      "FEATURE" : "MAINELEMENTS",
+      "LEMMA" : [ {
+        "LABEL" : "president",
+        "SCORE" : 17.9,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 4,
+          "END" : 12
+        }, {
+          "BEGIN" : 19,
+          "END" : 20
+        }, {
+          "BEGIN" : 186,
+          "END" : 194
+        }, {
+          "BEGIN" : 354,
+          "END" : 362
+        }, {
+          "BEGIN" : 441,
+          "END" : 442
+        }, {
+          "BEGIN" : 591,
+          "END" : 599
+        }, {
+          "BEGIN" : 682,
+          "END" : 690
+        }, {
+          "BEGIN" : 947,
+          "END" : 955
+        }, {
+          "BEGIN" : 1352,
+          "END" : 1360
+        } ]
+      }, {
+        "LABEL" : "Donald Trump",
+        "SCORE" : 11.7,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 196,
+          "END" : 200
+        }, {
+          "BEGIN" : 416,
+          "END" : 432
+        } ]
+      }, {
+        "LABEL" : "Democrat",
+        "SCORE" : 9.4,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 729,
+          "END" : 737
+        }, {
+          "BEGIN" : 969,
+          "END" : 977
+        } ]
+      }, {
+        "LABEL" : "vote",
+        "SCORE" : 7.5,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 40,
+          "END" : 43
+        }, {
+          "BEGIN" : 144,
+          "END" : 147
+        }, {
+          "BEGIN" : 504,
+          "END" : 507
+        } ]
+      }, {
+        "LABEL" : "speech",
+        "SCORE" : 7.4,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1364,
+          "END" : 1369
+        }, {
+          "BEGIN" : 1529,
+          "END" : 1534
+        } ]
+      }, {
+        "LABEL" : "impeachment",
+        "SCORE" : 5.6,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 245,
+          "END" : 255
+        }
+      }, {
+        "LABEL" : "State of the Union",
+        "SCORE" : 5.0,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1174,
+          "END" : 1191
+        }
+      }, {
+        "LABEL" : "union",
+        "SCORE" : 4.7,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1087,
+          "END" : 1091
+        }, {
+          "BEGIN" : 1584,
+          "END" : 1588
+        } ]
+      }, {
+        "LABEL" : "saga",
+        "SCORE" : 4.6,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 257,
+          "END" : 260
+        }
+      }, {
+        "LABEL" : "pence",
+        "SCORE" : 3.3,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1439,
+          "END" : 1443
+        }
+      }, {
+        "LABEL" : "manner of speaking",
+        "SCORE" : 3.0,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1193,
+          "END" : 1198
+        }
+      }, {
+        "LABEL" : "Manchin",
+        "SCORE" : 4.8,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 757,
+          "END" : 763
+        }, {
+          "BEGIN" : 989,
+          "END" : 991
+        }, {
+          "BEGIN" : 1385,
+          "END" : 1386
+        } ]
+      }, {
+        "LABEL" : "Nancy Pelosi",
+        "SCORE" : 3.9,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 1289,
+          "END" : 1300
+        }, {
+          "BEGIN" : 1506,
+          "END" : 1508
+        } ]
+      }, {
+        "LABEL" : "McConnell",
+        "SCORE" : 3.6,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 329,
+          "END" : 337
+        }
+      }, {
+        "LABEL" : "Collins",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 306,
+          "END" : 312
+        }
+      }, {
+        "LABEL" : "Utah Republican Mitt Romney",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 542,
+          "END" : 568
+        }
+      }, {
+        "LABEL" : "charge",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 471,
+          "END" : 477
+        }, {
+          "BEGIN" : 615,
+          "END" : 621
+        } ]
+      }, {
+        "LABEL" : "legacy",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 204,
+          "END" : 209
+        }
+      }, {
+        "LABEL" : "acquittal",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 111,
+          "END" : 119
+        }
+      }, {
+        "LABEL" : "victory",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 64,
+          "END" : 70
+        }
+      }, {
+        "LABEL" : "making",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 286,
+          "END" : 291
+        }
+      }, {
+        "LABEL" : "chapter",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 163,
+          "END" : 169
+        }
+      }, {
+        "LABEL" : "Hallie Jackson",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1608,
+          "END" : 1621
+        }
+      }, {
+        "LABEL" : "handshake",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1235,
+          "END" : 1243
+        }
+      }, {
+        "LABEL" : "majority",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1028,
+          "END" : 1035
+        }
+      }, {
+        "LABEL" : "Ukraine",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 634,
+          "END" : 640
+        }
+      }, {
+        "LABEL" : "NBC News Capitol Hill",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1623,
+          "END" : 1643
+        }
+      }, {
+        "LABEL" : "partisanship",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1153,
+          "END" : 1164
+        }
+      }, {
+        "LABEL" : "non-starter",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1058,
+          "END" : 1068
+        }
+      }, {
+        "LABEL" : "President's speech moment",
+        "SCORE" : 19.4,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1352,
+          "END" : 1377
+        }
+      }, {
+        "LABEL" : "State of the Union speech",
+        "SCORE" : 15.8,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1174,
+          "END" : 1198
+        }
+      }, {
+        "LABEL" : "House Democrat",
+        "SCORE" : 13.4,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 963,
+          "END" : 977
+        }
+      }, {
+        "LABEL" : "half month impeachment saga",
+        "SCORE" : 11.6,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 234,
+          "END" : 260
+        }
+      }, {
+        "LABEL" : "House Speaker",
+        "SCORE" : 5.3,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1275,
+          "END" : 1287
+        }
+      } ]
+    } ],
+    "FACTMINING" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "NAME" : "Judiciary (System of Justice)",
+        "RULE" : {
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 119,
+            "BEGIN" : 111,
+            "NAME" : "acquittal"
+          }, {
+            "END" : 299,
+            "BEGIN" : 293,
+            "NAME" : "minutes"
+          }, {
+            "END" : 323,
+            "BEGIN" : 314,
+            "NAME" : "not guilty"
+          }, {
+            "END" : 372,
+            "BEGIN" : 364,
+            "NAME" : "acquitted"
+          }, {
+            "END" : 462,
+            "BEGIN" : 454,
+            "NAME" : "acquitted"
+          }, {
+            "END" : 477,
+            "BEGIN" : 471,
+            "NAME" : "charges"
+          }, {
+            "END" : 585,
+            "BEGIN" : 579,
+            "NAME" : "convict"
+          }, {
+            "END" : 655,
+            "BEGIN" : 645,
+            "NAME" : "investigate"
+          }, {
+            "END" : 987,
+            "BEGIN" : 979,
+            "NAME" : "impeached"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 52,
+            "BEGIN" : 45,
+            "NAME" : "tomorrow",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 78,
+            "BEGIN" : 72,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 151,
+            "BEGIN" : 149,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 243,
+            "BEGIN" : 232,
+            "NAME" : "a half month",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 312,
+            "BEGIN" : 306,
+            "NAME" : "Collins",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 337,
+            "BEGIN" : 329,
+            "NAME" : "McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0006",
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0007",
+            "END" : 568,
+            "BEGIN" : 542,
+            "NAME" : "Utah Republican Mitt Romney",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0006",
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 640,
+            "BEGIN" : 634,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0006",
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 763,
+            "BEGIN" : 757,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 806,
+            "BEGIN" : 804,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 967,
+            "BEGIN" : 963,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 991,
+            "BEGIN" : 989,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1300,
+            "BEGIN" : 1289,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1386,
+            "BEGIN" : 1385,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1508,
+            "BEGIN" : 1506,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1596,
+            "BEGIN" : 1590,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1621,
+            "BEGIN" : 1608,
+            "NAME" : "Hallie Jackson",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0009",
+            "END" : 1643,
+            "BEGIN" : 1623,
+            "NAME" : "NBC News Capitol Hill",
+            "TYPE" : "PLACES"
+          } ]
+        }
+      }, {
+        "NAME" : "Crime",
+        "RULE" : {
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 119,
+            "BEGIN" : 111,
+            "NAME" : "acquittal"
+          }, {
+            "END" : 585,
+            "BEGIN" : 579,
+            "NAME" : "convict"
+          }, {
+            "END" : 655,
+            "BEGIN" : 645,
+            "NAME" : "investigate"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 52,
+            "BEGIN" : 45,
+            "NAME" : "tomorrow",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 78,
+            "BEGIN" : 72,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 151,
+            "BEGIN" : 149,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 243,
+            "BEGIN" : 232,
+            "NAME" : "a half month",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 312,
+            "BEGIN" : 306,
+            "NAME" : "Collins",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 337,
+            "BEGIN" : 329,
+            "NAME" : "McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0006",
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0007",
+            "END" : 568,
+            "BEGIN" : 542,
+            "NAME" : "Utah Republican Mitt Romney",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0006",
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 640,
+            "BEGIN" : 634,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0006",
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 763,
+            "BEGIN" : 757,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 806,
+            "BEGIN" : 804,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 967,
+            "BEGIN" : 963,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 991,
+            "BEGIN" : 989,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1300,
+            "BEGIN" : 1289,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1386,
+            "BEGIN" : 1385,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1508,
+            "BEGIN" : 1506,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1596,
+            "BEGIN" : 1590,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1621,
+            "BEGIN" : 1608,
+            "NAME" : "Hallie Jackson",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0009",
+            "END" : 1643,
+            "BEGIN" : 1623,
+            "NAME" : "NBC News Capitol Hill",
+            "TYPE" : "PLACES"
+          } ]
+        }
+      }, {
+        "NAME" : "Election",
+        "RULE" : {
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 147,
+            "BEGIN" : 144,
+            "NAME" : "vote"
+          }, {
+            "END" : 967,
+            "BEGIN" : 963,
+            "NAME" : "House"
+          } ],
+          "TOPIC" : {
+            "NAME" : "Voting"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 52,
+            "BEGIN" : 45,
+            "NAME" : "tomorrow",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 78,
+            "BEGIN" : 72,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 151,
+            "BEGIN" : 149,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 243,
+            "BEGIN" : 232,
+            "NAME" : "a half month",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 312,
+            "BEGIN" : 306,
+            "NAME" : "Collins",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 337,
+            "BEGIN" : 329,
+            "NAME" : "McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0006",
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0007",
+            "END" : 568,
+            "BEGIN" : 542,
+            "NAME" : "Utah Republican Mitt Romney",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0006",
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 640,
+            "BEGIN" : 634,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0006",
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 763,
+            "BEGIN" : 757,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 806,
+            "BEGIN" : 804,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 967,
+            "BEGIN" : 963,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 991,
+            "BEGIN" : 989,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1300,
+            "BEGIN" : 1289,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1386,
+            "BEGIN" : 1385,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1508,
+            "BEGIN" : 1506,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1596,
+            "BEGIN" : 1590,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1621,
+            "BEGIN" : 1608,
+            "NAME" : "Hallie Jackson",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0009",
+            "END" : 1643,
+            "BEGIN" : 1623,
+            "NAME" : "NBC News Capitol Hill",
+            "TYPE" : "PLACES"
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : {
+        "NAME" : "Positive results from investigations and measures",
+        "RULE" : {
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 362,
+            "BEGIN" : 354,
+            "NAME" : "president"
+          }, {
+            "END" : 372,
+            "BEGIN" : 364,
+            "NAME" : "acquitted"
+          }, {
+            "END" : 462,
+            "BEGIN" : 454,
+            "NAME" : "acquitted"
+          }, {
+            "END" : 477,
+            "BEGIN" : 471,
+            "NAME" : "charges"
+          } ],
+          "TOPIC" : {
+            "NAME" : "Acquittals"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 52,
+            "BEGIN" : 45,
+            "NAME" : "tomorrow",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 78,
+            "BEGIN" : 72,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 151,
+            "BEGIN" : 149,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 243,
+            "BEGIN" : 232,
+            "NAME" : "a half month",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 312,
+            "BEGIN" : 306,
+            "NAME" : "Collins",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 337,
+            "BEGIN" : 329,
+            "NAME" : "McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0006",
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0007",
+            "END" : 568,
+            "BEGIN" : 542,
+            "NAME" : "Utah Republican Mitt Romney",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0006",
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 640,
+            "BEGIN" : 634,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0006",
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 763,
+            "BEGIN" : 757,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 806,
+            "BEGIN" : 804,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 967,
+            "BEGIN" : 963,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 991,
+            "BEGIN" : 989,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1300,
+            "BEGIN" : 1289,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1386,
+            "BEGIN" : 1385,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1508,
+            "BEGIN" : 1506,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1596,
+            "BEGIN" : 1590,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1621,
+            "BEGIN" : 1608,
+            "NAME" : "Hallie Jackson",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0009",
+            "END" : 1643,
+            "BEGIN" : 1623,
+            "NAME" : "NBC News Capitol Hill",
+            "TYPE" : "PLACES"
+          } ]
+        }
+      }
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : {
+        "NAME" : "Ukraine",
+        "PROP" : [ {
+          "CONTINENT" : "Europe"
+        }, {
+          "COORD" : "49.0/32.0"
+        } ],
+        "RULE" : {
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 640,
+            "BEGIN" : 634,
+            "NAME" : "Ukraine"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 52,
+            "BEGIN" : 45,
+            "NAME" : "tomorrow",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 78,
+            "BEGIN" : 72,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 151,
+            "BEGIN" : 149,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 243,
+            "BEGIN" : 232,
+            "NAME" : "a half month",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 312,
+            "BEGIN" : 306,
+            "NAME" : "Collins",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 337,
+            "BEGIN" : 329,
+            "NAME" : "McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0006",
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0007",
+            "END" : 568,
+            "BEGIN" : 542,
+            "NAME" : "Utah Republican Mitt Romney",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0006",
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 640,
+            "BEGIN" : 634,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0006",
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 763,
+            "BEGIN" : 757,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 806,
+            "BEGIN" : 804,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 967,
+            "BEGIN" : 963,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 991,
+            "BEGIN" : 989,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1300,
+            "BEGIN" : 1289,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1386,
+            "BEGIN" : 1385,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1508,
+            "BEGIN" : 1506,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1596,
+            "BEGIN" : 1590,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1621,
+            "BEGIN" : 1608,
+            "NAME" : "Hallie Jackson",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0009",
+            "END" : 1643,
+            "BEGIN" : 1623,
+            "NAME" : "NBC News Capitol Hill",
+            "TYPE" : "PLACES"
+          } ]
+        }
+      }
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "NAME" : "Desire",
+        "RULE" : {
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 137,
+            "BEGIN" : 132,
+            "NAME" : "wanted"
+          }, {
+            "END" : 304,
+            "BEGIN" : 301,
+            "NAME" : "miss"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 52,
+            "BEGIN" : 45,
+            "NAME" : "tomorrow",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 78,
+            "BEGIN" : 72,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 151,
+            "BEGIN" : 149,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 243,
+            "BEGIN" : 232,
+            "NAME" : "a half month",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 312,
+            "BEGIN" : 306,
+            "NAME" : "Collins",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 337,
+            "BEGIN" : 329,
+            "NAME" : "McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0006",
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0007",
+            "END" : 568,
+            "BEGIN" : 542,
+            "NAME" : "Utah Republican Mitt Romney",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0006",
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 640,
+            "BEGIN" : 634,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0006",
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 763,
+            "BEGIN" : 757,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 806,
+            "BEGIN" : 804,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 967,
+            "BEGIN" : 963,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 991,
+            "BEGIN" : 989,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1300,
+            "BEGIN" : 1289,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1386,
+            "BEGIN" : 1385,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1508,
+            "BEGIN" : 1506,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1596,
+            "BEGIN" : 1590,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1621,
+            "BEGIN" : 1608,
+            "NAME" : "Hallie Jackson",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0009",
+            "END" : 1643,
+            "BEGIN" : 1623,
+            "NAME" : "NBC News Capitol Hill",
+            "TYPE" : "PLACES"
+          } ]
+        }
+      }, {
+        "NAME" : "Nostalgia",
+        "RULE" : {
+          "END" : 1643,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 304,
+            "BEGIN" : 301,
+            "NAME" : "miss"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 52,
+            "BEGIN" : 45,
+            "NAME" : "tomorrow",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 78,
+            "BEGIN" : 72,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 151,
+            "BEGIN" : 149,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 200,
+            "BEGIN" : 196,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 243,
+            "BEGIN" : 232,
+            "NAME" : "a half month",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 312,
+            "BEGIN" : 306,
+            "NAME" : "Collins",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 337,
+            "BEGIN" : 329,
+            "NAME" : "McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 432,
+            "BEGIN" : 416,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0006",
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 442,
+            "BEGIN" : 441,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0007",
+            "END" : 568,
+            "BEGIN" : 542,
+            "NAME" : "Utah Republican Mitt Romney",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0006",
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 599,
+            "BEGIN" : 587,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 640,
+            "BEGIN" : 634,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0006",
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 692,
+            "BEGIN" : 678,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 763,
+            "BEGIN" : 757,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 806,
+            "BEGIN" : 804,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 955,
+            "BEGIN" : 943,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0008",
+            "END" : 967,
+            "BEGIN" : 963,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 991,
+            "BEGIN" : 989,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1300,
+            "BEGIN" : 1289,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1386,
+            "BEGIN" : 1385,
+            "NAME" : "Manchin",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1508,
+            "BEGIN" : 1506,
+            "NAME" : "Nancy Pelosi",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1596,
+            "BEGIN" : 1590,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1621,
+            "BEGIN" : 1608,
+            "NAME" : "Hallie Jackson",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0009",
+            "END" : 1643,
+            "BEGIN" : 1623,
+            "NAME" : "NBC News Capitol Hill",
+            "TYPE" : "PLACES"
+          } ]
+        }
+      } ]
+    } ],
+    "WRITEPRINT" : {
+      "FEATURE" : "INDEXES",
+      "READABILITY_INDEX" : {
+        "GRADE_LEVEL" : 15,
+        "EVALUATION" : "LOW",
+        "VALUE" : 0.0
+      },
+      "STYLE_INDEXES" : {
+        "SEMANTIC_INDEXES" : {
+          "DOCUMENT_STRUCTURE" : {
+            "INDEX" : [ {
+              "VALUE" : 1.0,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "N_SENT"
+            }, {
+              "VALUE" : 1644.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "CHAR_PER_SENT"
+            }, {
+              "VALUE" : 264.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "WORD_PER_SENT"
+            } ]
+          },
+          "VOCABULARY_RICHNESS" : {
+            "INDEX" : [ {
+              "VALUE" : 87.29,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "SEMANTIC_RICHNESS"
+            }, {
+              "VALUE" : 70.51,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "DIFFERENT_LEMMA"
+            }, {
+              "VALUE" : 24.86,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "SHORT_WORD"
+            }, {
+              "VALUE" : 14.48,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "HIGH_FREQ"
+            }, {
+              "VALUE" : 5.77,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ADVANCED_WORD"
+            }, {
+              "VALUE" : 2.56,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ACADEMIC_WORD"
+            }, {
+              "VALUE" : 72.44,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "COMMON_WORD"
+            } ]
+          },
+          "GRAMMAR" : {
+            "INDEX" : [ {
+              "VALUE" : 24.24,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_NOU"
+            }, {
+              "VALUE" : 11.36,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADJ"
+            }, {
+              "VALUE" : 17.05,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_VER"
+            }, {
+              "VALUE" : 6.06,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_CON"
+            }, {
+              "VALUE" : 6.44,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADV"
+            }, {
+              "VALUE" : 2.22,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_CONDITIONAL"
+            }, {
+              "VALUE" : 4.44,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ED_FORM"
+            }, {
+              "VALUE" : 4.44,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_FUTURE"
+            }, {
+              "VALUE" : 17.78,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ING_FORM"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PAST_PERFECT"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PRESENT_PERFECT"
+            }, {
+              "VALUE" : 35.56,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PAST"
+            }, {
+              "VALUE" : 26.67,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PRESENT"
+            }, {
+              "VALUE" : 8.89,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_UNDEFINED"
+            } ]
+          },
+          "REGISTER" : {
+            "INDEX" : [ {
+              "VALUE" : 1.14,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_ABBREVIATION"
+            }, {
+              "VALUE" : 0.38,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_FOREIGN"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_LITERARY"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CRIMINAL_ENTERPRISE_SLANG"
+            }, {
+              "VALUE" : 1.14,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CYBER_ILLEGAL_SLANG"
+            }, {
+              "VALUE" : 0.38,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_MILITARY_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_SOCIAL_SLANG"
+            } ]
+          },
+          "CHAINS" : {
+            "CHAIN-INDEX" : [ {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ABOUT_NATURAL_EVENTS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.22,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ILLEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "INCORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "LEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ASSAILMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DISSENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DRUGS_USE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ECONOMY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_EXISTENCE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FINANCES",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FIRING_A_WEAPON",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERAL_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_CREATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INFORMATICS_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.22,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INVESTIGATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 6.67,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LAW",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 11.11,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MILITARY_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT_ON_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_NO_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POLITICS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POSSESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.22,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_PSYCHOLOGICAL_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SHIFT_OF_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SOCIAL_BEHAVIOUR",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.22,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TAKING",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRADE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRAVEL",
+              "TYPE" : "VER"
+            } ]
+          }
+        }
+      }
+    }
+  }
+}

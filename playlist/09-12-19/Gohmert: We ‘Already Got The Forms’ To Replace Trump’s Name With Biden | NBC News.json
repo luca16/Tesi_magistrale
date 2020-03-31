@@ -1,0 +1,2084 @@
+{
+  "RESPONSE" : {
+    "TRANSACTIONS" : {
+      "dailyCount" : "870",
+      "limit" : "1000"
+    },
+    "DOCUMENT" : "and regarding treason the Constitution itself says you got to have two witnesses and that's that's not hearsay witnesses none of this stuff that wouldn't be admissible in any decent court no that's too direct evidence witnesses that can come in and positively identify themselves not something they overheard or some but actually be witnesses to treason and yet this group comes in here they toss treason out in a report like it's no big deal we can bring in a bunch of hearsay witnesses and then we'll have the lawyers testify and then throw a president out of office this is so absurd it's so absurd now we have witness come in and we're told he's going to be a witness that's why he doesn't have to follow under the rules of decorum and then I've never seen this he gets to come up and grill his opposing adversary witness I feel like to be fair if we were going to make this thing fair mr. Kaster would be able to come up and grill mr. Burke but this isn't about being fair it's not about due process this is about a kangaroo system and let me tell you those that think you've done something special here you have set the bar so low I'm afraid it's irreparable I mean just think we've had people already mentioned you know the next President Joe Biden we're told you know gee he may be the next president well we've already got the forms all we have to do is eliminate Donald Trump's name and put Joe Biden's name in there because he's on video he and his son he basically has admitted to the crime that's being hoisted on the president improperly so I'm scared for my country because I've never seen anything like this this is this is supposed to be the Congress I came up here from a court where we had order and we had rules and I've seen nothing of the kind in here today and outrageous that we're trying to remove a president with a kangaroo court like this out your back chair but if I could just clarify treason is not in our report I just want the gentleman the gentleman yield it back yeah and it is mentioned in the report we got thank you very much gentlemen yielded back hey NBC News viewers thanks for checking out our YouTube channel subscribe by clicking on that button down here and click on any of the videos over here to watch the latest interviews show highlights and digital exclusives thanks for watching\n",
+    "CATEGORIZATION" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 13.97,
+        "SCORE" : 5670,
+        "NAME" : "Tribunal",
+        "RULE" : [ {
+          "SCORE" : 810,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 186,
+            "BEGIN" : 182
+          }, {
+            "END" : 352,
+            "BEGIN" : 346
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 186,
+            "BEGIN" : 182
+          }, {
+            "END" : 403,
+            "BEGIN" : 397
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 20,
+            "BEGIN" : 14
+          }, {
+            "END" : 186,
+            "BEGIN" : 182
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : [ {
+            "END" : 1855,
+            "BEGIN" : 1842
+          }, {
+            "END" : 1921,
+            "BEGIN" : 1915
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : [ {
+            "END" : 1501,
+            "BEGIN" : 1497
+          }, {
+            "END" : 1694,
+            "BEGIN" : 1690
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : [ {
+            "END" : 1694,
+            "BEGIN" : 1690
+          }, {
+            "END" : 1921,
+            "BEGIN" : 1915
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : [ {
+            "END" : 1501,
+            "BEGIN" : 1497
+          }, {
+            "END" : 1855,
+            "BEGIN" : 1842
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 12.12,
+        "SCORE" : 4920,
+        "NAME" : "Crime",
+        "RULE" : [ {
+          "SCORE" : 540,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 352,
+            "BEGIN" : 346
+          }
+        }, {
+          "SCORE" : 540,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 403,
+            "BEGIN" : 397
+          }
+        }, {
+          "SCORE" : 540,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 20,
+            "BEGIN" : 14
+          }
+        }, {
+          "SCORE" : 500,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1501,
+            "BEGIN" : 1497
+          }
+        }, {
+          "SCORE" : 540,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1921,
+            "BEGIN" : 1915
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 11.27,
+        "SCORE" : 4575,
+        "NAME" : "Politics",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1666,
+            "BEGIN" : 1659
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1384,
+            "BEGIN" : 1373
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1244,
+            "BEGIN" : 1236
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1539,
+            "BEGIN" : 1531
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1833,
+            "BEGIN" : 1825
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 6.95,
+        "SCORE" : 2820,
+        "NAME" : "Executive (government)",
+        "RULE" : [ {
+          "SCORE" : 50,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1833,
+            "BEGIN" : 1825
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1244,
+            "BEGIN" : 1236
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1539,
+            "BEGIN" : 1531
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1384,
+            "BEGIN" : 1373
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1384,
+            "BEGIN" : 1373
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 4.47,
+        "SCORE" : 1815,
+        "NAME" : "Judiciary (System of Justice)",
+        "RULE" : [ {
+          "SCORE" : 230,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 186,
+            "BEGIN" : 182
+          }
+        }, {
+          "SCORE" : 160,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 518,
+            "BEGIN" : 512
+          }
+        }, {
+          "SCORE" : 240,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 526,
+            "BEGIN" : 520
+          }
+        }, {
+          "SCORE" : 180,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 79,
+            "BEGIN" : 71
+          }
+        }, {
+          "SCORE" : 180,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 824,
+            "BEGIN" : 818
+          }
+        }, {
+          "SCORE" : 180,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 341,
+            "BEGIN" : 333
+          }
+        }, {
+          "SCORE" : 180,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 670,
+            "BEGIN" : 664
+          }
+        }, {
+          "SCORE" : 180,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 620,
+            "BEGIN" : 614
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1488,
+            "BEGIN" : 1481
+          }
+        }, {
+          "SCORE" : 230,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1694,
+            "BEGIN" : 1690
+          }
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 6.58,
+        "SCORE" : 2670,
+        "NAME" : "Crime reports",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 403,
+            "BEGIN" : 397
+          }, {
+            "END" : 419,
+            "BEGIN" : 414
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : [ {
+            "END" : 1921,
+            "BEGIN" : 1915
+          }, {
+            "END" : 1942,
+            "BEGIN" : 1937
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 3.29,
+        "SCORE" : 1335,
+        "NAME" : "Judicial proceedings",
+        "RULE" : {
+          "SCORE" : 1335,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1003,
+            "BEGIN" : 993
+          }
+        }
+      } ]
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : {
+        "FREQUENCY" : 0.02,
+        "SCORE" : 10,
+        "NAME" : "Desire",
+        "RULE" : {
+          "SCORE" : 10,
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1954,
+            "BEGIN" : 1951
+          }
+        }
+      }
+    } ],
+    "PEOPLE" : {
+      "FEATURE" : "LIST",
+      "PERSON" : [ {
+        "BASE" : "Joe Biden",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 1246,
+            "END" : 1254
+          }, {
+            "BEGIN" : 1280,
+            "END" : 1281
+          }, {
+            "BEGIN" : 1401,
+            "END" : 1409
+          }, {
+            "BEGIN" : 1435,
+            "END" : 1436
+          }, {
+            "BEGIN" : 1449,
+            "END" : 1450
+          }, {
+            "BEGIN" : 1464,
+            "END" : 1465
+          }, {
+            "BEGIN" : 1524,
+            "END" : 1539
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 1,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Joe",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Biden",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        } ]
+      }, {
+        "BASE" : "Kaster",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 894,
+            "END" : 899
+          }, {
+            "BEGIN" : 930,
+            "END" : 937
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 2,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Kaster",
+          "NAME" : "SURNAME"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : 0.5
+        }
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1373,
+            "END" : 1384
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 3,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Donald",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Trump",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "businessman",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "important person",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president/United States of America",
+          "NAME" : "humanrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 5,
+          "LINKED_SYNCON" : [ {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "businessman"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "important person"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "chief executive"
+              }
+            }
+          }, {
+            "NAME" : "Country",
+            "SYNCON" : {
+              "TYPE" : "Proper noun",
+              "LEMMA" : {
+                "TEXT" : "United States of America"
+              }
+            }
+          }, {
+            "NAME" : "Wealth source",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "real estate company"
+              }
+            }
+          } ]
+        }
+      } ]
+    },
+    "ORGANIZATIONS" : {
+      "FEATURE" : "LIST",
+      "ORGANIZATION" : {
+        "BASE" : "NBC News",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2091,
+            "END" : 2098
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 4,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "media",
+          "NAME" : "mmdrole"
+        } ]
+      }
+    },
+    "PLACES" : {
+      "FEATURE" : "LIST",
+      "PLACE" : [ ]
+    },
+    "TEXTMINING" : [ {
+      "FEATURE" : "DOM_SPECIFIC",
+      "ENTITY" : [ {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1373,
+            "END" : 1384
+          }
+        },
+        "TYPE" : "Most Influential People",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "businessman",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "important person",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 602,
+            "END" : 604
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "today",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1774,
+            "END" : 1778
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "RECENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1373,
+            "END" : 1384
+          }
+        },
+        "TYPE" : "World Leaders",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "head of state",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "president",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "politician",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      } ]
+    }, {
+      "FEATURE" : "PLACES_REASONING"
+    }, {
+      "FEATURE" : "INFERENTIAL_ENTITIES",
+      "ENTITY" : {
+        "BASE" : "United States of America",
+        "EVIDENCE" : {
+          "ATTRIBUTE" : "Country",
+          "CUE" : "Donald Trump",
+          "TRACKS" : {
+            "TRACK" : {
+              "BEGIN" : 1373,
+              "END" : 1384
+            }
+          }
+        }
+      }
+    }, {
+      "FEATURE" : "ENTITIESRELATIONS",
+      "NODES" : {
+        "NODE" : [ {
+          "content" : "Joe Biden",
+          "ID" : 1,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Donald Trump",
+          "ID" : 3,
+          "TYPE" : "PERSON"
+        } ]
+      },
+      "RELATIONS" : {
+        "REL" : [ {
+          "SOURCE" : 3,
+          "TARGET" : 1,
+          "FREQ" : 1,
+          "VERB" : "admit",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 940,
+              "END" : 2328
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 433,
+              "REL_END" : 444
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 461,
+              "REL_END" : 469
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 541,
+              "REL_END" : 548
+            } ],
+            "BASE" : "Burke but this isn't about being fair it's not about due process this is about a kangaroo system and let me tell you those that think you've done something special here you have set the bar so low I'm afraid it's irreparable I mean just think we've had people already mentioned you know the next President Joe Biden we're told you know gee he may be the next president well we've already got the forms all we have to do is eliminate Donald Trump's name and put Joe Biden's name in there because he's on video he and his son he basically has admitted to the crime that's being hoisted on the president improperly so I'm scared for my country because I've never seen anything like this this is this is supposed to be the Congress I came up here from a court where we had order and we had rules and I've seen nothing of the kind in here today and outrageous that we're trying to remove a president with a kangaroo court like this out your back chair but if I could just clarify treason is not in our report I just want the gentleman the gentleman yield it back yeah and it is mentioned in the report we got thank you very much gentlemen yielded back hey NBC News viewers thanks for checking out our YouTube channel subscribe by clicking on that button down here and click on any of the videos over here to watch the latest interviews show highlights and digital exclusives thanks for watching"
+          } ]
+        }, {
+          "SOURCE" : 3,
+          "TARGET" : 1,
+          "FREQ" : 1,
+          "NOUN" : "son",
+          "TYPE" : "Family",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 940,
+              "END" : 2328
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 433,
+              "REL_END" : 444
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 524,
+              "REL_END" : 525
+            }, {
+              "ELEMENT" : "NOUN",
+              "REL_BEGIN" : 520,
+              "REL_END" : 522
+            } ],
+            "BASE" : "Burke but this isn't about being fair it's not about due process this is about a kangaroo system and let me tell you those that think you've done something special here you have set the bar so low I'm afraid it's irreparable I mean just think we've had people already mentioned you know the next President Joe Biden we're told you know gee he may be the next president well we've already got the forms all we have to do is eliminate Donald Trump's name and put Joe Biden's name in there because he's on video he and his son he basically has admitted to the crime that's being hoisted on the president improperly so I'm scared for my country because I've never seen anything like this this is this is supposed to be the Congress I came up here from a court where we had order and we had rules and I've seen nothing of the kind in here today and outrageous that we're trying to remove a president with a kangaroo court like this out your back chair but if I could just clarify treason is not in our report I just want the gentleman the gentleman yield it back yeah and it is mentioned in the report we got thank you very much gentlemen yielded back hey NBC News viewers thanks for checking out our YouTube channel subscribe by clicking on that button down here and click on any of the videos over here to watch the latest interviews show highlights and digital exclusives thanks for watching"
+          } ]
+        } ]
+      }
+    } ],
+    "TAGGING" : [ {
+      "FEATURE" : "MAINSENTENCES",
+      "RELEVANT" : [ {
+        "SENTENCE_TEXT" : "and regarding treason the Constitution itself says you got to have two witnesses and that's that's not hearsay witnesses none of this stuff that wouldn't be admissible in any decent court no that's too direct evidence witnesses that can come in and positively identify themselves not something they overheard or some but actually be witnesses to treason and yet this group comes in here they toss treason out in a report like it's no big deal we can bring in a bunch of hearsay witnesses and then we'll have the lawyers testify and then throw a president out of office this is so absurd it's so absurd now we have witness come in and we're told he's going to be a witness that's why he doesn't have to follow under the rules of decorum and then I've never seen this he gets to come up and grill his opposing adversary witness I feel like to be fair if we were going to make this thing fair mr. Kaster would be able to come up and grill mr.",
+        "SCORE" : 67.9,
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 0,
+            "END" : 938
+          }
+        }
+      }, {
+        "SENTENCE_TEXT" : "Burke but this isn't about being fair it's not about due process this is about a kangaroo system and let me tell you those that think you've done something special here you have set the bar so low I'm afraid it's irreparable I mean just think we've had people already mentioned you know the next President Joe Biden we're told you know gee he may be the next president well we've already got the forms all we have to do is eliminate Donald Trump's name and put Joe Biden's name in there because he's on video he and his son he basically has admitted to the crime that's being hoisted on the president improperly so I'm scared for my country because I've never seen anything like this this is this is supposed to be the Congress I came up here from a court where we had order and we had rules and I've seen nothing of the kind in here today and outrageous that we're trying to remove a president with a kangaroo court like this out your back chair but if I could just clarify treason is not in our report I just want the gentleman the gentleman yield it back yeah and it is mentioned in the report we got thank you very much gentlemen yielded back hey NBC News viewers thanks for checking out our YouTube channel subscribe by clicking on that button down here and click on any of the videos over here to watch the latest interviews show highlights and digital exclusives thanks for watching",
+        "SCORE" : 32.0,
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 940,
+            "END" : 2328
+          }
+        }
+      } ]
+    }, {
+      "FEATURE" : "MAINELEMENTS",
+      "LEMMA" : [ {
+        "LABEL" : "viewer",
+        "SCORE" : 9.3,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 111,
+          "END" : 119
+        }, {
+          "BEGIN" : 218,
+          "END" : 226
+        }, {
+          "BEGIN" : 478,
+          "END" : 486
+        }, {
+          "BEGIN" : 2100,
+          "END" : 2106
+        } ]
+      }, {
+        "LABEL" : "witness",
+        "SCORE" : 9.2,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 71,
+          "END" : 79
+        }, {
+          "BEGIN" : 333,
+          "END" : 341
+        }, {
+          "BEGIN" : 818,
+          "END" : 824
+        } ]
+      }, {
+        "LABEL" : "Mister",
+        "SCORE" : 8.2,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 890,
+          "END" : 892
+        }, {
+          "BEGIN" : 936,
+          "END" : 937
+        } ]
+      }, {
+        "LABEL" : "treason",
+        "SCORE" : 8.0,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 14,
+          "END" : 20
+        }, {
+          "BEGIN" : 346,
+          "END" : 352
+        }, {
+          "BEGIN" : 397,
+          "END" : 403
+        }, {
+          "BEGIN" : 1915,
+          "END" : 1921
+        } ]
+      }, {
+        "LABEL" : "hearsay",
+        "SCORE" : 7.6,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 103,
+          "END" : 109
+        }, {
+          "BEGIN" : 470,
+          "END" : 476
+        } ]
+      }, {
+        "LABEL" : "president",
+        "SCORE" : 7.5,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 545,
+          "END" : 553
+        }
+      }, {
+        "LABEL" : "gentleman",
+        "SCORE" : 7.0,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1960,
+          "END" : 1968
+        }, {
+          "BEGIN" : 1974,
+          "END" : 1982
+        }, {
+          "BEGIN" : 2064,
+          "END" : 2072
+        } ]
+      }, {
+        "LABEL" : "Donald Trump",
+        "SCORE" : 6.4,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1373,
+          "END" : 1384
+        }
+      }, {
+        "LABEL" : "thanks",
+        "SCORE" : 4.2,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 2108,
+          "END" : 2113
+        }, {
+          "BEGIN" : 2310,
+          "END" : 2315
+        } ]
+      }, {
+        "LABEL" : "court",
+        "SCORE" : 3.7,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 182,
+          "END" : 186
+        }, {
+          "BEGIN" : 1690,
+          "END" : 1694
+        } ]
+      }, {
+        "LABEL" : "kangaroo court",
+        "SCORE" : 3.3,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1842,
+          "END" : 1855
+        }
+      }, {
+        "LABEL" : "lawyer",
+        "SCORE" : 3.1,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 512,
+          "END" : 518
+        }
+      }, {
+        "LABEL" : "Joe Biden",
+        "SCORE" : 6.1,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 1246,
+          "END" : 1254
+        }, {
+          "BEGIN" : 1280,
+          "END" : 1281
+        }, {
+          "BEGIN" : 1401,
+          "END" : 1409
+        }, {
+          "BEGIN" : 1435,
+          "END" : 1436
+        }, {
+          "BEGIN" : 1449,
+          "END" : 1450
+        }, {
+          "BEGIN" : 1464,
+          "END" : 1465
+        } ]
+      }, {
+        "LABEL" : "Kaster",
+        "SCORE" : 5.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 894,
+          "END" : 899
+        }
+      }, {
+        "LABEL" : "mister",
+        "SCORE" : 5.4,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 936,
+          "END" : 937
+        }
+      }, {
+        "LABEL" : "fair",
+        "SCORE" : 2.1,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 844,
+          "END" : 847
+        }, {
+          "BEGIN" : 885,
+          "END" : 888
+        }, {
+          "BEGIN" : 973,
+          "END" : 976
+        } ]
+      }, {
+        "LABEL" : "interview",
+        "SCORE" : 1.1,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 2260,
+          "END" : 2269
+        }
+      }, {
+        "LABEL" : "kangaroo",
+        "SCORE" : 1.1,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1021,
+          "END" : 1028
+        }
+      }, {
+        "LABEL" : "video",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 1443,
+          "END" : 1447
+        }, {
+          "BEGIN" : 2223,
+          "END" : 2228
+        } ]
+      }, {
+        "LABEL" : "bunch",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 461,
+          "END" : 465
+        }
+      }, {
+        "LABEL" : "due process",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 993,
+          "END" : 1003
+        }
+      }, {
+        "LABEL" : "report",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 414,
+          "END" : 419
+        }, {
+          "BEGIN" : 1937,
+          "END" : 1942
+        }, {
+          "BEGIN" : 2030,
+          "END" : 2035
+        } ]
+      }, {
+        "LABEL" : "grill",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 789,
+          "END" : 793
+        }, {
+          "BEGIN" : 930,
+          "END" : 934
+        } ]
+      }, {
+        "LABEL" : "big deal",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 434,
+          "END" : 441
+        }
+      }, {
+        "LABEL" : "youtube",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 2136,
+          "END" : 2142
+        }
+      }, {
+        "LABEL" : "direct evidence",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 202,
+          "END" : 216
+        }
+      }, {
+        "LABEL" : "crime",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1497,
+          "END" : 1501
+        }
+      }, {
+        "LABEL" : "system",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1030,
+          "END" : 1035
+        }
+      }, {
+        "LABEL" : "highlight",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 2276,
+          "END" : 2285
+        }
+      }, {
+        "LABEL" : "being",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 967,
+          "END" : 971
+        }
+      }, {
+        "LABEL" : "NBC News",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 2091,
+          "END" : 2098
+        }
+      }, {
+        "LABEL" : "exclusive",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 2299,
+          "END" : 2308
+        }
+      }, {
+        "LABEL" : "decorum",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 728,
+          "END" : 734
+        }
+      }, {
+        "LABEL" : "hearsay witness",
+        "SCORE" : 16.6,
+        "TYPE" : "group",
+        "TRACK" : [ {
+          "BEGIN" : 103,
+          "END" : 119
+        }, {
+          "BEGIN" : 470,
+          "END" : 486
+        } ]
+      }, {
+        "LABEL" : "direct evidence witness",
+        "SCORE" : 8.0,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 202,
+          "END" : 226
+        }
+      }, {
+        "LABEL" : "regarding treason",
+        "SCORE" : 7.7,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 4,
+          "END" : 20
+        }
+      }, {
+        "LABEL" : "grill mister",
+        "SCORE" : 7.6,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 930,
+          "END" : 937
+        }
+      }, {
+        "LABEL" : "NBC News viewers thanks",
+        "SCORE" : 6.6,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 2091,
+          "END" : 2113
+        }
+      } ]
+    } ],
+    "FACTMINING" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "NAME" : "Tribunal",
+        "RULE" : [ {
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 20,
+            "BEGIN" : 14,
+            "NAME" : "treason"
+          }, {
+            "END" : 186,
+            "BEGIN" : 182,
+            "NAME" : "court"
+          }, {
+            "END" : 352,
+            "BEGIN" : 346,
+            "NAME" : "treason"
+          }, {
+            "END" : 403,
+            "BEGIN" : 397,
+            "NAME" : "treason"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 604,
+            "BEGIN" : 602,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 899,
+            "BEGIN" : 894,
+            "NAME" : "Kaster",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 937,
+            "BEGIN" : 930,
+            "NAME" : "Kaster",
+            "TYPE" : "PEOPLE"
+          } ]
+        }, {
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : [ {
+            "END" : 1501,
+            "BEGIN" : 1497,
+            "NAME" : "crime"
+          }, {
+            "END" : 1694,
+            "BEGIN" : 1690,
+            "NAME" : "court"
+          }, {
+            "END" : 1855,
+            "BEGIN" : 1842,
+            "NAME" : "kangaroo court"
+          }, {
+            "END" : 1921,
+            "BEGIN" : 1915,
+            "NAME" : "treason"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0001",
+            "END" : 1254,
+            "BEGIN" : 1246,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1281,
+            "BEGIN" : 1280,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1409,
+            "BEGIN" : 1401,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1436,
+            "BEGIN" : 1435,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1450,
+            "BEGIN" : 1449,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1465,
+            "BEGIN" : 1464,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1539,
+            "BEGIN" : 1524,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1778,
+            "BEGIN" : 1774,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 2098,
+            "BEGIN" : 2091,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          } ]
+        } ]
+      }, {
+        "NAME" : "Crime",
+        "RULE" : [ {
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 20,
+            "BEGIN" : 14,
+            "NAME" : "treason"
+          }, {
+            "END" : 352,
+            "BEGIN" : 346,
+            "NAME" : "treason"
+          }, {
+            "END" : 403,
+            "BEGIN" : 397,
+            "NAME" : "treason"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 604,
+            "BEGIN" : 602,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 899,
+            "BEGIN" : 894,
+            "NAME" : "Kaster",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 937,
+            "BEGIN" : 930,
+            "NAME" : "Kaster",
+            "TYPE" : "PEOPLE"
+          } ]
+        }, {
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : [ {
+            "END" : 1501,
+            "BEGIN" : 1497,
+            "NAME" : "crime"
+          }, {
+            "END" : 1921,
+            "BEGIN" : 1915,
+            "NAME" : "treason"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0001",
+            "END" : 1254,
+            "BEGIN" : 1246,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1281,
+            "BEGIN" : 1280,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1409,
+            "BEGIN" : 1401,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1436,
+            "BEGIN" : 1435,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1450,
+            "BEGIN" : 1449,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1465,
+            "BEGIN" : 1464,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1539,
+            "BEGIN" : 1524,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1778,
+            "BEGIN" : 1774,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 2098,
+            "BEGIN" : 2091,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          } ]
+        } ]
+      }, {
+        "NAME" : "Judiciary (System of Justice)",
+        "RULE" : [ {
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 79,
+            "BEGIN" : 71,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 186,
+            "BEGIN" : 182,
+            "NAME" : "court"
+          }, {
+            "END" : 341,
+            "BEGIN" : 333,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 518,
+            "BEGIN" : 512,
+            "NAME" : "lawyers"
+          }, {
+            "END" : 526,
+            "BEGIN" : 520,
+            "NAME" : "testify"
+          }, {
+            "END" : 620,
+            "BEGIN" : 614,
+            "NAME" : "witness"
+          }, {
+            "END" : 670,
+            "BEGIN" : 664,
+            "NAME" : "witness"
+          }, {
+            "END" : 824,
+            "BEGIN" : 818,
+            "NAME" : "witness"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 604,
+            "BEGIN" : 602,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 899,
+            "BEGIN" : 894,
+            "NAME" : "Kaster",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 937,
+            "BEGIN" : 930,
+            "NAME" : "Kaster",
+            "TYPE" : "PEOPLE"
+          } ]
+        }, {
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : [ {
+            "END" : 1488,
+            "BEGIN" : 1481,
+            "NAME" : "admitted"
+          }, {
+            "END" : 1694,
+            "BEGIN" : 1690,
+            "NAME" : "court"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0001",
+            "END" : 1254,
+            "BEGIN" : 1246,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1281,
+            "BEGIN" : 1280,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1409,
+            "BEGIN" : 1401,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1436,
+            "BEGIN" : 1435,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1450,
+            "BEGIN" : 1449,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1465,
+            "BEGIN" : 1464,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1539,
+            "BEGIN" : 1524,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1778,
+            "BEGIN" : 1774,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 2098,
+            "BEGIN" : 2091,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          } ]
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : {
+        "NAME" : "Investigations, inquiries and legal proceedings",
+        "RULE" : [ {
+          "END" : 938,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 403,
+            "BEGIN" : 397,
+            "NAME" : "treason"
+          }, {
+            "END" : 419,
+            "BEGIN" : 414,
+            "NAME" : "report"
+          } ],
+          "TOPIC" : {
+            "NAME" : "Crime reports"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 604,
+            "BEGIN" : 602,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 899,
+            "BEGIN" : 894,
+            "NAME" : "Kaster",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 937,
+            "BEGIN" : 930,
+            "NAME" : "Kaster",
+            "TYPE" : "PEOPLE"
+          } ]
+        }, {
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : [ {
+            "END" : 1003,
+            "BEGIN" : 993,
+            "NAME" : "due process"
+          }, {
+            "END" : 1921,
+            "BEGIN" : 1915,
+            "NAME" : "treason"
+          }, {
+            "END" : 1942,
+            "BEGIN" : 1937,
+            "NAME" : "report"
+          } ],
+          "TOPIC" : [ {
+            "NAME" : "Crime reports"
+          }, {
+            "NAME" : "Judicial proceedings"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0001",
+            "END" : 1254,
+            "BEGIN" : 1246,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1281,
+            "BEGIN" : 1280,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1409,
+            "BEGIN" : 1401,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1436,
+            "BEGIN" : 1435,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1450,
+            "BEGIN" : 1449,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1465,
+            "BEGIN" : 1464,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1539,
+            "BEGIN" : 1524,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1778,
+            "BEGIN" : 1774,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 2098,
+            "BEGIN" : 2091,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          } ]
+        } ]
+      }
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : {
+        "NAME" : "Desire",
+        "RULE" : {
+          "END" : 2328,
+          "BEGIN" : 940,
+          "OPERAND" : {
+            "END" : 1954,
+            "BEGIN" : 1951,
+            "NAME" : "want"
+          },
+          "ENTITY" : [ {
+            "ID" : "0001",
+            "END" : 1254,
+            "BEGIN" : 1246,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1281,
+            "BEGIN" : 1280,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1384,
+            "BEGIN" : 1373,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1409,
+            "BEGIN" : 1401,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1436,
+            "BEGIN" : 1435,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1450,
+            "BEGIN" : 1449,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1465,
+            "BEGIN" : 1464,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1539,
+            "BEGIN" : 1524,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1778,
+            "BEGIN" : 1774,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 2098,
+            "BEGIN" : 2091,
+            "NAME" : "NBC News",
+            "TYPE" : "ORGANIZATIONS"
+          } ]
+        }
+      }
+    } ],
+    "WRITEPRINT" : {
+      "FEATURE" : "INDEXES",
+      "READABILITY_INDEX" : {
+        "GRADE_LEVEL" : 15,
+        "EVALUATION" : "LOW",
+        "VALUE" : 0.0
+      },
+      "STYLE_INDEXES" : {
+        "SEMANTIC_INDEXES" : {
+          "DOCUMENT_STRUCTURE" : {
+            "INDEX" : [ {
+              "VALUE" : 2.0,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "N_SENT"
+            }, {
+              "VALUE" : 1164.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "CHAR_PER_SENT"
+            }, {
+              "VALUE" : 224.5,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "WORD_PER_SENT"
+            } ]
+          },
+          "VOCABULARY_RICHNESS" : {
+            "INDEX" : [ {
+              "VALUE" : 131.26,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "SEMANTIC_RICHNESS"
+            }, {
+              "VALUE" : 57.26,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "DIFFERENT_LEMMA"
+            }, {
+              "VALUE" : 33.57,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "SHORT_WORD"
+            }, {
+              "VALUE" : 6.73,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "HIGH_FREQ"
+            }, {
+              "VALUE" : 3.73,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ADVANCED_WORD"
+            }, {
+              "VALUE" : 2.07,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ACADEMIC_WORD"
+            }, {
+              "VALUE" : 79.67,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "COMMON_WORD"
+            } ]
+          },
+          "GRAMMAR" : {
+            "INDEX" : [ {
+              "VALUE" : 15.59,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_NOU"
+            }, {
+              "VALUE" : 8.46,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADJ"
+            }, {
+              "VALUE" : 19.38,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_VER"
+            }, {
+              "VALUE" : 7.35,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_CON"
+            }, {
+              "VALUE" : 10.24,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADV"
+            }, {
+              "VALUE" : 3.45,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_CONDITIONAL"
+            }, {
+              "VALUE" : 3.45,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ED_FORM"
+            }, {
+              "VALUE" : 1.15,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_FUTURE"
+            }, {
+              "VALUE" : 3.45,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ING_FORM"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PAST_PERFECT"
+            }, {
+              "VALUE" : 10.34,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PRESENT_PERFECT"
+            }, {
+              "VALUE" : 8.05,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PAST"
+            }, {
+              "VALUE" : 57.47,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PRESENT"
+            }, {
+              "VALUE" : 12.64,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_UNDEFINED"
+            } ]
+          },
+          "REGISTER" : {
+            "INDEX" : [ {
+              "VALUE" : 0.22,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_ABBREVIATION"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_FOREIGN"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_LITERARY"
+            }, {
+              "VALUE" : 0.45,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CRIMINAL_ENTERPRISE_SLANG"
+            }, {
+              "VALUE" : 1.56,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CYBER_ILLEGAL_SLANG"
+            }, {
+              "VALUE" : 0.67,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_MILITARY_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_SOCIAL_SLANG"
+            } ]
+          },
+          "CHAINS" : {
+            "CHAIN-INDEX" : [ {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ABOUT_NATURAL_EVENTS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ILLEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "INCORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "LEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ASSAILMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DISSENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DRUGS_USE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.15,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ECONOMY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_EXISTENCE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FINANCES",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FIRING_A_WEAPON",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.15,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERAL_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.3,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_CREATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.15,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INFORMATICS_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INVESTIGATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.15,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LAW",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 8.05,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MILITARY_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 8.05,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.15,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT_ON_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.15,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_NO_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POLITICS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 6.9,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POSSESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_PSYCHOLOGICAL_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 5.75,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SHIFT_OF_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SOCIAL_BEHAVIOUR",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TAKING",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.15,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRADE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRAVEL",
+              "TYPE" : "VER"
+            } ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5112 @@
+{
+  "RESPONSE" : {
+    "TRANSACTIONS" : {
+      "dailyCount" : "180",
+      "limit" : "1000"
+    },
+    "DOCUMENT" : "do believe we have been able to get to a camera senator Amy Klobuchar Democrat Minnesota 2020 presidential candidate senator thank you so much for getting to a camera first you really appreciate it can you run a quorum call it's very exciting well the quorum call I understand what that technically means can you tell us what's actually happening why we are having this break right now and what's being fought over there yes sure there's negotiation about how many more of these motions we're going to be bringing up obviously we are trying to get votes on amendments and resolution so that we can have witnesses not at the end of the trial but now and I've just been stunned that our colleagues on the Republican side are not negotiating this and they aren't and all we're really talking about right now as far as I know is how many more we will do tonight but they just don't seem to show any interest in having witnesses and as Senator McCaskill knows from the corniest case which was about a federal judge in Louisiana we had dozens of witnesses for that case and so I've served on that panel and I'm just shocked by what's going on here tonight in terms of the way this is resolving obviously we've had a few twists and turns we did have the proposed resolution from the Senate majority leader Senator McConnell go through some changes some handwritten changes to that resolution which gave an additional day for making the arguments on each side which changed something about the way the house evidence would be brought over there have been some tweaks and changes are those things being driven by discussions among your Republican colleagues among the Republican caucus where they're there they're essentially lobbying Senator McConnell to make these changes are those fights going on about these additional amendments as they were coming up what's your sense of where the word where the dynamic thrust is here well there are some discussions on their side but I think the key is that we still don't have any commitment to have witnesses and any other hearing like this in history has had witnesses and evidence and I thought actually right there at the close when the house managers and Hakeem Jeffries were talking about why are we here we're here because the president put his own private interests in front of the interests of the country and we're here because we value the Constitution and so I've been very impressed by a house managers case and how they're presenting it not as impressed by the president's lawyers and they're yelling and they basically saying things often that aren't true but I guess we're waiting to see what they've got because so far it has been very impressive Amy do you see any of the Republicans taking this seriously you're there you're watching them all I know that several of them were caught sleeping today I just want to make sure that we in fact have some Republicans that are paying attention is anybody on their side taking notes is anyone taking this with even a grain of seriousness I've seen a few people look down at their shoes when strong cases are made for national security to me they look embarrassed because they know very well what was going on here and so many of them have spoken out against Russia in the past and on this side of Ukraine and then you see the evidence coming in and to me they look embarrassed I just don't know why they would have this job and come here if they're not going to protect the Constitution so my hope is somehow out of that remember we're not like a normal juror just sitting in a jury box we're representing the people in our states and the people in the country and maybe they'll listen to people when people say why won't you allow witnesses near at least 70% of the American public in a recent poll want to see witnesses and as opposed people are the phones to head are the phones join but I haven't asked I've been in there all day but and as far as I'm falling asleep I'm the one that you know got up at 4:00 a.m. from the presidential trail got on a plane in Minneapolis they got here I think I got to get back there I don't want to violate ya boram call we hear you senator thank you good luck good luck thank you sir thank you that's like you're not very rarely talking to somebody when it like the alarm goes off in the middle of it you got to let him go hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos\n",
+    "CATEGORIZATION" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 21.84,
+        "SCORE" : 25695,
+        "NAME" : "Politics",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1668,
+            "BEGIN" : 1659
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 712,
+            "BEGIN" : 703
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1281,
+            "BEGIN" : 1276
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 423,
+            "BEGIN" : 421
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 552,
+            "BEGIN" : 548
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1636,
+            "BEGIN" : 1627
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2518,
+            "BEGIN" : 2510
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2277,
+            "BEGIN" : 2269
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4173,
+            "BEGIN" : 4167
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 937,
+            "BEGIN" : 931
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1297,
+            "BEGIN" : 1283
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 123,
+            "BEGIN" : 117
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 54,
+            "BEGIN" : 48
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3640,
+            "BEGIN" : 3635
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2735,
+            "BEGIN" : 2725
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2913,
+            "BEGIN" : 2903
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3611,
+            "BEGIN" : 3606
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3702,
+            "BEGIN" : 3697
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3690,
+            "BEGIN" : 3685
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1724,
+            "BEGIN" : 1717
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 105,
+            "BEGIN" : 94
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4033,
+            "BEGIN" : 4022
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 11.35,
+        "SCORE" : 13350,
+        "NAME" : "Trials",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 639,
+            "BEGIN" : 635
+          }, {
+            "END" : 2104,
+            "BEGIN" : 2096
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 639,
+            "BEGIN" : 635
+          }, {
+            "END" : 1048,
+            "BEGIN" : 1040
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 639,
+            "BEGIN" : 635
+          }, {
+            "END" : 922,
+            "BEGIN" : 914
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 639,
+            "BEGIN" : 635
+          }, {
+            "END" : 1008,
+            "BEGIN" : 996
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 611,
+            "BEGIN" : 603
+          }, {
+            "END" : 639,
+            "BEGIN" : 635
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 639,
+            "BEGIN" : 635
+          }, {
+            "END" : 3736,
+            "BEGIN" : 3728
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 639,
+            "BEGIN" : 635
+          }, {
+            "END" : 3816,
+            "BEGIN" : 3808
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 639,
+            "BEGIN" : 635
+          }, {
+            "END" : 2043,
+            "BEGIN" : 2035
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 626,
+            "BEGIN" : 624
+          }, {
+            "END" : 639,
+            "BEGIN" : 635
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 92,
+            "BEGIN" : 89
+          }, {
+            "END" : 639,
+            "BEGIN" : 635
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 9.25,
+        "SCORE" : 10885,
+        "NAME" : "Upper House",
+        "RULE" : [ {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1281,
+            "BEGIN" : 1276
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 552,
+            "BEGIN" : 548
+          }, {
+            "END" : 1281,
+            "BEGIN" : 1276
+          } ]
+        }, {
+          "SCORE" : 1780,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 123,
+            "BEGIN" : 117
+          }
+        }, {
+          "SCORE" : 1780,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4173,
+            "BEGIN" : 4167
+          }
+        }, {
+          "SCORE" : 1780,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 937,
+            "BEGIN" : 931
+          }
+        }, {
+          "SCORE" : 1780,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 54,
+            "BEGIN" : 48
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1281,
+            "BEGIN" : 1276
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1281,
+            "BEGIN" : 1276
+          }, {
+            "END" : 1290,
+            "BEGIN" : 1283
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 8.22,
+        "SCORE" : 9675,
+        "NAME" : "Political Candidates",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 115,
+            "BEGIN" : 107
+          }, {
+            "END" : 3794,
+            "BEGIN" : 3791
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 115,
+            "BEGIN" : 107
+          }, {
+            "END" : 2913,
+            "BEGIN" : 2903
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 115,
+            "BEGIN" : 107
+          }, {
+            "END" : 2735,
+            "BEGIN" : 2725
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 115,
+            "BEGIN" : 107
+          }, {
+            "END" : 1297,
+            "BEGIN" : 1283
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 54,
+            "BEGIN" : 48
+          }, {
+            "END" : 115,
+            "BEGIN" : 107
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 115,
+            "BEGIN" : 107
+          }, {
+            "END" : 4173,
+            "BEGIN" : 4167
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 115,
+            "BEGIN" : 107
+          }, {
+            "END" : 2518,
+            "BEGIN" : 2510
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 115,
+            "BEGIN" : 107
+          }, {
+            "END" : 937,
+            "BEGIN" : 931
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 115,
+            "BEGIN" : 107
+          }, {
+            "END" : 123,
+            "BEGIN" : 117
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 115,
+            "BEGIN" : 107
+          }, {
+            "END" : 2277,
+            "BEGIN" : 2269
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 5.67,
+        "SCORE" : 6675,
+        "NAME" : "Voting",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 92,
+            "BEGIN" : 89
+          }, {
+            "END" : 552,
+            "BEGIN" : 548
+          }, {
+            "END" : 3770,
+            "BEGIN" : 3763
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 552,
+            "BEGIN" : 548
+          }, {
+            "END" : 1281,
+            "BEGIN" : 1276
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 2165,
+            "BEGIN" : 2161
+          }, {
+            "END" : 3794,
+            "BEGIN" : 3791
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 423,
+            "BEGIN" : 421
+          }, {
+            "END" : 4560,
+            "BEGIN" : 4557
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 552,
+            "BEGIN" : 548
+          }, {
+            "END" : 4560,
+            "BEGIN" : 4557
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 2.27,
+        "SCORE" : 2670,
+        "NAME" : "Poll",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 552,
+            "BEGIN" : 548
+          }, {
+            "END" : 3794,
+            "BEGIN" : 3791
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 423,
+            "BEGIN" : 421
+          }, {
+            "END" : 3794,
+            "BEGIN" : 3791
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 2.21,
+        "SCORE" : 2605,
+        "NAME" : "Crime",
+        "RULE" : [ {
+          "SCORE" : 200,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2835,
+            "BEGIN" : 2830
+          }
+        }, {
+          "SCORE" : 350,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1781,
+            "BEGIN" : 1776
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 1.82,
+        "SCORE" : 2145,
+        "NAME" : "National Security",
+        "RULE" : [ {
+          "SCORE" : 810,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3129,
+            "BEGIN" : 3113
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 2065,
+            "BEGIN" : 2059
+          }, {
+            "END" : 3129,
+            "BEGIN" : 3113
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 1.67,
+        "SCORE" : 1970,
+        "NAME" : "Judiciary (System of Justice)",
+        "RULE" : [ {
+          "SCORE" : 50,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1062,
+            "BEGIN" : 1059
+          }
+        }, {
+          "SCORE" : 120,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1507,
+            "BEGIN" : 1500
+          }
+        }, {
+          "SCORE" : 120,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3329,
+            "BEGIN" : 3322
+          }
+        }, {
+          "SCORE" : 120,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2117,
+            "BEGIN" : 2110
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3554,
+            "BEGIN" : 3550
+          }
+        }, {
+          "SCORE" : 160,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2528,
+            "BEGIN" : 2522
+          }
+        }, {
+          "SCORE" : 190,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 639,
+            "BEGIN" : 635
+          }
+        }, {
+          "SCORE" : 180,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2043,
+            "BEGIN" : 2035
+          }
+        }, {
+          "SCORE" : 180,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 922,
+            "BEGIN" : 914
+          }
+        }, {
+          "SCORE" : 180,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 611,
+            "BEGIN" : 603
+          }
+        }, {
+          "SCORE" : 180,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3736,
+            "BEGIN" : 3728
+          }
+        }, {
+          "SCORE" : 180,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1048,
+            "BEGIN" : 1040
+          }
+        }, {
+          "SCORE" : 180,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3816,
+            "BEGIN" : 3808
+          }
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 11.35,
+        "SCORE" : 13350,
+        "NAME" : "Judicial proceedings",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 639,
+            "BEGIN" : 635
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1062,
+            "BEGIN" : 1059
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 639,
+            "BEGIN" : 635
+          }, {
+            "END" : 3554,
+            "BEGIN" : 3550
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 485,
+            "BEGIN" : 479
+          }, {
+            "END" : 1008,
+            "BEGIN" : 996
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 485,
+            "BEGIN" : 479
+          }, {
+            "END" : 2528,
+            "BEGIN" : 2522
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 2104,
+            "BEGIN" : 2096
+          }, {
+            "END" : 2117,
+            "BEGIN" : 2110
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 2104,
+            "BEGIN" : 2096
+          }, {
+            "END" : 3329,
+            "BEGIN" : 3322
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2104,
+            "BEGIN" : 2096
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1507,
+            "BEGIN" : 1500
+          }, {
+            "END" : 2104,
+            "BEGIN" : 2096
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 626,
+            "BEGIN" : 624
+          }, {
+            "END" : 639,
+            "BEGIN" : 635
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 4.54,
+        "SCORE" : 5340,
+        "NAME" : "Police operations",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2104,
+            "BEGIN" : 2096
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1507,
+            "BEGIN" : 1500
+          }, {
+            "END" : 2104,
+            "BEGIN" : 2096
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 2104,
+            "BEGIN" : 2096
+          }, {
+            "END" : 2117,
+            "BEGIN" : 2110
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 2104,
+            "BEGIN" : 2096
+          }, {
+            "END" : 3329,
+            "BEGIN" : 3322
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 1.13,
+        "SCORE" : 1335,
+        "NAME" : "Investigations and inquiries",
+        "RULE" : {
+          "SCORE" : 1335,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1062,
+            "BEGIN" : 1059
+          }, {
+            "END" : 3794,
+            "BEGIN" : 3791
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 0.04,
+        "SCORE" : 40,
+        "NAME" : "United States of America",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1021,
+            "BEGIN" : 1013
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1021,
+            "BEGIN" : 1013
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4069,
+            "BEGIN" : 4059
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4069,
+            "BEGIN" : 4059
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.02,
+        "SCORE" : 20,
+        "NAME" : "Minnesota",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4069,
+            "BEGIN" : 4059
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 4069,
+            "BEGIN" : 4059
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.02,
+        "SCORE" : 20,
+        "NAME" : "Louisiana",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1021,
+            "BEGIN" : 1013
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1021,
+            "BEGIN" : 1013
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.02,
+        "SCORE" : 20,
+        "NAME" : "Ukraine",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3299,
+            "BEGIN" : 3293
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3299,
+            "BEGIN" : 3293
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.02,
+        "SCORE" : 20,
+        "NAME" : "Russia",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3259,
+            "BEGIN" : 3254
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3259,
+            "BEGIN" : 3254
+          }
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 0.02,
+        "SCORE" : 20,
+        "NAME" : "Seriousness",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3032,
+            "BEGIN" : 3022
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2757,
+            "BEGIN" : 2749
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.02,
+        "SCORE" : 20,
+        "NAME" : "Surprise",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 674,
+            "BEGIN" : 668
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2429,
+            "BEGIN" : 2421
+          }
+        } ]
+      } ]
+    } ],
+    "PEOPLE" : {
+      "FEATURE" : "LIST",
+      "PERSON" : [ {
+        "BASE" : "Chris Hayes",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4372,
+            "END" : 4382
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 1,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Chris",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Hayes",
+          "NAME" : "SURNAME"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : 6.0
+        }
+      }, {
+        "BASE" : "Hakeem Jeffries",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 2195,
+            "END" : 2209
+          }, {
+            "BEGIN" : 4351,
+            "END" : 4353
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 2,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Hakeem",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Jeffries",
+          "NAME" : "SURNAME"
+        } ]
+      }, {
+        "BASE" : "Senator McConnell",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 1299,
+            "END" : 1315
+          }, {
+            "BEGIN" : 1726,
+            "END" : 1742
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 3,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Senator McConnell",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "majority leader/U.S. Senate",
+          "NAME" : "humanrole"
+        } ]
+      }, {
+        "BASE" : "McCaskill",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 939,
+            "END" : 947
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 4,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "McCaskill",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "senator",
+          "NAME" : "humanrole"
+        } ]
+      }, {
+        "BASE" : "Amy Klobuchar Democrat Minnesota",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 56,
+            "END" : 87
+          }, {
+            "BEGIN" : 89,
+            "END" : 123
+          }, {
+            "BEGIN" : 2699,
+            "END" : 2701
+          }, {
+            "BEGIN" : 4167,
+            "END" : 4173
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 5,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Amy",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "F",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Amy",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Klobuchar Democrat Minnesota",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "senator",
+          "NAME" : "humanrole"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : 6.4
+        }
+      } ]
+    },
+    "ORGANIZATIONS" : {
+      "FEATURE" : "LIST",
+      "ORGANIZATION" : [ {
+        "BASE" : "U.S. Senate",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1276,
+            "END" : 1281
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 6,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Senate",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "senate/United States of America",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "the upper house of the US Congress"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "senate"
+              }
+            }
+          }
+        },
+        "SENTIMENT" : {
+          "OVERALL" : 3.5
+        }
+      }, {
+        "BASE" : "Republicans",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 2725,
+            "END" : 2735
+          }, {
+            "BEGIN" : 2903,
+            "END" : 2913
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 7,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "party",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "the younger of 2 major political parties in the US"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "party"
+              }
+            }
+          }
+        }
+      } ]
+    },
+    "PLACES" : {
+      "FEATURE" : "LIST",
+      "PLACE" : [ {
+        "BASE" : "Russia",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 3254,
+            "END" : 3259
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 9,
+          "NAME" : "ID"
+        }, {
+          "BASE" : 2017370,
+          "NAME" : "GeonamesId"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "federation (Europe)"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "federation"
+              }
+            }
+          }
+        },
+        "PROP" : [ {
+          "CONTINENT" : "Europe"
+        }, {
+          "COORD" : "62.0/100.0"
+        } ]
+      }, {
+        "BASE" : "Ukraine",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 3293,
+            "END" : 3299
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 10,
+          "NAME" : "ID"
+        }, {
+          "BASE" : 690791,
+          "NAME" : "GeonamesId"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "unitary state (Europe)"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "unitary state"
+              }
+            }
+          }
+        },
+        "PROP" : [ {
+          "CONTINENT" : "Europe"
+        }, {
+          "COORD" : "49.0/32.0"
+        } ]
+      }, {
+        "BASE" : "Louisiana",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1013,
+            "END" : 1021
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 11,
+          "NAME" : "ID"
+        }, {
+          "BASE" : 4331987,
+          "NAME" : "GeonamesId"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "federated state in United States of America (North America)"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "federated state"
+              }
+            }
+          }
+        },
+        "PROP" : [ {
+          "COUNTRY" : "United States of America"
+        }, {
+          "CONTINENT" : "North America"
+        }, {
+          "COORD" : "31.0/-92.0"
+        } ]
+      }, {
+        "BASE" : "Minneapolis",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4059,
+            "END" : 4069
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 12,
+          "NAME" : "ID"
+        }, {
+          "BASE" : 5037649,
+          "NAME" : "GeonamesId"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "city in Minnesota (United States of America/North America)"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "city"
+              }
+            }
+          }
+        },
+        "PROP" : [ {
+          "REGION" : "Minnesota"
+        }, {
+          "COUNTRY" : "United States of America"
+        }, {
+          "CONTINENT" : "North America"
+        }, {
+          "COORD" : "44.973057/-93.26417"
+        } ]
+      } ]
+    },
+    "TEXTMINING" : [ {
+      "FEATURE" : "DOM_SPECIFIC",
+      "ENTITY" : [ {
+        "BASE" : "2020",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 89,
+            "END" : 92
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "",
+          "TIME_TYPE" : "ABSOLUTE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 382,
+            "END" : 384
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 645,
+            "END" : 647
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 801,
+            "END" : 803
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "tonight",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 850,
+            "END" : 856
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "FUTURE",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "tonight",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1142,
+            "END" : 1148
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "day",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1410,
+            "END" : 1412
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "RECENT",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "today",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2846,
+            "END" : 2850
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "RECENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "in the past",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 3261,
+            "END" : 3271
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "in there all day",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 3913,
+            "END" : 3928
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "at 4:00 a.m.",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4000,
+            "END" : 4011
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "2020",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 89,
+            "END" : 92
+          }
+        },
+        "TYPE" : "Dates"
+      }, {
+        "BASE" : "4:00 a.m.",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4003,
+            "END" : 4011
+          }
+        },
+        "TYPE" : "Times"
+      }, {
+        "BASE" : "70%",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 3752,
+            "END" : 3754
+          }
+        },
+        "TYPE" : "Percentages"
+      } ]
+    }, {
+      "FEATURE" : "PLACES_REASONING",
+      "ENTITY" : [ {
+        "BASE" : "Louisiana",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1013,
+            "END" : 1021
+          }
+        },
+        "TYPE" : "PLACES",
+        "REASONING" : {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }
+      }, {
+        "BASE" : "Minneapolis",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4059,
+            "END" : 4069
+          }
+        },
+        "TYPE" : "PLACES",
+        "REASONING" : {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }
+      } ]
+    }, {
+      "FEATURE" : "INFERENTIAL_ENTITIES",
+      "ENTITY" : {
+        "BASE" : "United States of America",
+        "EVIDENCE" : [ {
+          "ATTRIBUTE" : "Country",
+          "CUE" : "Minneapolis",
+          "TRACKS" : {
+            "TRACK" : {
+              "BEGIN" : 4059,
+              "END" : 4069
+            }
+          }
+        }, {
+          "ATTRIBUTE" : "Country",
+          "CUE" : "Louisiana",
+          "TRACKS" : {
+            "TRACK" : {
+              "BEGIN" : 1013,
+              "END" : 1021
+            }
+          }
+        } ]
+      }
+    }, {
+      "FEATURE" : "ENTITIESRELATIONS",
+      "NODES" : {
+        "NODE" : [ {
+          "content" : "Chris Hayes",
+          "ID" : 1,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Hakeem Jeffries",
+          "ID" : 2,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Senator McConnell",
+          "ID" : 3,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Amy Klobuchar Democrat Minnesota",
+          "ID" : 5,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "U.S. Senate",
+          "ID" : 6,
+          "TYPE" : "ORGANIZATION"
+        }, {
+          "content" : "Republicans",
+          "ID" : 7,
+          "TYPE" : "ORGANIZATION"
+        } ]
+      },
+      "RELATIONS" : {
+        "REL" : [ {
+          "SOURCE" : 5,
+          "TARGET" : 7,
+          "FREQ" : 1,
+          "VERB" : "take",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4594
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 2699,
+              "REL_END" : 2701
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 2725,
+              "REL_END" : 2735
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 2737,
+              "REL_END" : 2742
+            } ],
+            "BASE" : "do believe we have been able to get to a camera senator Amy Klobuchar Democrat Minnesota 2020 presidential candidate senator thank you so much for getting to a camera first you really appreciate it can you run a quorum call it's very exciting well the quorum call I understand what that technically means can you tell us what's actually happening why we are having this break right now and what's being fought over there yes sure there's negotiation about how many more of these motions we're going to be bringing up obviously we are trying to get votes on amendments and resolution so that we can have witnesses not at the end of the trial but now and I've just been stunned that our colleagues on the Republican side are not negotiating this and they aren't and all we're really talking about right now as far as I know is how many more we will do tonight but they just don't seem to show any interest in having witnesses and as Senator McCaskill knows from the corniest case which was about a federal judge in Louisiana we had dozens of witnesses for that case and so I've served on that panel and I'm just shocked by what's going on here tonight in terms of the way this is resolving obviously we've had a few twists and turns we did have the proposed resolution from the Senate majority leader Senator McConnell go through some changes some handwritten changes to that resolution which gave an additional day for making the arguments on each side which changed something about the way the house evidence would be brought over there have been some tweaks and changes are those things being driven by discussions among your Republican colleagues among the Republican caucus where they're there they're essentially lobbying Senator McConnell to make these changes are those fights going on about these additional amendments as they were coming up what's your sense of where the word where the dynamic thrust is here well there are some discussions on their side but I think the key is that we still don't have any commitment to have witnesses and any other hearing like this in history has had witnesses and evidence and I thought actually right there at the close when the house managers and Hakeem Jeffries were talking about why are we here we're here because the president put his own private interests in front of the interests of the country and we're here because we value the Constitution and so I've been very impressed by a house managers case and how they're presenting it not as impressed by the president's lawyers and they're yelling and they basically saying things often that aren't true but I guess we're waiting to see what they've got because so far it has been very impressive Amy do you see any of the Republicans taking this seriously you're there you're watching them all I know that several of them were caught sleeping today I just want to make sure that we in fact have some Republicans that are paying attention is anybody on their side taking notes is anyone taking this with even a grain of seriousness I've seen a few people look down at their shoes when strong cases are made for national security to me they look embarrassed because they know very well what was going on here and so many of them have spoken out against Russia in the past and on this side of Ukraine and then you see the evidence coming in and to me they look embarrassed I just don't know why they would have this job and come here if they're not going to protect the Constitution so my hope is somehow out of that remember we're not like a normal juror just sitting in a jury box we're representing the people in our states and the people in the country and maybe they'll listen to people when people say why won't you allow witnesses near at least 70% of the American public in a recent poll want to see witnesses and as opposed people are the phones to head are the phones join but I haven't asked I've been in there all day but and as far as I'm falling asleep I'm the one that you know got up at 4:00 a.m. from the presidential trail got on a plane in Minneapolis they got here I think I got to get back there I don't want to violate ya boram call we hear you senator thank you good luck good luck thank you sir thank you that's like you're not very rarely talking to somebody when it like the alarm goes off in the middle of it you got to let him go hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 5,
+          "TARGET" : 7,
+          "FREQ" : 1,
+          "VERB" : "say",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4594
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 2699,
+              "REL_END" : 2701
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 2725,
+              "REL_END" : 2735
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 2569,
+              "REL_END" : 2574
+            } ],
+            "BASE" : "do believe we have been able to get to a camera senator Amy Klobuchar Democrat Minnesota 2020 presidential candidate senator thank you so much for getting to a camera first you really appreciate it can you run a quorum call it's very exciting well the quorum call I understand what that technically means can you tell us what's actually happening why we are having this break right now and what's being fought over there yes sure there's negotiation about how many more of these motions we're going to be bringing up obviously we are trying to get votes on amendments and resolution so that we can have witnesses not at the end of the trial but now and I've just been stunned that our colleagues on the Republican side are not negotiating this and they aren't and all we're really talking about right now as far as I know is how many more we will do tonight but they just don't seem to show any interest in having witnesses and as Senator McCaskill knows from the corniest case which was about a federal judge in Louisiana we had dozens of witnesses for that case and so I've served on that panel and I'm just shocked by what's going on here tonight in terms of the way this is resolving obviously we've had a few twists and turns we did have the proposed resolution from the Senate majority leader Senator McConnell go through some changes some handwritten changes to that resolution which gave an additional day for making the arguments on each side which changed something about the way the house evidence would be brought over there have been some tweaks and changes are those things being driven by discussions among your Republican colleagues among the Republican caucus where they're there they're essentially lobbying Senator McConnell to make these changes are those fights going on about these additional amendments as they were coming up what's your sense of where the word where the dynamic thrust is here well there are some discussions on their side but I think the key is that we still don't have any commitment to have witnesses and any other hearing like this in history has had witnesses and evidence and I thought actually right there at the close when the house managers and Hakeem Jeffries were talking about why are we here we're here because the president put his own private interests in front of the interests of the country and we're here because we value the Constitution and so I've been very impressed by a house managers case and how they're presenting it not as impressed by the president's lawyers and they're yelling and they basically saying things often that aren't true but I guess we're waiting to see what they've got because so far it has been very impressive Amy do you see any of the Republicans taking this seriously you're there you're watching them all I know that several of them were caught sleeping today I just want to make sure that we in fact have some Republicans that are paying attention is anybody on their side taking notes is anyone taking this with even a grain of seriousness I've seen a few people look down at their shoes when strong cases are made for national security to me they look embarrassed because they know very well what was going on here and so many of them have spoken out against Russia in the past and on this side of Ukraine and then you see the evidence coming in and to me they look embarrassed I just don't know why they would have this job and come here if they're not going to protect the Constitution so my hope is somehow out of that remember we're not like a normal juror just sitting in a jury box we're representing the people in our states and the people in the country and maybe they'll listen to people when people say why won't you allow witnesses near at least 70% of the American public in a recent poll want to see witnesses and as opposed people are the phones to head are the phones join but I haven't asked I've been in there all day but and as far as I'm falling asleep I'm the one that you know got up at 4:00 a.m. from the presidential trail got on a plane in Minneapolis they got here I think I got to get back there I don't want to violate ya boram call we hear you senator thank you good luck good luck thank you sir thank you that's like you're not very rarely talking to somebody when it like the alarm goes off in the middle of it you got to let him go hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 2,
+          "TARGET" : 1,
+          "FREQ" : 1,
+          "VERB" : "get",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4594
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 4351,
+              "REL_END" : 4353
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 4372,
+              "REL_END" : 4382
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 4340,
+              "REL_END" : 4342
+            } ],
+            "BASE" : "do believe we have been able to get to a camera senator Amy Klobuchar Democrat Minnesota 2020 presidential candidate senator thank you so much for getting to a camera first you really appreciate it can you run a quorum call it's very exciting well the quorum call I understand what that technically means can you tell us what's actually happening why we are having this break right now and what's being fought over there yes sure there's negotiation about how many more of these motions we're going to be bringing up obviously we are trying to get votes on amendments and resolution so that we can have witnesses not at the end of the trial but now and I've just been stunned that our colleagues on the Republican side are not negotiating this and they aren't and all we're really talking about right now as far as I know is how many more we will do tonight but they just don't seem to show any interest in having witnesses and as Senator McCaskill knows from the corniest case which was about a federal judge in Louisiana we had dozens of witnesses for that case and so I've served on that panel and I'm just shocked by what's going on here tonight in terms of the way this is resolving obviously we've had a few twists and turns we did have the proposed resolution from the Senate majority leader Senator McConnell go through some changes some handwritten changes to that resolution which gave an additional day for making the arguments on each side which changed something about the way the house evidence would be brought over there have been some tweaks and changes are those things being driven by discussions among your Republican colleagues among the Republican caucus where they're there they're essentially lobbying Senator McConnell to make these changes are those fights going on about these additional amendments as they were coming up what's your sense of where the word where the dynamic thrust is here well there are some discussions on their side but I think the key is that we still don't have any commitment to have witnesses and any other hearing like this in history has had witnesses and evidence and I thought actually right there at the close when the house managers and Hakeem Jeffries were talking about why are we here we're here because the president put his own private interests in front of the interests of the country and we're here because we value the Constitution and so I've been very impressed by a house managers case and how they're presenting it not as impressed by the president's lawyers and they're yelling and they basically saying things often that aren't true but I guess we're waiting to see what they've got because so far it has been very impressive Amy do you see any of the Republicans taking this seriously you're there you're watching them all I know that several of them were caught sleeping today I just want to make sure that we in fact have some Republicans that are paying attention is anybody on their side taking notes is anyone taking this with even a grain of seriousness I've seen a few people look down at their shoes when strong cases are made for national security to me they look embarrassed because they know very well what was going on here and so many of them have spoken out against Russia in the past and on this side of Ukraine and then you see the evidence coming in and to me they look embarrassed I just don't know why they would have this job and come here if they're not going to protect the Constitution so my hope is somehow out of that remember we're not like a normal juror just sitting in a jury box we're representing the people in our states and the people in the country and maybe they'll listen to people when people say why won't you allow witnesses near at least 70% of the American public in a recent poll want to see witnesses and as opposed people are the phones to head are the phones join but I haven't asked I've been in there all day but and as far as I'm falling asleep I'm the one that you know got up at 4:00 a.m. from the presidential trail got on a plane in Minneapolis they got here I think I got to get back there I don't want to violate ya boram call we hear you senator thank you good luck good luck thank you sir thank you that's like you're not very rarely talking to somebody when it like the alarm goes off in the middle of it you got to let him go hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 2,
+          "TARGET" : 1,
+          "FREQ" : 1,
+          "VERB" : "talk",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4594
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 4351,
+              "REL_END" : 4353
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 4372,
+              "REL_END" : 4382
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 4264,
+              "REL_END" : 4270
+            } ],
+            "BASE" : "do believe we have been able to get to a camera senator Amy Klobuchar Democrat Minnesota 2020 presidential candidate senator thank you so much for getting to a camera first you really appreciate it can you run a quorum call it's very exciting well the quorum call I understand what that technically means can you tell us what's actually happening why we are having this break right now and what's being fought over there yes sure there's negotiation about how many more of these motions we're going to be bringing up obviously we are trying to get votes on amendments and resolution so that we can have witnesses not at the end of the trial but now and I've just been stunned that our colleagues on the Republican side are not negotiating this and they aren't and all we're really talking about right now as far as I know is how many more we will do tonight but they just don't seem to show any interest in having witnesses and as Senator McCaskill knows from the corniest case which was about a federal judge in Louisiana we had dozens of witnesses for that case and so I've served on that panel and I'm just shocked by what's going on here tonight in terms of the way this is resolving obviously we've had a few twists and turns we did have the proposed resolution from the Senate majority leader Senator McConnell go through some changes some handwritten changes to that resolution which gave an additional day for making the arguments on each side which changed something about the way the house evidence would be brought over there have been some tweaks and changes are those things being driven by discussions among your Republican colleagues among the Republican caucus where they're there they're essentially lobbying Senator McConnell to make these changes are those fights going on about these additional amendments as they were coming up what's your sense of where the word where the dynamic thrust is here well there are some discussions on their side but I think the key is that we still don't have any commitment to have witnesses and any other hearing like this in history has had witnesses and evidence and I thought actually right there at the close when the house managers and Hakeem Jeffries were talking about why are we here we're here because the president put his own private interests in front of the interests of the country and we're here because we value the Constitution and so I've been very impressed by a house managers case and how they're presenting it not as impressed by the president's lawyers and they're yelling and they basically saying things often that aren't true but I guess we're waiting to see what they've got because so far it has been very impressive Amy do you see any of the Republicans taking this seriously you're there you're watching them all I know that several of them were caught sleeping today I just want to make sure that we in fact have some Republicans that are paying attention is anybody on their side taking notes is anyone taking this with even a grain of seriousness I've seen a few people look down at their shoes when strong cases are made for national security to me they look embarrassed because they know very well what was going on here and so many of them have spoken out against Russia in the past and on this side of Ukraine and then you see the evidence coming in and to me they look embarrassed I just don't know why they would have this job and come here if they're not going to protect the Constitution so my hope is somehow out of that remember we're not like a normal juror just sitting in a jury box we're representing the people in our states and the people in the country and maybe they'll listen to people when people say why won't you allow witnesses near at least 70% of the American public in a recent poll want to see witnesses and as opposed people are the phones to head are the phones join but I haven't asked I've been in there all day but and as far as I'm falling asleep I'm the one that you know got up at 4:00 a.m. from the presidential trail got on a plane in Minneapolis they got here I think I got to get back there I don't want to violate ya boram call we hear you senator thank you good luck good luck thank you sir thank you that's like you're not very rarely talking to somebody when it like the alarm goes off in the middle of it you got to let him go hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 2,
+          "TARGET" : 1,
+          "FREQ" : 3,
+          "VERB" : "thank",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4594
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 4351,
+              "REL_END" : 4353
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 4372,
+              "REL_END" : 4382
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 4219,
+              "REL_END" : 4223
+            } ],
+            "BASE" : "do believe we have been able to get to a camera senator Amy Klobuchar Democrat Minnesota 2020 presidential candidate senator thank you so much for getting to a camera first you really appreciate it can you run a quorum call it's very exciting well the quorum call I understand what that technically means can you tell us what's actually happening why we are having this break right now and what's being fought over there yes sure there's negotiation about how many more of these motions we're going to be bringing up obviously we are trying to get votes on amendments and resolution so that we can have witnesses not at the end of the trial but now and I've just been stunned that our colleagues on the Republican side are not negotiating this and they aren't and all we're really talking about right now as far as I know is how many more we will do tonight but they just don't seem to show any interest in having witnesses and as Senator McCaskill knows from the corniest case which was about a federal judge in Louisiana we had dozens of witnesses for that case and so I've served on that panel and I'm just shocked by what's going on here tonight in terms of the way this is resolving obviously we've had a few twists and turns we did have the proposed resolution from the Senate majority leader Senator McConnell go through some changes some handwritten changes to that resolution which gave an additional day for making the arguments on each side which changed something about the way the house evidence would be brought over there have been some tweaks and changes are those things being driven by discussions among your Republican colleagues among the Republican caucus where they're there they're essentially lobbying Senator McConnell to make these changes are those fights going on about these additional amendments as they were coming up what's your sense of where the word where the dynamic thrust is here well there are some discussions on their side but I think the key is that we still don't have any commitment to have witnesses and any other hearing like this in history has had witnesses and evidence and I thought actually right there at the close when the house managers and Hakeem Jeffries were talking about why are we here we're here because the president put his own private interests in front of the interests of the country and we're here because we value the Constitution and so I've been very impressed by a house managers case and how they're presenting it not as impressed by the president's lawyers and they're yelling and they basically saying things often that aren't true but I guess we're waiting to see what they've got because so far it has been very impressive Amy do you see any of the Republicans taking this seriously you're there you're watching them all I know that several of them were caught sleeping today I just want to make sure that we in fact have some Republicans that are paying attention is anybody on their side taking notes is anyone taking this with even a grain of seriousness I've seen a few people look down at their shoes when strong cases are made for national security to me they look embarrassed because they know very well what was going on here and so many of them have spoken out against Russia in the past and on this side of Ukraine and then you see the evidence coming in and to me they look embarrassed I just don't know why they would have this job and come here if they're not going to protect the Constitution so my hope is somehow out of that remember we're not like a normal juror just sitting in a jury box we're representing the people in our states and the people in the country and maybe they'll listen to people when people say why won't you allow witnesses near at least 70% of the American public in a recent poll want to see witnesses and as opposed people are the phones to head are the phones join but I haven't asked I've been in there all day but and as far as I'm falling asleep I'm the one that you know got up at 4:00 a.m. from the presidential trail got on a plane in Minneapolis they got here I think I got to get back there I don't want to violate ya boram call we hear you senator thank you good luck good luck thank you sir thank you that's like you're not very rarely talking to somebody when it like the alarm goes off in the middle of it you got to let him go hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          }, {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4594
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 4351,
+              "REL_END" : 4353
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 4372,
+              "REL_END" : 4382
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 4219,
+              "REL_END" : 4223
+            } ],
+            "BASE" : "do believe we have been able to get to a camera senator Amy Klobuchar Democrat Minnesota 2020 presidential candidate senator thank you so much for getting to a camera first you really appreciate it can you run a quorum call it's very exciting well the quorum call I understand what that technically means can you tell us what's actually happening why we are having this break right now and what's being fought over there yes sure there's negotiation about how many more of these motions we're going to be bringing up obviously we are trying to get votes on amendments and resolution so that we can have witnesses not at the end of the trial but now and I've just been stunned that our colleagues on the Republican side are not negotiating this and they aren't and all we're really talking about right now as far as I know is how many more we will do tonight but they just don't seem to show any interest in having witnesses and as Senator McCaskill knows from the corniest case which was about a federal judge in Louisiana we had dozens of witnesses for that case and so I've served on that panel and I'm just shocked by what's going on here tonight in terms of the way this is resolving obviously we've had a few twists and turns we did have the proposed resolution from the Senate majority leader Senator McConnell go through some changes some handwritten changes to that resolution which gave an additional day for making the arguments on each side which changed something about the way the house evidence would be brought over there have been some tweaks and changes are those things being driven by discussions among your Republican colleagues among the Republican caucus where they're there they're essentially lobbying Senator McConnell to make these changes are those fights going on about these additional amendments as they were coming up what's your sense of where the word where the dynamic thrust is here well there are some discussions on their side but I think the key is that we still don't have any commitment to have witnesses and any other hearing like this in history has had witnesses and evidence and I thought actually right there at the close when the house managers and Hakeem Jeffries were talking about why are we here we're here because the president put his own private interests in front of the interests of the country and we're here because we value the Constitution and so I've been very impressed by a house managers case and how they're presenting it not as impressed by the president's lawyers and they're yelling and they basically saying things often that aren't true but I guess we're waiting to see what they've got because so far it has been very impressive Amy do you see any of the Republicans taking this seriously you're there you're watching them all I know that several of them were caught sleeping today I just want to make sure that we in fact have some Republicans that are paying attention is anybody on their side taking notes is anyone taking this with even a grain of seriousness I've seen a few people look down at their shoes when strong cases are made for national security to me they look embarrassed because they know very well what was going on here and so many of them have spoken out against Russia in the past and on this side of Ukraine and then you see the evidence coming in and to me they look embarrassed I just don't know why they would have this job and come here if they're not going to protect the Constitution so my hope is somehow out of that remember we're not like a normal juror just sitting in a jury box we're representing the people in our states and the people in the country and maybe they'll listen to people when people say why won't you allow witnesses near at least 70% of the American public in a recent poll want to see witnesses and as opposed people are the phones to head are the phones join but I haven't asked I've been in there all day but and as far as I'm falling asleep I'm the one that you know got up at 4:00 a.m. from the presidential trail got on a plane in Minneapolis they got here I think I got to get back there I don't want to violate ya boram call we hear you senator thank you good luck good luck thank you sir thank you that's like you're not very rarely talking to somebody when it like the alarm goes off in the middle of it you got to let him go hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          }, {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4594
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 4351,
+              "REL_END" : 4353
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 4372,
+              "REL_END" : 4382
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 4219,
+              "REL_END" : 4223
+            } ],
+            "BASE" : "do believe we have been able to get to a camera senator Amy Klobuchar Democrat Minnesota 2020 presidential candidate senator thank you so much for getting to a camera first you really appreciate it can you run a quorum call it's very exciting well the quorum call I understand what that technically means can you tell us what's actually happening why we are having this break right now and what's being fought over there yes sure there's negotiation about how many more of these motions we're going to be bringing up obviously we are trying to get votes on amendments and resolution so that we can have witnesses not at the end of the trial but now and I've just been stunned that our colleagues on the Republican side are not negotiating this and they aren't and all we're really talking about right now as far as I know is how many more we will do tonight but they just don't seem to show any interest in having witnesses and as Senator McCaskill knows from the corniest case which was about a federal judge in Louisiana we had dozens of witnesses for that case and so I've served on that panel and I'm just shocked by what's going on here tonight in terms of the way this is resolving obviously we've had a few twists and turns we did have the proposed resolution from the Senate majority leader Senator McConnell go through some changes some handwritten changes to that resolution which gave an additional day for making the arguments on each side which changed something about the way the house evidence would be brought over there have been some tweaks and changes are those things being driven by discussions among your Republican colleagues among the Republican caucus where they're there they're essentially lobbying Senator McConnell to make these changes are those fights going on about these additional amendments as they were coming up what's your sense of where the word where the dynamic thrust is here well there are some discussions on their side but I think the key is that we still don't have any commitment to have witnesses and any other hearing like this in history has had witnesses and evidence and I thought actually right there at the close when the house managers and Hakeem Jeffries were talking about why are we here we're here because the president put his own private interests in front of the interests of the country and we're here because we value the Constitution and so I've been very impressed by a house managers case and how they're presenting it not as impressed by the president's lawyers and they're yelling and they basically saying things often that aren't true but I guess we're waiting to see what they've got because so far it has been very impressive Amy do you see any of the Republicans taking this seriously you're there you're watching them all I know that several of them were caught sleeping today I just want to make sure that we in fact have some Republicans that are paying attention is anybody on their side taking notes is anyone taking this with even a grain of seriousness I've seen a few people look down at their shoes when strong cases are made for national security to me they look embarrassed because they know very well what was going on here and so many of them have spoken out against Russia in the past and on this side of Ukraine and then you see the evidence coming in and to me they look embarrassed I just don't know why they would have this job and come here if they're not going to protect the Constitution so my hope is somehow out of that remember we're not like a normal juror just sitting in a jury box we're representing the people in our states and the people in the country and maybe they'll listen to people when people say why won't you allow witnesses near at least 70% of the American public in a recent poll want to see witnesses and as opposed people are the phones to head are the phones join but I haven't asked I've been in there all day but and as far as I'm falling asleep I'm the one that you know got up at 4:00 a.m. from the presidential trail got on a plane in Minneapolis they got here I think I got to get back there I don't want to violate ya boram call we hear you senator thank you good luck good luck thank you sir thank you that's like you're not very rarely talking to somebody when it like the alarm goes off in the middle of it you got to let him go hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 6,
+          "TARGET" : 3,
+          "FREQ" : 1,
+          "NOUN" : "majority leader",
+          "TYPE" : "Social activity",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4594
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 1276,
+              "REL_END" : 1281
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 1299,
+              "REL_END" : 1315
+            }, {
+              "ELEMENT" : "NOUN",
+              "REL_BEGIN" : 1283,
+              "REL_END" : 1297
+            } ],
+            "BASE" : "do believe we have been able to get to a camera senator Amy Klobuchar Democrat Minnesota 2020 presidential candidate senator thank you so much for getting to a camera first you really appreciate it can you run a quorum call it's very exciting well the quorum call I understand what that technically means can you tell us what's actually happening why we are having this break right now and what's being fought over there yes sure there's negotiation about how many more of these motions we're going to be bringing up obviously we are trying to get votes on amendments and resolution so that we can have witnesses not at the end of the trial but now and I've just been stunned that our colleagues on the Republican side are not negotiating this and they aren't and all we're really talking about right now as far as I know is how many more we will do tonight but they just don't seem to show any interest in having witnesses and as Senator McCaskill knows from the corniest case which was about a federal judge in Louisiana we had dozens of witnesses for that case and so I've served on that panel and I'm just shocked by what's going on here tonight in terms of the way this is resolving obviously we've had a few twists and turns we did have the proposed resolution from the Senate majority leader Senator McConnell go through some changes some handwritten changes to that resolution which gave an additional day for making the arguments on each side which changed something about the way the house evidence would be brought over there have been some tweaks and changes are those things being driven by discussions among your Republican colleagues among the Republican caucus where they're there they're essentially lobbying Senator McConnell to make these changes are those fights going on about these additional amendments as they were coming up what's your sense of where the word where the dynamic thrust is here well there are some discussions on their side but I think the key is that we still don't have any commitment to have witnesses and any other hearing like this in history has had witnesses and evidence and I thought actually right there at the close when the house managers and Hakeem Jeffries were talking about why are we here we're here because the president put his own private interests in front of the interests of the country and we're here because we value the Constitution and so I've been very impressed by a house managers case and how they're presenting it not as impressed by the president's lawyers and they're yelling and they basically saying things often that aren't true but I guess we're waiting to see what they've got because so far it has been very impressive Amy do you see any of the Republicans taking this seriously you're there you're watching them all I know that several of them were caught sleeping today I just want to make sure that we in fact have some Republicans that are paying attention is anybody on their side taking notes is anyone taking this with even a grain of seriousness I've seen a few people look down at their shoes when strong cases are made for national security to me they look embarrassed because they know very well what was going on here and so many of them have spoken out against Russia in the past and on this side of Ukraine and then you see the evidence coming in and to me they look embarrassed I just don't know why they would have this job and come here if they're not going to protect the Constitution so my hope is somehow out of that remember we're not like a normal juror just sitting in a jury box we're representing the people in our states and the people in the country and maybe they'll listen to people when people say why won't you allow witnesses near at least 70% of the American public in a recent poll want to see witnesses and as opposed people are the phones to head are the phones join but I haven't asked I've been in there all day but and as far as I'm falling asleep I'm the one that you know got up at 4:00 a.m. from the presidential trail got on a plane in Minneapolis they got here I think I got to get back there I don't want to violate ya boram call we hear you senator thank you good luck good luck thank you sir thank you that's like you're not very rarely talking to somebody when it like the alarm goes off in the middle of it you got to let him go hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 5,
+          "TARGET" : 7,
+          "FREQ" : 1,
+          "NOUN" : "president",
+          "TYPE" : "Social activity",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4594
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 2699,
+              "REL_END" : 2701
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 2725,
+              "REL_END" : 2735
+            }, {
+              "ELEMENT" : "NOUN",
+              "REL_BEGIN" : 2510,
+              "REL_END" : 2518
+            } ],
+            "BASE" : "do believe we have been able to get to a camera senator Amy Klobuchar Democrat Minnesota 2020 presidential candidate senator thank you so much for getting to a camera first you really appreciate it can you run a quorum call it's very exciting well the quorum call I understand what that technically means can you tell us what's actually happening why we are having this break right now and what's being fought over there yes sure there's negotiation about how many more of these motions we're going to be bringing up obviously we are trying to get votes on amendments and resolution so that we can have witnesses not at the end of the trial but now and I've just been stunned that our colleagues on the Republican side are not negotiating this and they aren't and all we're really talking about right now as far as I know is how many more we will do tonight but they just don't seem to show any interest in having witnesses and as Senator McCaskill knows from the corniest case which was about a federal judge in Louisiana we had dozens of witnesses for that case and so I've served on that panel and I'm just shocked by what's going on here tonight in terms of the way this is resolving obviously we've had a few twists and turns we did have the proposed resolution from the Senate majority leader Senator McConnell go through some changes some handwritten changes to that resolution which gave an additional day for making the arguments on each side which changed something about the way the house evidence would be brought over there have been some tweaks and changes are those things being driven by discussions among your Republican colleagues among the Republican caucus where they're there they're essentially lobbying Senator McConnell to make these changes are those fights going on about these additional amendments as they were coming up what's your sense of where the word where the dynamic thrust is here well there are some discussions on their side but I think the key is that we still don't have any commitment to have witnesses and any other hearing like this in history has had witnesses and evidence and I thought actually right there at the close when the house managers and Hakeem Jeffries were talking about why are we here we're here because the president put his own private interests in front of the interests of the country and we're here because we value the Constitution and so I've been very impressed by a house managers case and how they're presenting it not as impressed by the president's lawyers and they're yelling and they basically saying things often that aren't true but I guess we're waiting to see what they've got because so far it has been very impressive Amy do you see any of the Republicans taking this seriously you're there you're watching them all I know that several of them were caught sleeping today I just want to make sure that we in fact have some Republicans that are paying attention is anybody on their side taking notes is anyone taking this with even a grain of seriousness I've seen a few people look down at their shoes when strong cases are made for national security to me they look embarrassed because they know very well what was going on here and so many of them have spoken out against Russia in the past and on this side of Ukraine and then you see the evidence coming in and to me they look embarrassed I just don't know why they would have this job and come here if they're not going to protect the Constitution so my hope is somehow out of that remember we're not like a normal juror just sitting in a jury box we're representing the people in our states and the people in the country and maybe they'll listen to people when people say why won't you allow witnesses near at least 70% of the American public in a recent poll want to see witnesses and as opposed people are the phones to head are the phones join but I haven't asked I've been in there all day but and as far as I'm falling asleep I'm the one that you know got up at 4:00 a.m. from the presidential trail got on a plane in Minneapolis they got here I think I got to get back there I don't want to violate ya boram call we hear you senator thank you good luck good luck thank you sir thank you that's like you're not very rarely talking to somebody when it like the alarm goes off in the middle of it you got to let him go hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        } ]
+      }
+    } ],
+    "TAGGING" : [ {
+      "FEATURE" : "MAINSENTENCES",
+      "RELEVANT" : {
+        "SENTENCE_TEXT" : "do believe we have been able to get to a camera senator Amy Klobuchar Democrat Minnesota 2020 presidential candidate senator thank you so much for getting to a camera first you really appreciate it can you run a quorum call it's very exciting well the quorum call I understand what that technically means can you tell us what's actually happening why we are having this break right now and what's being fought over there yes sure there's negotiation about how many more of these motions we're going to be bringing up obviously we are trying to get votes on amendments and resolution so that we can have witnesses not at the end of the trial but now and I've just been stunned that our colleagues on the Republican side are not negotiating this and they aren't and all we're really talking about right now as far as I know is how many more we will do tonight but they just don't seem to show any interest in having witnesses and as Senator McCaskill knows from the corniest case which was about a federal judge in Louisiana we had dozens of witnesses for that case and so I've served on that panel and I'm just shocked by what's going on here tonight in terms of the way this is resolving obviously we've had a few twists and turns we did have the proposed resolution from the Senate majority leader Senator McConnell go through some changes some handwritten changes to that resolution which gave an additional day for making the arguments on each side which changed something about the way the house evidence would be brought over there have been some tweaks and changes are those things being driven by discussions among your Republican colleagues among the Republican caucus where they're there they're essentially lobbying Senator McConnell to make these changes are those fights going on about these additional amendments as they were coming up what's your sense of where the word where the dynamic thrust is here well there are some discussions on their side but I think the key is that we still don't have any commitment to have witnesses and any other hearing like this in history has had witnesses and evidence and I thought actually right there at the close when the house managers and Hakeem Jeffries were talking about why are we here we're here because the president put his own private interests in front of the interests of the country and we're here because we value the Constitution and so I've been very impressed by a house managers case and how they're presenting it not as impressed by the president's lawyers and they're yelling and they basically saying things often that aren't true but I guess we're waiting to see what they've got because so far it has been very impressive Amy do you see any of the Republicans taking this seriously you're there you're watching them all I know that several of them were caught sleeping today I just want to make sure that we in fact have some Republicans that are paying attention is anybody on their side taking notes is anyone taking this with even a grain of seriousness I've seen a few people look down at their shoes when strong cases are made for national security to me they look embarrassed because they know very well what was going on here and so many of them have spoken out against Russia in the past and on this side of Ukraine and then you see the evidence coming in and to me they look embarrassed I just don't know why they would have this job and come here if they're not going to protect the Constitution so my hope is somehow out of that remember we're not like a normal juror just sitting in a jury box we're representing the people in our states and the people in the country and maybe they'll listen to people when people say why won't you allow witnesses near at least 70% of the American public in a recent poll want to see witnesses and as opposed people are the phones to head are the phones join but I haven't asked I've been in there all day but and as far as I'm falling asleep I'm the one that you know got up at 4:00 a.m. from the presidential trail got on a plane in Minneapolis they got here I think I got to get back there I don't want to violate ya boram call we hear you senator thank you good luck good luck thank you sir thank you that's like you're not very rarely talking to somebody when it like the alarm goes off in the middle of it you got to let him go hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos",
+        "SCORE" : 100.0,
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 0,
+            "END" : 4594
+          }
+        }
+      }
+    }, {
+      "FEATURE" : "MAINELEMENTS",
+      "LEMMA" : [ {
+        "LABEL" : "witness",
+        "SCORE" : 11.4,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 914,
+          "END" : 922
+        }, {
+          "BEGIN" : 1040,
+          "END" : 1048
+        }, {
+          "BEGIN" : 2035,
+          "END" : 2043
+        }, {
+          "BEGIN" : 3728,
+          "END" : 3736
+        }, {
+          "BEGIN" : 3808,
+          "END" : 3816
+        } ]
+      }, {
+        "LABEL" : "people",
+        "SCORE" : 10.5,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 3606,
+          "END" : 3611
+        }, {
+          "BEGIN" : 3635,
+          "END" : 3640
+        }, {
+          "BEGIN" : 3685,
+          "END" : 3690
+        }, {
+          "BEGIN" : 3697,
+          "END" : 3702
+        } ]
+      }, {
+        "LABEL" : "evidence",
+        "SCORE" : 9.8,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1500,
+          "END" : 1507
+        }, {
+          "BEGIN" : 2110,
+          "END" : 2117
+        }, {
+          "BEGIN" : 3322,
+          "END" : 3329
+        } ]
+      }, {
+        "LABEL" : "Republicans",
+        "SCORE" : 8.3,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 2725,
+          "END" : 2735
+        }, {
+          "BEGIN" : 2903,
+          "END" : 2913
+        } ]
+      }, {
+        "LABEL" : "country",
+        "SCORE" : 6.4,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 2342,
+          "END" : 2348
+        }, {
+          "BEGIN" : 3649,
+          "END" : 3655
+        } ]
+      }, {
+        "LABEL" : "president",
+        "SCORE" : 5.7,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 2269,
+          "END" : 2277
+        }, {
+          "BEGIN" : 2510,
+          "END" : 2518
+        } ]
+      }, {
+        "LABEL" : "house manager",
+        "SCORE" : 5.0,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 2176,
+          "END" : 2189
+        }, {
+          "BEGIN" : 2436,
+          "END" : 2449
+        } ]
+      }, {
+        "LABEL" : "senator",
+        "SCORE" : 4.9,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 48,
+          "END" : 54
+        }, {
+          "BEGIN" : 117,
+          "END" : 123
+        }, {
+          "BEGIN" : 931,
+          "END" : 937
+        }, {
+          "BEGIN" : 4167,
+          "END" : 4173
+        } ]
+      }, {
+        "LABEL" : "discussion",
+        "SCORE" : 4.2,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1604,
+          "END" : 1614
+        }, {
+          "BEGIN" : 1938,
+          "END" : 1948
+        } ]
+      }, {
+        "LABEL" : "phone",
+        "SCORE" : 4.1,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 3848,
+          "END" : 3853
+        }, {
+          "BEGIN" : 3871,
+          "END" : 3876
+        } ]
+      }, {
+        "LABEL" : "camera",
+        "SCORE" : 4.1,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 41,
+          "END" : 46
+        }, {
+          "BEGIN" : 160,
+          "END" : 165
+        } ]
+      }, {
+        "LABEL" : "Senator McConnell",
+        "SCORE" : 4.7,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 1299,
+          "END" : 1315
+        }, {
+          "BEGIN" : 1726,
+          "END" : 1742
+        } ]
+      }, {
+        "LABEL" : "Amy Klobuchar Democrat Minnesota",
+        "SCORE" : 4.5,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 56,
+          "END" : 87
+        }, {
+          "BEGIN" : 2699,
+          "END" : 2701
+        } ]
+      }, {
+        "LABEL" : "McCaskill",
+        "SCORE" : 2.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 939,
+          "END" : 947
+        }
+      }, {
+        "LABEL" : "good luck",
+        "SCORE" : 1.7,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 4185,
+          "END" : 4193
+        }, {
+          "BEGIN" : 4195,
+          "END" : 4203
+        } ]
+      }, {
+        "LABEL" : "quorum",
+        "SCORE" : 1.6,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 212,
+          "END" : 217
+        }, {
+          "BEGIN" : 252,
+          "END" : 257
+        } ]
+      }, {
+        "LABEL" : "colleague",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 685,
+          "END" : 694
+        }, {
+          "BEGIN" : 1638,
+          "END" : 1647
+        } ]
+      }, {
+        "LABEL" : "join",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 3878,
+          "END" : 3881
+        }
+      }, {
+        "LABEL" : "video",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 4472,
+          "END" : 4477
+        }, {
+          "BEGIN" : 4589,
+          "END" : 4594
+        } ]
+      }, {
+        "LABEL" : "resolution",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 572,
+          "END" : 581
+        }, {
+          "BEGIN" : 1256,
+          "END" : 1265
+        }, {
+          "BEGIN" : 1374,
+          "END" : 1383
+        } ]
+      }, {
+        "LABEL" : "amendment",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 557,
+          "END" : 566
+        }, {
+          "BEGIN" : 1815,
+          "END" : 1824
+        } ]
+      }, {
+        "LABEL" : "house evidence",
+        "SCORE" : 14.3,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1494,
+          "END" : 1507
+        }
+      }, {
+        "LABEL" : "people look",
+        "SCORE" : 12.6,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 3050,
+          "END" : 3060
+        }
+      }, {
+        "LABEL" : "phones join",
+        "SCORE" : 10.7,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 3871,
+          "END" : 3881
+        }
+      }, {
+        "LABEL" : "people in the country",
+        "SCORE" : 9.1,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 3635,
+          "END" : 3655
+        }
+      }, {
+        "LABEL" : "house managers case",
+        "SCORE" : 7.2,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 2436,
+          "END" : 2454
+        }
+      } ]
+    } ],
+    "FACTMINING" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "NAME" : "Trials",
+        "RULE" : {
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020"
+          }, {
+            "END" : 611,
+            "BEGIN" : 603,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 626,
+            "BEGIN" : 624,
+            "NAME" : "end"
+          }, {
+            "END" : 639,
+            "BEGIN" : 635,
+            "NAME" : "trial"
+          }, {
+            "END" : 922,
+            "BEGIN" : 914,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 1008,
+            "BEGIN" : 996,
+            "NAME" : "federal judge"
+          }, {
+            "END" : 1048,
+            "BEGIN" : 1040,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 2043,
+            "BEGIN" : 2035,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 2104,
+            "BEGIN" : 2096,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 3736,
+            "BEGIN" : 3728,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 3816,
+            "BEGIN" : 3808,
+            "NAME" : "witnesses"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 87,
+            "BEGIN" : 56,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Dates"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 384,
+            "BEGIN" : 382,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 647,
+            "BEGIN" : 645,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 803,
+            "BEGIN" : 801,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 856,
+            "BEGIN" : 850,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 947,
+            "BEGIN" : 939,
+            "NAME" : "McCaskill",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0011",
+            "COORD" : "31.0/-92.0",
+            "END" : 1021,
+            "BEGIN" : 1013,
+            "NAME" : "Louisiana",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1148,
+            "BEGIN" : 1142,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 1281,
+            "BEGIN" : 1276,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1315,
+            "BEGIN" : 1299,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1412,
+            "BEGIN" : 1410,
+            "NAME" : "day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 1742,
+            "BEGIN" : 1726,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 2209,
+            "BEGIN" : 2195,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2701,
+            "BEGIN" : 2699,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2735,
+            "BEGIN" : 2725,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2850,
+            "BEGIN" : 2846,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2913,
+            "BEGIN" : 2903,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "COORD" : "62.0/100.0",
+            "END" : 3259,
+            "BEGIN" : 3254,
+            "NAME" : "Russia",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3271,
+            "BEGIN" : 3261,
+            "NAME" : "in the past",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 3299,
+            "BEGIN" : 3293,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 3754,
+            "BEGIN" : 3752,
+            "NAME" : "70%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3928,
+            "BEGIN" : 3913,
+            "NAME" : "in there all day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4011,
+            "BEGIN" : 4000,
+            "NAME" : "at 4:00 a.m.",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003,
+            "NAME" : "4:00 a.m.",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0012",
+            "COORD" : "44.973057/-93.26417",
+            "END" : 4069,
+            "BEGIN" : 4059,
+            "NAME" : "Minneapolis",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 4173,
+            "BEGIN" : 4167,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 4353,
+            "BEGIN" : 4351,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 4382,
+            "BEGIN" : 4372,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }, {
+        "NAME" : "Election",
+        "RULE" : {
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020"
+          }, {
+            "END" : 423,
+            "BEGIN" : 421,
+            "NAME" : "yes"
+          }, {
+            "END" : 552,
+            "BEGIN" : 548,
+            "NAME" : "votes"
+          }, {
+            "END" : 1281,
+            "BEGIN" : 1276,
+            "NAME" : "Senate"
+          }, {
+            "END" : 2165,
+            "BEGIN" : 2161,
+            "NAME" : "close"
+          }, {
+            "END" : 3770,
+            "BEGIN" : 3763,
+            "NAME" : "American"
+          }, {
+            "END" : 3794,
+            "BEGIN" : 3791,
+            "NAME" : "poll"
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003,
+            "NAME" : "4:00 a.m."
+          }, {
+            "END" : 4560,
+            "BEGIN" : 4557,
+            "NAME" : "list"
+          } ],
+          "TOPIC" : {
+            "NAME" : "Voting"
+          },
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 87,
+            "BEGIN" : 56,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Dates"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 384,
+            "BEGIN" : 382,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 647,
+            "BEGIN" : 645,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 803,
+            "BEGIN" : 801,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 856,
+            "BEGIN" : 850,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 947,
+            "BEGIN" : 939,
+            "NAME" : "McCaskill",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0011",
+            "COORD" : "31.0/-92.0",
+            "END" : 1021,
+            "BEGIN" : 1013,
+            "NAME" : "Louisiana",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1148,
+            "BEGIN" : 1142,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 1281,
+            "BEGIN" : 1276,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1315,
+            "BEGIN" : 1299,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1412,
+            "BEGIN" : 1410,
+            "NAME" : "day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 1742,
+            "BEGIN" : 1726,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 2209,
+            "BEGIN" : 2195,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2701,
+            "BEGIN" : 2699,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2735,
+            "BEGIN" : 2725,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2850,
+            "BEGIN" : 2846,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2913,
+            "BEGIN" : 2903,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "COORD" : "62.0/100.0",
+            "END" : 3259,
+            "BEGIN" : 3254,
+            "NAME" : "Russia",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3271,
+            "BEGIN" : 3261,
+            "NAME" : "in the past",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 3299,
+            "BEGIN" : 3293,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 3754,
+            "BEGIN" : 3752,
+            "NAME" : "70%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3928,
+            "BEGIN" : 3913,
+            "NAME" : "in there all day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4011,
+            "BEGIN" : 4000,
+            "NAME" : "at 4:00 a.m.",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003,
+            "NAME" : "4:00 a.m.",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0012",
+            "COORD" : "44.973057/-93.26417",
+            "END" : 4069,
+            "BEGIN" : 4059,
+            "NAME" : "Minneapolis",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 4173,
+            "BEGIN" : 4167,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 4353,
+            "BEGIN" : 4351,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 4382,
+            "BEGIN" : 4372,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }, {
+        "NAME" : "Crime",
+        "RULE" : {
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1781,
+            "BEGIN" : 1776,
+            "NAME" : "fights"
+          }, {
+            "END" : 2835,
+            "BEGIN" : 2830,
+            "NAME" : "caught"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 87,
+            "BEGIN" : 56,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Dates"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 384,
+            "BEGIN" : 382,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 647,
+            "BEGIN" : 645,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 803,
+            "BEGIN" : 801,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 856,
+            "BEGIN" : 850,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 947,
+            "BEGIN" : 939,
+            "NAME" : "McCaskill",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0011",
+            "COORD" : "31.0/-92.0",
+            "END" : 1021,
+            "BEGIN" : 1013,
+            "NAME" : "Louisiana",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1148,
+            "BEGIN" : 1142,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 1281,
+            "BEGIN" : 1276,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1315,
+            "BEGIN" : 1299,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1412,
+            "BEGIN" : 1410,
+            "NAME" : "day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 1742,
+            "BEGIN" : 1726,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 2209,
+            "BEGIN" : 2195,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2701,
+            "BEGIN" : 2699,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2735,
+            "BEGIN" : 2725,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2850,
+            "BEGIN" : 2846,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2913,
+            "BEGIN" : 2903,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "COORD" : "62.0/100.0",
+            "END" : 3259,
+            "BEGIN" : 3254,
+            "NAME" : "Russia",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3271,
+            "BEGIN" : 3261,
+            "NAME" : "in the past",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 3299,
+            "BEGIN" : 3293,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 3754,
+            "BEGIN" : 3752,
+            "NAME" : "70%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3928,
+            "BEGIN" : 3913,
+            "NAME" : "in there all day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4011,
+            "BEGIN" : 4000,
+            "NAME" : "at 4:00 a.m.",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003,
+            "NAME" : "4:00 a.m.",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0012",
+            "COORD" : "44.973057/-93.26417",
+            "END" : 4069,
+            "BEGIN" : 4059,
+            "NAME" : "Minneapolis",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 4173,
+            "BEGIN" : 4167,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 4353,
+            "BEGIN" : 4351,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 4382,
+            "BEGIN" : 4372,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }, {
+        "NAME" : "Defence",
+        "RULE" : {
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 2065,
+            "BEGIN" : 2059,
+            "NAME" : "hearing"
+          }, {
+            "END" : 3129,
+            "BEGIN" : 3113,
+            "NAME" : "national security"
+          } ],
+          "TOPIC" : {
+            "NAME" : "National Security"
+          },
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 87,
+            "BEGIN" : 56,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Dates"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 384,
+            "BEGIN" : 382,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 647,
+            "BEGIN" : 645,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 803,
+            "BEGIN" : 801,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 856,
+            "BEGIN" : 850,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 947,
+            "BEGIN" : 939,
+            "NAME" : "McCaskill",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0011",
+            "COORD" : "31.0/-92.0",
+            "END" : 1021,
+            "BEGIN" : 1013,
+            "NAME" : "Louisiana",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1148,
+            "BEGIN" : 1142,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 1281,
+            "BEGIN" : 1276,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1315,
+            "BEGIN" : 1299,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1412,
+            "BEGIN" : 1410,
+            "NAME" : "day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 1742,
+            "BEGIN" : 1726,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 2209,
+            "BEGIN" : 2195,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2701,
+            "BEGIN" : 2699,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2735,
+            "BEGIN" : 2725,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2850,
+            "BEGIN" : 2846,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2913,
+            "BEGIN" : 2903,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "COORD" : "62.0/100.0",
+            "END" : 3259,
+            "BEGIN" : 3254,
+            "NAME" : "Russia",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3271,
+            "BEGIN" : 3261,
+            "NAME" : "in the past",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 3299,
+            "BEGIN" : 3293,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 3754,
+            "BEGIN" : 3752,
+            "NAME" : "70%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3928,
+            "BEGIN" : 3913,
+            "NAME" : "in there all day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4011,
+            "BEGIN" : 4000,
+            "NAME" : "at 4:00 a.m.",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003,
+            "NAME" : "4:00 a.m.",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0012",
+            "COORD" : "44.973057/-93.26417",
+            "END" : 4069,
+            "BEGIN" : 4059,
+            "NAME" : "Minneapolis",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 4173,
+            "BEGIN" : 4167,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 4353,
+            "BEGIN" : 4351,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 4382,
+            "BEGIN" : 4372,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }, {
+        "NAME" : "Judiciary (System of Justice)",
+        "RULE" : {
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 611,
+            "BEGIN" : 603,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 639,
+            "BEGIN" : 635,
+            "NAME" : "trial"
+          }, {
+            "END" : 922,
+            "BEGIN" : 914,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 1048,
+            "BEGIN" : 1040,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 1062,
+            "BEGIN" : 1059,
+            "NAME" : "case"
+          }, {
+            "END" : 1507,
+            "BEGIN" : 1500,
+            "NAME" : "evidence"
+          }, {
+            "END" : 2043,
+            "BEGIN" : 2035,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 2117,
+            "BEGIN" : 2110,
+            "NAME" : "evidence"
+          }, {
+            "END" : 2528,
+            "BEGIN" : 2522,
+            "NAME" : "lawyers"
+          }, {
+            "END" : 3329,
+            "BEGIN" : 3322,
+            "NAME" : "evidence"
+          }, {
+            "END" : 3554,
+            "BEGIN" : 3550,
+            "NAME" : "juror"
+          }, {
+            "END" : 3736,
+            "BEGIN" : 3728,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 3816,
+            "BEGIN" : 3808,
+            "NAME" : "witnesses"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 87,
+            "BEGIN" : 56,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Dates"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 384,
+            "BEGIN" : 382,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 647,
+            "BEGIN" : 645,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 803,
+            "BEGIN" : 801,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 856,
+            "BEGIN" : 850,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 947,
+            "BEGIN" : 939,
+            "NAME" : "McCaskill",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0011",
+            "COORD" : "31.0/-92.0",
+            "END" : 1021,
+            "BEGIN" : 1013,
+            "NAME" : "Louisiana",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1148,
+            "BEGIN" : 1142,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 1281,
+            "BEGIN" : 1276,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1315,
+            "BEGIN" : 1299,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1412,
+            "BEGIN" : 1410,
+            "NAME" : "day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 1742,
+            "BEGIN" : 1726,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 2209,
+            "BEGIN" : 2195,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2701,
+            "BEGIN" : 2699,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2735,
+            "BEGIN" : 2725,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2850,
+            "BEGIN" : 2846,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2913,
+            "BEGIN" : 2903,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "COORD" : "62.0/100.0",
+            "END" : 3259,
+            "BEGIN" : 3254,
+            "NAME" : "Russia",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3271,
+            "BEGIN" : 3261,
+            "NAME" : "in the past",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 3299,
+            "BEGIN" : 3293,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 3754,
+            "BEGIN" : 3752,
+            "NAME" : "70%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3928,
+            "BEGIN" : 3913,
+            "NAME" : "in there all day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4011,
+            "BEGIN" : 4000,
+            "NAME" : "at 4:00 a.m.",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003,
+            "NAME" : "4:00 a.m.",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0012",
+            "COORD" : "44.973057/-93.26417",
+            "END" : 4069,
+            "BEGIN" : 4059,
+            "NAME" : "Minneapolis",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 4173,
+            "BEGIN" : 4167,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 4353,
+            "BEGIN" : 4351,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 4382,
+            "BEGIN" : 4372,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : {
+        "NAME" : "Investigations, inquiries and legal proceedings",
+        "RULE" : {
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 485,
+            "BEGIN" : 479,
+            "NAME" : "motions"
+          }, {
+            "END" : 626,
+            "BEGIN" : 624,
+            "NAME" : "end"
+          }, {
+            "END" : 639,
+            "BEGIN" : 635,
+            "NAME" : "trial"
+          }, {
+            "END" : 1008,
+            "BEGIN" : 996,
+            "NAME" : "federal judge"
+          }, {
+            "END" : 1062,
+            "BEGIN" : 1059,
+            "NAME" : "case"
+          }, {
+            "END" : 1507,
+            "BEGIN" : 1500,
+            "NAME" : "evidence"
+          }, {
+            "END" : 2104,
+            "BEGIN" : 2096,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 2117,
+            "BEGIN" : 2110,
+            "NAME" : "evidence"
+          }, {
+            "END" : 2528,
+            "BEGIN" : 2522,
+            "NAME" : "lawyers"
+          }, {
+            "END" : 3329,
+            "BEGIN" : 3322,
+            "NAME" : "evidence"
+          }, {
+            "END" : 3554,
+            "BEGIN" : 3550,
+            "NAME" : "juror"
+          }, {
+            "END" : 3794,
+            "BEGIN" : 3791,
+            "NAME" : "poll"
+          } ],
+          "TOPIC" : [ {
+            "NAME" : "Judicial proceedings"
+          }, {
+            "NAME" : "Police operations"
+          }, {
+            "NAME" : "Investigations and inquiries"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 87,
+            "BEGIN" : 56,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Dates"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 384,
+            "BEGIN" : 382,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 647,
+            "BEGIN" : 645,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 803,
+            "BEGIN" : 801,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 856,
+            "BEGIN" : 850,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 947,
+            "BEGIN" : 939,
+            "NAME" : "McCaskill",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0011",
+            "COORD" : "31.0/-92.0",
+            "END" : 1021,
+            "BEGIN" : 1013,
+            "NAME" : "Louisiana",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1148,
+            "BEGIN" : 1142,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 1281,
+            "BEGIN" : 1276,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1315,
+            "BEGIN" : 1299,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1412,
+            "BEGIN" : 1410,
+            "NAME" : "day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 1742,
+            "BEGIN" : 1726,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 2209,
+            "BEGIN" : 2195,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2701,
+            "BEGIN" : 2699,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2735,
+            "BEGIN" : 2725,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2850,
+            "BEGIN" : 2846,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2913,
+            "BEGIN" : 2903,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "COORD" : "62.0/100.0",
+            "END" : 3259,
+            "BEGIN" : 3254,
+            "NAME" : "Russia",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3271,
+            "BEGIN" : 3261,
+            "NAME" : "in the past",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 3299,
+            "BEGIN" : 3293,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 3754,
+            "BEGIN" : 3752,
+            "NAME" : "70%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3928,
+            "BEGIN" : 3913,
+            "NAME" : "in there all day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4011,
+            "BEGIN" : 4000,
+            "NAME" : "at 4:00 a.m.",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003,
+            "NAME" : "4:00 a.m.",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0012",
+            "COORD" : "44.973057/-93.26417",
+            "END" : 4069,
+            "BEGIN" : 4059,
+            "NAME" : "Minneapolis",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 4173,
+            "BEGIN" : 4167,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 4353,
+            "BEGIN" : 4351,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 4382,
+            "BEGIN" : 4372,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ {
+        "NAME" : "United States of America",
+        "PROP" : [ {
+          "CONTINENT" : "North America"
+        }, {
+          "COORD" : "39.759724/-98.5"
+        } ],
+        "RULE" : {
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1021,
+            "BEGIN" : 1013,
+            "NAME" : "Louisiana"
+          }, {
+            "END" : 4069,
+            "BEGIN" : 4059,
+            "NAME" : "Minneapolis"
+          } ],
+          "TOPIC" : [ {
+            "NAME" : "Minnesota"
+          }, {
+            "NAME" : "Louisiana"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 87,
+            "BEGIN" : 56,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Dates"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 384,
+            "BEGIN" : 382,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 647,
+            "BEGIN" : 645,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 803,
+            "BEGIN" : 801,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 856,
+            "BEGIN" : 850,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 947,
+            "BEGIN" : 939,
+            "NAME" : "McCaskill",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0011",
+            "COORD" : "31.0/-92.0",
+            "END" : 1021,
+            "BEGIN" : 1013,
+            "NAME" : "Louisiana",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1148,
+            "BEGIN" : 1142,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 1281,
+            "BEGIN" : 1276,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1315,
+            "BEGIN" : 1299,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1412,
+            "BEGIN" : 1410,
+            "NAME" : "day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 1742,
+            "BEGIN" : 1726,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 2209,
+            "BEGIN" : 2195,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2701,
+            "BEGIN" : 2699,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2735,
+            "BEGIN" : 2725,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2850,
+            "BEGIN" : 2846,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2913,
+            "BEGIN" : 2903,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "COORD" : "62.0/100.0",
+            "END" : 3259,
+            "BEGIN" : 3254,
+            "NAME" : "Russia",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3271,
+            "BEGIN" : 3261,
+            "NAME" : "in the past",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 3299,
+            "BEGIN" : 3293,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 3754,
+            "BEGIN" : 3752,
+            "NAME" : "70%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3928,
+            "BEGIN" : 3913,
+            "NAME" : "in there all day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4011,
+            "BEGIN" : 4000,
+            "NAME" : "at 4:00 a.m.",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003,
+            "NAME" : "4:00 a.m.",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0012",
+            "COORD" : "44.973057/-93.26417",
+            "END" : 4069,
+            "BEGIN" : 4059,
+            "NAME" : "Minneapolis",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 4173,
+            "BEGIN" : 4167,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 4353,
+            "BEGIN" : 4351,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 4382,
+            "BEGIN" : 4372,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }, {
+        "NAME" : "Ukraine",
+        "PROP" : [ {
+          "CONTINENT" : "Europe"
+        }, {
+          "COORD" : "49.0/32.0"
+        } ],
+        "RULE" : {
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3299,
+            "BEGIN" : 3293,
+            "NAME" : "Ukraine"
+          },
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 87,
+            "BEGIN" : 56,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Dates"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 384,
+            "BEGIN" : 382,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 647,
+            "BEGIN" : 645,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 803,
+            "BEGIN" : 801,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 856,
+            "BEGIN" : 850,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 947,
+            "BEGIN" : 939,
+            "NAME" : "McCaskill",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0011",
+            "COORD" : "31.0/-92.0",
+            "END" : 1021,
+            "BEGIN" : 1013,
+            "NAME" : "Louisiana",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1148,
+            "BEGIN" : 1142,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 1281,
+            "BEGIN" : 1276,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1315,
+            "BEGIN" : 1299,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1412,
+            "BEGIN" : 1410,
+            "NAME" : "day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 1742,
+            "BEGIN" : 1726,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 2209,
+            "BEGIN" : 2195,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2701,
+            "BEGIN" : 2699,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2735,
+            "BEGIN" : 2725,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2850,
+            "BEGIN" : 2846,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2913,
+            "BEGIN" : 2903,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "COORD" : "62.0/100.0",
+            "END" : 3259,
+            "BEGIN" : 3254,
+            "NAME" : "Russia",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3271,
+            "BEGIN" : 3261,
+            "NAME" : "in the past",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 3299,
+            "BEGIN" : 3293,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 3754,
+            "BEGIN" : 3752,
+            "NAME" : "70%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3928,
+            "BEGIN" : 3913,
+            "NAME" : "in there all day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4011,
+            "BEGIN" : 4000,
+            "NAME" : "at 4:00 a.m.",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003,
+            "NAME" : "4:00 a.m.",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0012",
+            "COORD" : "44.973057/-93.26417",
+            "END" : 4069,
+            "BEGIN" : 4059,
+            "NAME" : "Minneapolis",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 4173,
+            "BEGIN" : 4167,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 4353,
+            "BEGIN" : 4351,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 4382,
+            "BEGIN" : 4372,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }, {
+        "NAME" : "Russia",
+        "PROP" : [ {
+          "CONTINENT" : "Europe"
+        }, {
+          "COORD" : "60.0/100.0"
+        } ],
+        "RULE" : {
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3259,
+            "BEGIN" : 3254,
+            "NAME" : "Russia"
+          },
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 87,
+            "BEGIN" : 56,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Dates"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 384,
+            "BEGIN" : 382,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 647,
+            "BEGIN" : 645,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 803,
+            "BEGIN" : 801,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 856,
+            "BEGIN" : 850,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 947,
+            "BEGIN" : 939,
+            "NAME" : "McCaskill",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0011",
+            "COORD" : "31.0/-92.0",
+            "END" : 1021,
+            "BEGIN" : 1013,
+            "NAME" : "Louisiana",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1148,
+            "BEGIN" : 1142,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 1281,
+            "BEGIN" : 1276,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1315,
+            "BEGIN" : 1299,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1412,
+            "BEGIN" : 1410,
+            "NAME" : "day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 1742,
+            "BEGIN" : 1726,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 2209,
+            "BEGIN" : 2195,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2701,
+            "BEGIN" : 2699,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2735,
+            "BEGIN" : 2725,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2850,
+            "BEGIN" : 2846,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2913,
+            "BEGIN" : 2903,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "COORD" : "62.0/100.0",
+            "END" : 3259,
+            "BEGIN" : 3254,
+            "NAME" : "Russia",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3271,
+            "BEGIN" : 3261,
+            "NAME" : "in the past",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 3299,
+            "BEGIN" : 3293,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 3754,
+            "BEGIN" : 3752,
+            "NAME" : "70%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3928,
+            "BEGIN" : 3913,
+            "NAME" : "in there all day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4011,
+            "BEGIN" : 4000,
+            "NAME" : "at 4:00 a.m.",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003,
+            "NAME" : "4:00 a.m.",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0012",
+            "COORD" : "44.973057/-93.26417",
+            "END" : 4069,
+            "BEGIN" : 4059,
+            "NAME" : "Minneapolis",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 4173,
+            "BEGIN" : 4167,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 4353,
+            "BEGIN" : 4351,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 4382,
+            "BEGIN" : 4372,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "NAME" : "Seriousness",
+        "RULE" : {
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 2757,
+            "BEGIN" : 2749,
+            "NAME" : "seriously"
+          }, {
+            "END" : 3032,
+            "BEGIN" : 3022,
+            "NAME" : "seriousness"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 87,
+            "BEGIN" : 56,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Dates"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 384,
+            "BEGIN" : 382,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 647,
+            "BEGIN" : 645,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 803,
+            "BEGIN" : 801,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 856,
+            "BEGIN" : 850,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 947,
+            "BEGIN" : 939,
+            "NAME" : "McCaskill",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0011",
+            "COORD" : "31.0/-92.0",
+            "END" : 1021,
+            "BEGIN" : 1013,
+            "NAME" : "Louisiana",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1148,
+            "BEGIN" : 1142,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 1281,
+            "BEGIN" : 1276,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1315,
+            "BEGIN" : 1299,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1412,
+            "BEGIN" : 1410,
+            "NAME" : "day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 1742,
+            "BEGIN" : 1726,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 2209,
+            "BEGIN" : 2195,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2701,
+            "BEGIN" : 2699,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2735,
+            "BEGIN" : 2725,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2850,
+            "BEGIN" : 2846,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2913,
+            "BEGIN" : 2903,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "COORD" : "62.0/100.0",
+            "END" : 3259,
+            "BEGIN" : 3254,
+            "NAME" : "Russia",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3271,
+            "BEGIN" : 3261,
+            "NAME" : "in the past",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 3299,
+            "BEGIN" : 3293,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 3754,
+            "BEGIN" : 3752,
+            "NAME" : "70%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3928,
+            "BEGIN" : 3913,
+            "NAME" : "in there all day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4011,
+            "BEGIN" : 4000,
+            "NAME" : "at 4:00 a.m.",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003,
+            "NAME" : "4:00 a.m.",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0012",
+            "COORD" : "44.973057/-93.26417",
+            "END" : 4069,
+            "BEGIN" : 4059,
+            "NAME" : "Minneapolis",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 4173,
+            "BEGIN" : 4167,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 4353,
+            "BEGIN" : 4351,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 4382,
+            "BEGIN" : 4372,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }, {
+        "NAME" : "Surprise",
+        "RULE" : {
+          "END" : 4594,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 674,
+            "BEGIN" : 668,
+            "NAME" : "stunned"
+          }, {
+            "END" : 2429,
+            "BEGIN" : 2421,
+            "NAME" : "impressed"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 87,
+            "BEGIN" : 56,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 92,
+            "BEGIN" : 89,
+            "NAME" : "2020",
+            "TYPE" : "Dates"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 384,
+            "BEGIN" : 382,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 647,
+            "BEGIN" : 645,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 803,
+            "BEGIN" : 801,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 856,
+            "BEGIN" : 850,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0004",
+            "END" : 947,
+            "BEGIN" : 939,
+            "NAME" : "McCaskill",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0011",
+            "COORD" : "31.0/-92.0",
+            "END" : 1021,
+            "BEGIN" : 1013,
+            "NAME" : "Louisiana",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1148,
+            "BEGIN" : 1142,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 1281,
+            "BEGIN" : 1276,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0003",
+            "END" : 1315,
+            "BEGIN" : 1299,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1412,
+            "BEGIN" : 1410,
+            "NAME" : "day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0003",
+            "END" : 1742,
+            "BEGIN" : 1726,
+            "NAME" : "Senator McConnell",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 2209,
+            "BEGIN" : 2195,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2701,
+            "BEGIN" : 2699,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2735,
+            "BEGIN" : 2725,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2850,
+            "BEGIN" : 2846,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2913,
+            "BEGIN" : 2903,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0009",
+            "COORD" : "62.0/100.0",
+            "END" : 3259,
+            "BEGIN" : 3254,
+            "NAME" : "Russia",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 3271,
+            "BEGIN" : 3261,
+            "NAME" : "in the past",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "COORD" : "49.0/32.0",
+            "END" : 3299,
+            "BEGIN" : 3293,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 3754,
+            "BEGIN" : 3752,
+            "NAME" : "70%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3928,
+            "BEGIN" : 3913,
+            "NAME" : "in there all day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4011,
+            "BEGIN" : 4000,
+            "NAME" : "at 4:00 a.m.",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 4011,
+            "BEGIN" : 4003,
+            "NAME" : "4:00 a.m.",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0012",
+            "COORD" : "44.973057/-93.26417",
+            "END" : 4069,
+            "BEGIN" : 4059,
+            "NAME" : "Minneapolis",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 4173,
+            "BEGIN" : 4167,
+            "NAME" : "Amy Klobuchar Democrat Minnesota",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 4353,
+            "BEGIN" : 4351,
+            "NAME" : "Hakeem Jeffries",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 4382,
+            "BEGIN" : 4372,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      } ]
+    } ],
+    "WRITEPRINT" : {
+      "FEATURE" : "INDEXES",
+      "READABILITY_INDEX" : {
+        "GRADE_LEVEL" : 15,
+        "EVALUATION" : "LOW",
+        "VALUE" : 0.0
+      },
+      "STYLE_INDEXES" : {
+        "SEMANTIC_INDEXES" : {
+          "DOCUMENT_STRUCTURE" : {
+            "INDEX" : [ {
+              "VALUE" : 1.0,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "N_SENT"
+            }, {
+              "VALUE" : 4595.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "CHAR_PER_SENT"
+            }, {
+              "VALUE" : 844.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "WORD_PER_SENT"
+            } ]
+          },
+          "VOCABULARY_RICHNESS" : {
+            "INDEX" : [ {
+              "VALUE" : 86.43,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "SEMANTIC_RICHNESS"
+            }, {
+              "VALUE" : 53.86,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "DIFFERENT_LEMMA"
+            }, {
+              "VALUE" : 29.19,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "SHORT_WORD"
+            }, {
+              "VALUE" : 3.52,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "HIGH_FREQ"
+            }, {
+              "VALUE" : 3.75,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ADVANCED_WORD"
+            }, {
+              "VALUE" : 0.23,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ACADEMIC_WORD"
+            }, {
+              "VALUE" : 82.44,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "COMMON_WORD"
+            } ]
+          },
+          "GRAMMAR" : {
+            "INDEX" : [ {
+              "VALUE" : 14.45,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_NOU"
+            }, {
+              "VALUE" : 7.46,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADJ"
+            }, {
+              "VALUE" : 18.84,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_VER"
+            }, {
+              "VALUE" : 8.29,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_CON"
+            }, {
+              "VALUE" : 9.83,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADV"
+            }, {
+              "VALUE" : 0.63,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_CONDITIONAL"
+            }, {
+              "VALUE" : 6.92,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ED_FORM"
+            }, {
+              "VALUE" : 0.63,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_FUTURE"
+            }, {
+              "VALUE" : 14.47,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ING_FORM"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PAST_PERFECT"
+            }, {
+              "VALUE" : 4.4,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PRESENT_PERFECT"
+            }, {
+              "VALUE" : 8.18,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PAST"
+            }, {
+              "VALUE" : 52.83,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PRESENT"
+            }, {
+              "VALUE" : 11.95,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_UNDEFINED"
+            } ]
+          },
+          "REGISTER" : {
+            "INDEX" : [ {
+              "VALUE" : 0.24,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_ABBREVIATION"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_FOREIGN"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_LITERARY"
+            }, {
+              "VALUE" : 0.36,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_SLANG"
+            }, {
+              "VALUE" : 0.12,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CRIMINAL_ENTERPRISE_SLANG"
+            }, {
+              "VALUE" : 0.95,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CYBER_ILLEGAL_SLANG"
+            }, {
+              "VALUE" : 0.24,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_MILITARY_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_SOCIAL_SLANG"
+            } ]
+          },
+          "CHAINS" : {
+            "CHAIN-INDEX" : [ {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ABOUT_NATURAL_EVENTS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.26,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ILLEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "INCORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "LEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ASSAILMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.63,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DISSENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DRUGS_USE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.26,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ECONOMY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_EXISTENCE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FINANCES",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FIRING_A_WEAPON",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.63,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERAL_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 6.92,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_CREATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INFORMATICS_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INVESTIGATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LAW",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 11.95,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MILITARY_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 6.29,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.26,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT_ON_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 3.14,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_NO_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POLITICS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 6.29,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POSSESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 3.14,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_PSYCHOLOGICAL_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 4.4,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SHIFT_OF_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SOCIAL_BEHAVIOUR",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TAKING",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.26,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRADE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRAVEL",
+              "TYPE" : "VER"
+            } ]
+          }
+        }
+      }
+    }
+  }
+}

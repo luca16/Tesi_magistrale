@@ -1,0 +1,6016 @@
+{
+  "RESPONSE" : {
+    "TRANSACTIONS" : {
+      "dailyCount" : "540",
+      "limit" : "1000"
+    },
+    "DOCUMENT" : "Donald Trump is in the biggest mess of what has been a very messy political career. There's already been the Mueller investigation, his handling of the border crisis, his firing of James Comey, and all the shenanigans that went on during his presidential campaign. But now the Ukraine scandal is threatening to outweigh all of that. It's looking like Trump could be â€¦ impeached. You can't impeach a president for doing a great job. So what is impeachment? Impeachment is a step in the process of removing a president from office. A process that could end with Trump being told: you're fired. You're fired! You're fired! You're fired! Get out of here! A president can be impeached for treason or bribery, or the rather vague \"high crimes and misdemeanours\". High crimes and misdemeanours isn't really defined in the US constitution. But it essentially means, you know, having been up to no good. News presenter: Five people have been arrested and charge with breaking in the headquarters of the Democratic National Committee. Presidents have been impeached before. But it doesn't happen often. Bill Clinton was impeached in 1998. He was accused of obstructing justice and lying under oath. I did not have sexual relations with that woman. I misled people. Including even my wife. Andrew Johnson was impeached in 1868. Johnson was seen as too sympathetic to Confederate leaders in the wake of the American civil war. He was ultimately nobbled when he fired his secretary of war. The House of Representatives was preparing to impeach Richard Nixon in 1974, after people connected with Nixon's re-election campaign broke into the Democratic party headquarters, Watergate, and Nixon tried to cover it up. But Nixon resigned before he could be impeached. I shall resign the presidency effective at noon tomorrow. They're pursuing an illegal, invalid and unconstitutional bullshit impeachment. If Trump is impeached it seems likely it'll be over his dealings with Ukraine. But long before we found out about Trump asking Ukraine to investigate Joe Biden, there were already moves to impeach the president. In fact, one particularly keen Democratic congressman began calling for Trump to be impeached in May 2017. This offence has occurred before our very eyes. And even before that infamous Ukraine phone call, Trump was already under investigation for things that could have led to impeachment. Things including: paying off a porn star following an alleged affair; his refusal to release his tax returns, and whether anything nefarious is exposed in those returns; profiting off the office of president, like in his DC hotel, where numerous foreign dignitaries have stayed; interfering with Robert Mueller's investigation into Russian election interference; firing James Comey, who was head of the FBI. So how would Trump be impeached? It's the House of Representatives that decides whether to impeach a president. Someone will present \"articles of impeachment\". Essentially, documents detailing the accusations against Trump. The articles are then voted on by the House judiciary committee. Democrats have a majority on the judiciary committee, so that could be plain sailing. Then the entire House of Representatives - 435 congressmen and women - vote on whether to impeach. If a simple majority vote to impeach, then Trump is impeached. 225 representatives have already said they support impeachment, so that kind of seems like a done deal: Trump will be impeached. But being impeached doesn't mean Trump will be packing up his golf clubs, bathrobes and golden chairs just yet. It just means everything moves to the Senate, where things get a little trickier. Impeachment means a president, in this case, Donald Trump, is essentially put on trial in the Senate. In there, the 100 senators, two from each state, act as the jury. If a two-thirds majority of the senators vote to convict, then it's bye bye Trump. Bye bye! Bye bye! Bye bye! Bye bye! Bye bye! Of course, the whole process is lined with potential political pitfalls. Nancy Pelosi, the top Democrat, had been reluctant to start the impeachment process. It could galvanise Trump's rock-solid \"make America great again\" base who already see the president as the victim of a grand deep-state conspiracy. It's a waste of time. Because it seems like it's biased. Do you have any regrets? No, I would vote for him again. On the other hand, about half of the American public are now in favour of impeachment. Perhaps voters will appreciate the Democrats' bolder stance. What we do know is that right now 53 of the 100 senators are Republicans. At this moment in time, they might not be keen to give their president the boot. But, this is Donald Trump. Who knows what could come up between now, and a Senate trial. And if public opinion continues to turn against Trump, don't be surprised if some of his Republican colleagues start to turn against him too.\n",
+    "CATEGORIZATION" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 26.43,
+        "SCORE" : 70590,
+        "NAME" : "Politics",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 82,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 74,
+            "BEGIN" : 66
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 82,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 11,
+            "BEGIN" : 0
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 263,
+          "BEGIN" : 84,
+          "OPERAND" : {
+            "END" : 262,
+            "BEGIN" : 242
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 377,
+          "BEGIN" : 333,
+          "OPERAND" : {
+            "END" : 355,
+            "BEGIN" : 351
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 430,
+          "BEGIN" : 379,
+          "OPERAND" : {
+            "END" : 407,
+            "BEGIN" : 399
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 528,
+          "BEGIN" : 456,
+          "OPERAND" : {
+            "END" : 527,
+            "BEGIN" : 522
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 528,
+          "BEGIN" : 456,
+          "OPERAND" : {
+            "END" : 515,
+            "BEGIN" : 507
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 590,
+          "BEGIN" : 530,
+          "OPERAND" : {
+            "END" : 564,
+            "BEGIN" : 560
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : {
+            "END" : 661,
+            "BEGIN" : 653
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1062,
+          "BEGIN" : 1025,
+          "OPERAND" : {
+            "END" : 1034,
+            "BEGIN" : 1025
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1127,
+          "BEGIN" : 1093,
+          "OPERAND" : {
+            "END" : 1104,
+            "BEGIN" : 1093
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1315,
+          "BEGIN" : 1279,
+          "OPERAND" : {
+            "END" : 1292,
+            "BEGIN" : 1279
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1413,
+          "BEGIN" : 1317,
+          "OPERAND" : {
+            "END" : 1323,
+            "BEGIN" : 1317
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1698,
+          "BEGIN" : 1477,
+          "OPERAND" : {
+            "END" : 1600,
+            "BEGIN" : 1590
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1698,
+          "BEGIN" : 1477,
+          "OPERAND" : {
+            "END" : 1504,
+            "BEGIN" : 1481
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1698,
+          "BEGIN" : 1477,
+          "OPERAND" : {
+            "END" : 1586,
+            "BEGIN" : 1582
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1698,
+          "BEGIN" : 1477,
+          "OPERAND" : {
+            "END" : 1543,
+            "BEGIN" : 1531
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1698,
+          "BEGIN" : 1477,
+          "OPERAND" : {
+            "END" : 1676,
+            "BEGIN" : 1672
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1698,
+          "BEGIN" : 1477,
+          "OPERAND" : {
+            "END" : 1641,
+            "BEGIN" : 1637
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1698,
+          "BEGIN" : 1477,
+          "OPERAND" : {
+            "END" : 1665,
+            "BEGIN" : 1657
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1698,
+          "BEGIN" : 1477,
+          "OPERAND" : {
+            "END" : 1635,
+            "BEGIN" : 1626
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1747,
+          "BEGIN" : 1700,
+          "OPERAND" : {
+            "END" : 1708,
+            "BEGIN" : 1704
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1805,
+          "BEGIN" : 1749,
+          "OPERAND" : {
+            "END" : 1777,
+            "BEGIN" : 1768
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1964,
+          "BEGIN" : 1887,
+          "OPERAND" : {
+            "END" : 1894,
+            "BEGIN" : 1890
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : {
+            "END" : 2096,
+            "BEGIN" : 2088
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : {
+            "END" : 2005,
+            "BEGIN" : 2001
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 2204,
+          "BEGIN" : 2099,
+          "OPERAND" : {
+            "END" : 2175,
+            "BEGIN" : 2171
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 2204,
+          "BEGIN" : 2099,
+          "OPERAND" : {
+            "END" : 2151,
+            "BEGIN" : 2141
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2204,
+          "BEGIN" : 2099,
+          "OPERAND" : {
+            "END" : 2139,
+            "BEGIN" : 2130
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 2387,
+          "BEGIN" : 2254,
+          "OPERAND" : {
+            "END" : 2308,
+            "BEGIN" : 2304
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2795,
+          "BEGIN" : 2389,
+          "OPERAND" : {
+            "END" : 2736,
+            "BEGIN" : 2729
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 2795,
+          "BEGIN" : 2389,
+          "OPERAND" : {
+            "END" : 2595,
+            "BEGIN" : 2587
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 2828,
+          "BEGIN" : 2797,
+          "OPERAND" : {
+            "END" : 2814,
+            "BEGIN" : 2810
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2907,
+          "BEGIN" : 2830,
+          "OPERAND" : {
+            "END" : 2862,
+            "BEGIN" : 2839
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 2907,
+          "BEGIN" : 2830,
+          "OPERAND" : {
+            "END" : 2906,
+            "BEGIN" : 2898
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 3019,
+          "BEGIN" : 2957,
+          "OPERAND" : {
+            "END" : 3018,
+            "BEGIN" : 3014
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3084,
+          "BEGIN" : 3021,
+          "OPERAND" : {
+            "END" : 3063,
+            "BEGIN" : 3059
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3170,
+          "BEGIN" : 3086,
+          "OPERAND" : {
+            "END" : 3110,
+            "BEGIN" : 3103
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3170,
+          "BEGIN" : 3086,
+          "OPERAND" : {
+            "END" : 3094,
+            "BEGIN" : 3086
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3269,
+          "BEGIN" : 3172,
+          "OPERAND" : {
+            "END" : 3211,
+            "BEGIN" : 3188
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3269,
+          "BEGIN" : 3172,
+          "OPERAND" : {
+            "END" : 3246,
+            "BEGIN" : 3243
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 3269,
+          "BEGIN" : 3172,
+          "OPERAND" : {
+            "END" : 3229,
+            "BEGIN" : 3219
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : {
+            "END" : 3295,
+            "BEGIN" : 3292
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : {
+            "END" : 3318,
+            "BEGIN" : 3314
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 3461,
+          "BEGIN" : 3334,
+          "OPERAND" : {
+            "END" : 3442,
+            "BEGIN" : 3438
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 3573,
+          "BEGIN" : 3463,
+          "OPERAND" : {
+            "END" : 3500,
+            "BEGIN" : 3496
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3655,
+          "BEGIN" : 3575,
+          "OPERAND" : {
+            "END" : 3618,
+            "BEGIN" : 3613
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3757,
+          "BEGIN" : 3657,
+          "OPERAND" : {
+            "END" : 3756,
+            "BEGIN" : 3751
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 3757,
+          "BEGIN" : 3657,
+          "OPERAND" : {
+            "END" : 3713,
+            "BEGIN" : 3702
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 3757,
+          "BEGIN" : 3657,
+          "OPERAND" : {
+            "END" : 3685,
+            "BEGIN" : 3677
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3823,
+          "BEGIN" : 3759,
+          "OPERAND" : {
+            "END" : 3805,
+            "BEGIN" : 3801
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 3823,
+          "BEGIN" : 3759,
+          "OPERAND" : {
+            "END" : 3784,
+            "BEGIN" : 3777
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 3906,
+          "BEGIN" : 3825,
+          "OPERAND" : {
+            "END" : 3864,
+            "BEGIN" : 3857
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 3906,
+          "BEGIN" : 3825,
+          "OPERAND" : {
+            "END" : 3905,
+            "BEGIN" : 3901
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3906,
+          "BEGIN" : 3825,
+          "OPERAND" : {
+            "END" : 3869,
+            "BEGIN" : 3866
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4024,
+          "BEGIN" : 3953,
+          "OPERAND" : {
+            "END" : 4014,
+            "BEGIN" : 4006
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4109,
+          "BEGIN" : 4026,
+          "OPERAND" : {
+            "END" : 4055,
+            "BEGIN" : 4048
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4257,
+          "BEGIN" : 4111,
+          "OPERAND" : {
+            "END" : 4209,
+            "BEGIN" : 4201
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4257,
+          "BEGIN" : 4111,
+          "OPERAND" : {
+            "END" : 4134,
+            "BEGIN" : 4130
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4371,
+          "BEGIN" : 4341,
+          "OPERAND" : {
+            "END" : 4356,
+            "BEGIN" : 4353
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4519,
+          "BEGIN" : 4460,
+          "OPERAND" : {
+            "END" : 4473,
+            "BEGIN" : 4468
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4519,
+          "BEGIN" : 4460,
+          "OPERAND" : {
+            "END" : 4503,
+            "BEGIN" : 4495
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4593,
+          "BEGIN" : 4521,
+          "OPERAND" : {
+            "END" : 4576,
+            "BEGIN" : 4569
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4593,
+          "BEGIN" : 4521,
+          "OPERAND" : {
+            "END" : 4592,
+            "BEGIN" : 4582
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4674,
+          "BEGIN" : 4595,
+          "OPERAND" : {
+            "END" : 4664,
+            "BEGIN" : 4656
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4701,
+          "BEGIN" : 4676,
+          "OPERAND" : {
+            "END" : 4700,
+            "BEGIN" : 4689
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4763,
+          "BEGIN" : 4703,
+          "OPERAND" : {
+            "END" : 4756,
+            "BEGIN" : 4751
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4905,
+          "BEGIN" : 4765,
+          "OPERAND" : {
+            "END" : 4863,
+            "BEGIN" : 4854
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4905,
+          "BEGIN" : 4765,
+          "OPERAND" : {
+            "END" : 4817,
+            "BEGIN" : 4813
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 17.2,
+        "SCORE" : 45940,
+        "NAME" : "Executive (government)",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 82,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 11,
+            "BEGIN" : 0
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 82,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 11,
+            "BEGIN" : 0
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 377,
+          "BEGIN" : 333,
+          "OPERAND" : {
+            "END" : 355,
+            "BEGIN" : 351
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 377,
+          "BEGIN" : 333,
+          "OPERAND" : {
+            "END" : 355,
+            "BEGIN" : 351
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 430,
+          "BEGIN" : 379,
+          "OPERAND" : {
+            "END" : 407,
+            "BEGIN" : 399
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 528,
+          "BEGIN" : 456,
+          "OPERAND" : {
+            "END" : 515,
+            "BEGIN" : 507
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 590,
+          "BEGIN" : 530,
+          "OPERAND" : {
+            "END" : 564,
+            "BEGIN" : 560
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 590,
+          "BEGIN" : 530,
+          "OPERAND" : {
+            "END" : 564,
+            "BEGIN" : 560
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : {
+            "END" : 661,
+            "BEGIN" : 653
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1062,
+          "BEGIN" : 1025,
+          "OPERAND" : {
+            "END" : 1034,
+            "BEGIN" : 1025
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1805,
+          "BEGIN" : 1749,
+          "OPERAND" : {
+            "END" : 1777,
+            "BEGIN" : 1768
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1964,
+          "BEGIN" : 1887,
+          "OPERAND" : {
+            "END" : 1894,
+            "BEGIN" : 1890
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1964,
+          "BEGIN" : 1887,
+          "OPERAND" : {
+            "END" : 1894,
+            "BEGIN" : 1890
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : {
+            "END" : 2096,
+            "BEGIN" : 2088
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : {
+            "END" : 2005,
+            "BEGIN" : 2001
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : {
+            "END" : 2005,
+            "BEGIN" : 2001
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2204,
+          "BEGIN" : 2099,
+          "OPERAND" : {
+            "END" : 2175,
+            "BEGIN" : 2171
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2204,
+          "BEGIN" : 2099,
+          "OPERAND" : {
+            "END" : 2175,
+            "BEGIN" : 2171
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2387,
+          "BEGIN" : 2254,
+          "OPERAND" : {
+            "END" : 2308,
+            "BEGIN" : 2304
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2387,
+          "BEGIN" : 2254,
+          "OPERAND" : {
+            "END" : 2308,
+            "BEGIN" : 2304
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 2795,
+          "BEGIN" : 2389,
+          "OPERAND" : {
+            "END" : 2595,
+            "BEGIN" : 2587
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2828,
+          "BEGIN" : 2797,
+          "OPERAND" : {
+            "END" : 2814,
+            "BEGIN" : 2810
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2828,
+          "BEGIN" : 2797,
+          "OPERAND" : {
+            "END" : 2814,
+            "BEGIN" : 2810
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 2907,
+          "BEGIN" : 2830,
+          "OPERAND" : {
+            "END" : 2906,
+            "BEGIN" : 2898
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3019,
+          "BEGIN" : 2957,
+          "OPERAND" : {
+            "END" : 3018,
+            "BEGIN" : 3014
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3019,
+          "BEGIN" : 2957,
+          "OPERAND" : {
+            "END" : 3018,
+            "BEGIN" : 3014
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : {
+            "END" : 3318,
+            "BEGIN" : 3314
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : {
+            "END" : 3318,
+            "BEGIN" : 3314
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3461,
+          "BEGIN" : 3334,
+          "OPERAND" : {
+            "END" : 3442,
+            "BEGIN" : 3438
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3461,
+          "BEGIN" : 3334,
+          "OPERAND" : {
+            "END" : 3442,
+            "BEGIN" : 3438
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3573,
+          "BEGIN" : 3463,
+          "OPERAND" : {
+            "END" : 3500,
+            "BEGIN" : 3496
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3573,
+          "BEGIN" : 3463,
+          "OPERAND" : {
+            "END" : 3500,
+            "BEGIN" : 3496
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 3757,
+          "BEGIN" : 3657,
+          "OPERAND" : {
+            "END" : 3685,
+            "BEGIN" : 3677
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3757,
+          "BEGIN" : 3657,
+          "OPERAND" : {
+            "END" : 3713,
+            "BEGIN" : 3702
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3757,
+          "BEGIN" : 3657,
+          "OPERAND" : {
+            "END" : 3713,
+            "BEGIN" : 3702
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3906,
+          "BEGIN" : 3825,
+          "OPERAND" : {
+            "END" : 3905,
+            "BEGIN" : 3901
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3906,
+          "BEGIN" : 3825,
+          "OPERAND" : {
+            "END" : 3905,
+            "BEGIN" : 3901
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 4257,
+          "BEGIN" : 4111,
+          "OPERAND" : {
+            "END" : 4209,
+            "BEGIN" : 4201
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4257,
+          "BEGIN" : 4111,
+          "OPERAND" : {
+            "END" : 4134,
+            "BEGIN" : 4130
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4257,
+          "BEGIN" : 4111,
+          "OPERAND" : {
+            "END" : 4134,
+            "BEGIN" : 4130
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 4674,
+          "BEGIN" : 4595,
+          "OPERAND" : {
+            "END" : 4664,
+            "BEGIN" : 4656
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4701,
+          "BEGIN" : 4676,
+          "OPERAND" : {
+            "END" : 4700,
+            "BEGIN" : 4689
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4701,
+          "BEGIN" : 4676,
+          "OPERAND" : {
+            "END" : 4700,
+            "BEGIN" : 4689
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4905,
+          "BEGIN" : 4765,
+          "OPERAND" : {
+            "END" : 4817,
+            "BEGIN" : 4813
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4905,
+          "BEGIN" : 4765,
+          "OPERAND" : {
+            "END" : 4817,
+            "BEGIN" : 4813
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 14.5,
+        "SCORE" : 38715,
+        "NAME" : "Impeachment",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 377,
+          "BEGIN" : 333,
+          "OPERAND" : [ {
+            "END" : 355,
+            "BEGIN" : 351
+          }, {
+            "END" : 376,
+            "BEGIN" : 368
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 430,
+          "BEGIN" : 379,
+          "OPERAND" : [ {
+            "END" : 395,
+            "BEGIN" : 389
+          }, {
+            "END" : 407,
+            "BEGIN" : 399
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 454,
+          "BEGIN" : 432,
+          "OPERAND" : {
+            "END" : 453,
+            "BEGIN" : 443
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : [ {
+            "END" : 661,
+            "BEGIN" : 653
+          }, {
+            "END" : 678,
+            "BEGIN" : 670
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1062,
+          "BEGIN" : 1025,
+          "OPERAND" : [ {
+            "END" : 1034,
+            "BEGIN" : 1025
+          }, {
+            "END" : 1054,
+            "BEGIN" : 1046
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1127,
+          "BEGIN" : 1093,
+          "OPERAND" : [ {
+            "END" : 1104,
+            "BEGIN" : 1093
+          }, {
+            "END" : 1118,
+            "BEGIN" : 1110
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1127,
+          "BEGIN" : 1093,
+          "OPERAND" : [ {
+            "END" : 1104,
+            "BEGIN" : 1093
+          }, {
+            "END" : 1118,
+            "BEGIN" : 1110
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1315,
+          "BEGIN" : 1279,
+          "OPERAND" : [ {
+            "END" : 1292,
+            "BEGIN" : 1279
+          }, {
+            "END" : 1306,
+            "BEGIN" : 1298
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1315,
+          "BEGIN" : 1279,
+          "OPERAND" : [ {
+            "END" : 1292,
+            "BEGIN" : 1279
+          }, {
+            "END" : 1306,
+            "BEGIN" : 1298
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1698,
+          "BEGIN" : 1477,
+          "OPERAND" : [ {
+            "END" : 1529,
+            "BEGIN" : 1523
+          }, {
+            "END" : 1543,
+            "BEGIN" : 1531
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1698,
+          "BEGIN" : 1477,
+          "OPERAND" : [ {
+            "END" : 1529,
+            "BEGIN" : 1523
+          }, {
+            "END" : 1543,
+            "BEGIN" : 1531
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1885,
+          "BEGIN" : 1807,
+          "OPERAND" : {
+            "END" : 1884,
+            "BEGIN" : 1874
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1964,
+          "BEGIN" : 1887,
+          "OPERAND" : [ {
+            "END" : 1894,
+            "BEGIN" : 1890
+          }, {
+            "END" : 1907,
+            "BEGIN" : 1899
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1964,
+          "BEGIN" : 1887,
+          "OPERAND" : [ {
+            "END" : 1894,
+            "BEGIN" : 1890
+          }, {
+            "END" : 1907,
+            "BEGIN" : 1899
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : [ {
+            "END" : 2082,
+            "BEGIN" : 2076
+          }, {
+            "END" : 2096,
+            "BEGIN" : 2088
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 2204,
+          "BEGIN" : 2099,
+          "OPERAND" : [ {
+            "END" : 2175,
+            "BEGIN" : 2171
+          }, {
+            "END" : 2191,
+            "BEGIN" : 2183
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 2387,
+          "BEGIN" : 2254,
+          "OPERAND" : {
+            "END" : 2386,
+            "BEGIN" : 2376
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 2828,
+          "BEGIN" : 2797,
+          "OPERAND" : [ {
+            "END" : 2814,
+            "BEGIN" : 2810
+          }, {
+            "END" : 2827,
+            "BEGIN" : 2819
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 2828,
+          "BEGIN" : 2797,
+          "OPERAND" : [ {
+            "END" : 2814,
+            "BEGIN" : 2810
+          }, {
+            "END" : 2827,
+            "BEGIN" : 2819
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 2907,
+          "BEGIN" : 2830,
+          "OPERAND" : [ {
+            "END" : 2894,
+            "BEGIN" : 2888
+          }, {
+            "END" : 2906,
+            "BEGIN" : 2898
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 2955,
+          "BEGIN" : 2909,
+          "OPERAND" : {
+            "END" : 2953,
+            "BEGIN" : 2943
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : [ {
+            "END" : 3318,
+            "BEGIN" : 3314
+          }, {
+            "END" : 3331,
+            "BEGIN" : 3323
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : [ {
+            "END" : 3306,
+            "BEGIN" : 3300
+          }, {
+            "END" : 3318,
+            "BEGIN" : 3314
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : [ {
+            "END" : 3318,
+            "BEGIN" : 3314
+          }, {
+            "END" : 3331,
+            "BEGIN" : 3323
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 3461,
+          "BEGIN" : 3334,
+          "OPERAND" : [ {
+            "END" : 3442,
+            "BEGIN" : 3438
+          }, {
+            "END" : 3460,
+            "BEGIN" : 3452
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 3573,
+          "BEGIN" : 3463,
+          "OPERAND" : [ {
+            "END" : 3481,
+            "BEGIN" : 3473
+          }, {
+            "END" : 3500,
+            "BEGIN" : 3496
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4109,
+          "BEGIN" : 4026,
+          "OPERAND" : {
+            "END" : 4100,
+            "BEGIN" : 4090
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4109,
+          "BEGIN" : 4026,
+          "OPERAND" : [ {
+            "END" : 4100,
+            "BEGIN" : 4090
+          }, {
+            "END" : 4108,
+            "BEGIN" : 4102
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4458,
+          "BEGIN" : 4373,
+          "OPERAND" : {
+            "END" : 4457,
+            "BEGIN" : 4447
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 5.3,
+        "SCORE" : 14165,
+        "NAME" : "Judiciary (System of Justice)",
+        "RULE" : [ {
+          "SCORE" : 450,
+          "END" : 377,
+          "BEGIN" : 333,
+          "OPERAND" : {
+            "END" : 376,
+            "BEGIN" : 368
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 430,
+          "BEGIN" : 379,
+          "OPERAND" : {
+            "END" : 395,
+            "BEGIN" : 389
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : {
+            "END" : 678,
+            "BEGIN" : 670
+          }
+        }, {
+          "SCORE" : 400,
+          "END" : 1023,
+          "BEGIN" : 895,
+          "OPERAND" : {
+            "END" : 951,
+            "BEGIN" : 946
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 1062,
+          "BEGIN" : 1025,
+          "OPERAND" : {
+            "END" : 1054,
+            "BEGIN" : 1046
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 1127,
+          "BEGIN" : 1093,
+          "OPERAND" : {
+            "END" : 1118,
+            "BEGIN" : 1110
+          }
+        }, {
+          "SCORE" : 160,
+          "END" : 1187,
+          "BEGIN" : 1129,
+          "OPERAND" : {
+            "END" : 1142,
+            "BEGIN" : 1136
+          }
+        }, {
+          "SCORE" : 750,
+          "END" : 1187,
+          "BEGIN" : 1129,
+          "OPERAND" : {
+            "END" : 1165,
+            "BEGIN" : 1159
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 1315,
+          "BEGIN" : 1279,
+          "OPERAND" : {
+            "END" : 1306,
+            "BEGIN" : 1298
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 1698,
+          "BEGIN" : 1477,
+          "OPERAND" : {
+            "END" : 1529,
+            "BEGIN" : 1523
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 1747,
+          "BEGIN" : 1700,
+          "OPERAND" : {
+            "END" : 1746,
+            "BEGIN" : 1738
+          }
+        }, {
+          "SCORE" : 40,
+          "END" : 1885,
+          "BEGIN" : 1807,
+          "OPERAND" : {
+            "END" : 1863,
+            "BEGIN" : 1848
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 1964,
+          "BEGIN" : 1887,
+          "OPERAND" : {
+            "END" : 1907,
+            "BEGIN" : 1899
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : {
+            "END" : 2082,
+            "BEGIN" : 2076
+          }
+        }, {
+          "SCORE" : 30,
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : {
+            "END" : 2035,
+            "BEGIN" : 2025
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 2204,
+          "BEGIN" : 2099,
+          "OPERAND" : {
+            "END" : 2191,
+            "BEGIN" : 2183
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 2828,
+          "BEGIN" : 2797,
+          "OPERAND" : {
+            "END" : 2827,
+            "BEGIN" : 2819
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 2907,
+          "BEGIN" : 2830,
+          "OPERAND" : {
+            "END" : 2894,
+            "BEGIN" : 2888
+          }
+        }, {
+          "SCORE" : 400,
+          "END" : 3019,
+          "BEGIN" : 2957,
+          "OPERAND" : {
+            "END" : 3004,
+            "BEGIN" : 2994
+          }
+        }, {
+          "SCORE" : 730,
+          "END" : 3084,
+          "BEGIN" : 3021,
+          "OPERAND" : {
+            "END" : 3073,
+            "BEGIN" : 3065
+          }
+        }, {
+          "SCORE" : 940,
+          "END" : 3084,
+          "BEGIN" : 3021,
+          "OPERAND" : {
+            "END" : 3073,
+            "BEGIN" : 3065
+          }
+        }, {
+          "SCORE" : 730,
+          "END" : 3170,
+          "BEGIN" : 3086,
+          "OPERAND" : {
+            "END" : 3127,
+            "BEGIN" : 3119
+          }
+        }, {
+          "SCORE" : 940,
+          "END" : 3170,
+          "BEGIN" : 3086,
+          "OPERAND" : {
+            "END" : 3127,
+            "BEGIN" : 3119
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 3269,
+          "BEGIN" : 3172,
+          "OPERAND" : {
+            "END" : 3268,
+            "BEGIN" : 3262
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : {
+            "END" : 3306,
+            "BEGIN" : 3300
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : {
+            "END" : 3331,
+            "BEGIN" : 3323
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 3461,
+          "BEGIN" : 3334,
+          "OPERAND" : {
+            "END" : 3460,
+            "BEGIN" : 3452
+          }
+        }, {
+          "SCORE" : 450,
+          "END" : 3573,
+          "BEGIN" : 3463,
+          "OPERAND" : {
+            "END" : 3481,
+            "BEGIN" : 3473
+          }
+        }, {
+          "SCORE" : 190,
+          "END" : 3757,
+          "BEGIN" : 3657,
+          "OPERAND" : {
+            "END" : 3742,
+            "BEGIN" : 3738
+          }
+        }, {
+          "SCORE" : 230,
+          "END" : 3823,
+          "BEGIN" : 3759,
+          "OPERAND" : {
+            "END" : 3822,
+            "BEGIN" : 3819
+          }
+        }, {
+          "SCORE" : 200,
+          "END" : 3906,
+          "BEGIN" : 3825,
+          "OPERAND" : {
+            "END" : 3880,
+            "BEGIN" : 3874
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4257,
+          "BEGIN" : 4111,
+          "OPERAND" : {
+            "END" : 4223,
+            "BEGIN" : 4218
+          }
+        }, {
+          "SCORE" : 190,
+          "END" : 4763,
+          "BEGIN" : 4703,
+          "OPERAND" : {
+            "END" : 4762,
+            "BEGIN" : 4758
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 2.49,
+        "SCORE" : 6640,
+        "NAME" : "Crime",
+        "RULE" : [ {
+          "SCORE" : 700,
+          "END" : 263,
+          "BEGIN" : 84,
+          "OPERAND" : {
+            "END" : 216,
+            "BEGIN" : 206
+          }
+        }, {
+          "SCORE" : 500,
+          "END" : 263,
+          "BEGIN" : 84,
+          "OPERAND" : {
+            "END" : 176,
+            "BEGIN" : 171
+          }
+        }, {
+          "SCORE" : 100,
+          "END" : 331,
+          "BEGIN" : 265,
+          "OPERAND" : {
+            "END" : 306,
+            "BEGIN" : 296
+          }
+        }, {
+          "SCORE" : 200,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : {
+            "END" : 753,
+            "BEGIN" : 741
+          }
+        }, {
+          "SCORE" : 500,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : {
+            "END" : 735,
+            "BEGIN" : 730
+          }
+        }, {
+          "SCORE" : 540,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : {
+            "END" : 690,
+            "BEGIN" : 684
+          }
+        }, {
+          "SCORE" : 200,
+          "END" : 830,
+          "BEGIN" : 757,
+          "OPERAND" : {
+            "END" : 785,
+            "BEGIN" : 773
+          }
+        }, {
+          "SCORE" : 500,
+          "END" : 830,
+          "BEGIN" : 757,
+          "OPERAND" : {
+            "END" : 767,
+            "BEGIN" : 762
+          }
+        }, {
+          "SCORE" : 90,
+          "END" : 1187,
+          "BEGIN" : 1129,
+          "OPERAND" : {
+            "END" : 1165,
+            "BEGIN" : 1159
+          }
+        }, {
+          "SCORE" : 530,
+          "END" : 1475,
+          "BEGIN" : 1415,
+          "OPERAND" : {
+            "END" : 1439,
+            "BEGIN" : 1433
+          }
+        }, {
+          "SCORE" : 500,
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : {
+            "END" : 2035,
+            "BEGIN" : 2025
+          }
+        }, {
+          "SCORE" : 500,
+          "END" : 2252,
+          "BEGIN" : 2206,
+          "OPERAND" : {
+            "END" : 2217,
+            "BEGIN" : 2211
+          }
+        }, {
+          "SCORE" : 760,
+          "END" : 2387,
+          "BEGIN" : 2254,
+          "OPERAND" : {
+            "END" : 2340,
+            "BEGIN" : 2322
+          }
+        }, {
+          "SCORE" : 410,
+          "END" : 3906,
+          "BEGIN" : 3825,
+          "OPERAND" : {
+            "END" : 3880,
+            "BEGIN" : 3874
+          }
+        }, {
+          "SCORE" : 20,
+          "END" : 4257,
+          "BEGIN" : 4111,
+          "OPERAND" : {
+            "END" : 4223,
+            "BEGIN" : 4218
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 2.11,
+        "SCORE" : 5625,
+        "NAME" : "Bribery",
+        "RULE" : [ {
+          "SCORE" : 810,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : {
+            "END" : 701,
+            "BEGIN" : 695
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : {
+            "END" : 701,
+            "BEGIN" : 695
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : [ {
+            "END" : 678,
+            "BEGIN" : 670
+          }, {
+            "END" : 701,
+            "BEGIN" : 695
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : [ {
+            "END" : 701,
+            "BEGIN" : 695
+          }, {
+            "END" : 735,
+            "BEGIN" : 730
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 2795,
+          "BEGIN" : 2389,
+          "OPERAND" : [ {
+            "END" : 2416,
+            "BEGIN" : 2407
+          }, {
+            "END" : 2428,
+            "BEGIN" : 2420
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 1.85,
+        "SCORE" : 4930,
+        "NAME" : "Election",
+        "RULE" : [ {
+          "SCORE" : 900,
+          "END" : 263,
+          "BEGIN" : 84,
+          "OPERAND" : {
+            "END" : 262,
+            "BEGIN" : 242
+          }
+        }, {
+          "SCORE" : 800,
+          "END" : 2795,
+          "BEGIN" : 2389,
+          "OPERAND" : {
+            "END" : 2736,
+            "BEGIN" : 2729
+          }
+        }, {
+          "SCORE" : 130,
+          "END" : 3084,
+          "BEGIN" : 3021,
+          "OPERAND" : {
+            "END" : 3047,
+            "BEGIN" : 3043
+          }
+        }, {
+          "SCORE" : 130,
+          "END" : 3269,
+          "BEGIN" : 3172,
+          "OPERAND" : {
+            "END" : 3246,
+            "BEGIN" : 3243
+          }
+        }, {
+          "SCORE" : 940,
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : {
+            "END" : 3290,
+            "BEGIN" : 3276
+          }
+        }, {
+          "SCORE" : 130,
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : {
+            "END" : 3295,
+            "BEGIN" : 3292
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 3823,
+          "BEGIN" : 3759,
+          "OPERAND" : {
+            "END" : 3784,
+            "BEGIN" : 3777
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 3906,
+          "BEGIN" : 3825,
+          "OPERAND" : {
+            "END" : 3864,
+            "BEGIN" : 3857
+          }
+        }, {
+          "SCORE" : 130,
+          "END" : 3906,
+          "BEGIN" : 3825,
+          "OPERAND" : {
+            "END" : 3869,
+            "BEGIN" : 3866
+          }
+        }, {
+          "SCORE" : 130,
+          "END" : 4371,
+          "BEGIN" : 4341,
+          "OPERAND" : {
+            "END" : 4356,
+            "BEGIN" : 4353
+          }
+        }, {
+          "SCORE" : 760,
+          "END" : 4519,
+          "BEGIN" : 4460,
+          "OPERAND" : {
+            "END" : 4473,
+            "BEGIN" : 4468
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4593,
+          "BEGIN" : 4521,
+          "OPERAND" : {
+            "END" : 4576,
+            "BEGIN" : 4569
+          }
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 4.0,
+        "SCORE" : 10680,
+        "NAME" : "Judicial proceedings",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 430,
+          "BEGIN" : 379,
+          "OPERAND" : [ {
+            "END" : 395,
+            "BEGIN" : 389
+          }, {
+            "END" : 411,
+            "BEGIN" : 409
+          }, {
+            "END" : 417,
+            "BEGIN" : 413
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : [ {
+            "END" : 678,
+            "BEGIN" : 670
+          }, {
+            "END" : 701,
+            "BEGIN" : 695
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : [ {
+            "END" : 678,
+            "BEGIN" : 670
+          }, {
+            "END" : 690,
+            "BEGIN" : 684
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1023,
+          "BEGIN" : 895,
+          "OPERAND" : [ {
+            "END" : 951,
+            "BEGIN" : 946
+          }, {
+            "END" : 956,
+            "BEGIN" : 953
+          }, {
+            "END" : 968,
+            "BEGIN" : 958
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1187,
+          "BEGIN" : 1129,
+          "OPERAND" : [ {
+            "END" : 1142,
+            "BEGIN" : 1136
+          }, {
+            "END" : 1145,
+            "BEGIN" : 1144
+          }, {
+            "END" : 1175,
+            "BEGIN" : 1171
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1187,
+          "BEGIN" : 1129,
+          "OPERAND" : [ {
+            "END" : 1142,
+            "BEGIN" : 1136
+          }, {
+            "END" : 1145,
+            "BEGIN" : 1144
+          }, {
+            "END" : 1157,
+            "BEGIN" : 1147
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 3757,
+          "BEGIN" : 3657,
+          "OPERAND" : {
+            "END" : 3742,
+            "BEGIN" : 3738
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4763,
+          "BEGIN" : 4703,
+          "OPERAND" : {
+            "END" : 4762,
+            "BEGIN" : 4758
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 1.3,
+        "SCORE" : 3480,
+        "NAME" : "Corruption, abuse of office and crimes against the Public Administration",
+        "RULE" : [ {
+          "SCORE" : 810,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : {
+            "END" : 701,
+            "BEGIN" : 695
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : [ {
+            "END" : 678,
+            "BEGIN" : 670
+          }, {
+            "END" : 701,
+            "BEGIN" : 695
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 755,
+          "BEGIN" : 651,
+          "OPERAND" : [ {
+            "END" : 701,
+            "BEGIN" : 695
+          }, {
+            "END" : 735,
+            "BEGIN" : 730
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 1.0,
+        "SCORE" : 2670,
+        "NAME" : "Investigations and inquiries",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 2387,
+          "BEGIN" : 2254,
+          "OPERAND" : [ {
+            "END" : 2308,
+            "BEGIN" : 2304
+          }, {
+            "END" : 2340,
+            "BEGIN" : 2322
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 2387,
+          "BEGIN" : 2254,
+          "OPERAND" : [ {
+            "END" : 2312,
+            "BEGIN" : 2310
+          }, {
+            "END" : 2340,
+            "BEGIN" : 2322
+          }, {
+            "END" : 2344,
+            "BEGIN" : 2342
+          }, {
+            "END" : 2351,
+            "BEGIN" : 2346
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 0.5,
+        "SCORE" : 1335,
+        "NAME" : "Disqualification and ban from public offices",
+        "RULE" : {
+          "SCORE" : 1335,
+          "END" : 528,
+          "BEGIN" : 456,
+          "OPERAND" : [ {
+            "END" : 503,
+            "BEGIN" : 496
+          }, {
+            "END" : 520,
+            "BEGIN" : 517
+          }, {
+            "END" : 527,
+            "BEGIN" : 522
+          } ]
+        }
+      }, {
+        "FREQUENCY" : 0.5,
+        "SCORE" : 1335,
+        "NAME" : "Arrests, police custodies and detentions",
+        "RULE" : {
+          "SCORE" : 1335,
+          "END" : 1023,
+          "BEGIN" : 895,
+          "OPERAND" : [ {
+            "END" : 921,
+            "BEGIN" : 916
+          }, {
+            "END" : 940,
+            "BEGIN" : 933
+          } ]
+        }
+      }, {
+        "FREQUENCY" : 0.5,
+        "SCORE" : 1335,
+        "NAME" : "Offences against public justice",
+        "RULE" : {
+          "SCORE" : 1335,
+          "END" : 1187,
+          "BEGIN" : 1129,
+          "OPERAND" : [ {
+            "END" : 1142,
+            "BEGIN" : 1136
+          }, {
+            "END" : 1175,
+            "BEGIN" : 1171
+          }, {
+            "END" : 1186,
+            "BEGIN" : 1177
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 0.04,
+        "SCORE" : 80,
+        "NAME" : "Ukraine",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 331,
+          "BEGIN" : 265,
+          "OPERAND" : {
+            "END" : 283,
+            "BEGIN" : 277
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 331,
+          "BEGIN" : 265,
+          "OPERAND" : {
+            "END" : 283,
+            "BEGIN" : 277
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 1964,
+          "BEGIN" : 1887,
+          "OPERAND" : {
+            "END" : 1963,
+            "BEGIN" : 1957
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 1964,
+          "BEGIN" : 1887,
+          "OPERAND" : {
+            "END" : 1963,
+            "BEGIN" : 1957
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : {
+            "END" : 2020,
+            "BEGIN" : 2014
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : {
+            "END" : 2020,
+            "BEGIN" : 2014
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 2387,
+          "BEGIN" : 2254,
+          "OPERAND" : {
+            "END" : 2290,
+            "BEGIN" : 2284
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 2387,
+          "BEGIN" : 2254,
+          "OPERAND" : {
+            "END" : 2290,
+            "BEGIN" : 2284
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.0,
+        "SCORE" : 6,
+        "NAME" : "United States of America",
+        "RULE" : [ {
+          "SCORE" : 3,
+          "END" : 4257,
+          "BEGIN" : 4111,
+          "OPERAND" : {
+            "END" : 4161,
+            "BEGIN" : 4155
+          }
+        }, {
+          "SCORE" : 3,
+          "END" : 4257,
+          "BEGIN" : 4111,
+          "OPERAND" : {
+            "END" : 4161,
+            "BEGIN" : 4155
+          }
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 0.01,
+        "SCORE" : 20,
+        "NAME" : "Action",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 2204,
+          "BEGIN" : 2099,
+          "OPERAND" : {
+            "END" : 2128,
+            "BEGIN" : 2125
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4519,
+          "BEGIN" : 4460,
+          "OPERAND" : {
+            "END" : 4511,
+            "BEGIN" : 4506
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.01,
+        "SCORE" : 20,
+        "NAME" : "Confusion",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 82,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 64,
+            "BEGIN" : 60
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 82,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 34,
+            "BEGIN" : 31
+          }
+        } ]
+      } ]
+    } ],
+    "PEOPLE" : {
+      "FEATURE" : "LIST",
+      "PERSON" : [ {
+        "BASE" : "Nancy Pelosi",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 4026,
+            "END" : 4037
+          }, {
+            "BEGIN" : 4040,
+            "END" : 4055
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 1,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "F",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Nancy",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Pelosi",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "head Democrat",
+          "NAME" : "humanrole"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : -5.0
+        }
+      }, {
+        "BASE" : "Joe Biden",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2037,
+            "END" : 2045
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 2,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Joe",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Biden",
+          "NAME" : "SURNAME"
+        } ]
+      }, {
+        "BASE" : "James Comey",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 181,
+            "END" : 191
+          }, {
+            "BEGIN" : 2759,
+            "END" : 2769
+          }, {
+            "BEGIN" : 2772,
+            "END" : 2774
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 3,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "James",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Comey",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "leader/Federal Bureau of Investigation",
+          "NAME" : "humanrole"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : 0.0
+        }
+      }, {
+        "BASE" : "Bill Clinton",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 1093,
+            "END" : 1104
+          }, {
+            "BEGIN" : 1129,
+            "END" : 1130
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 4,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Bill",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Clinton",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "politician",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president/United States of America",
+          "NAME" : "humanrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "(1946- ) U.S. statesman and 42nd president of the United States (1993-2001). Before his election to the White House..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 2,
+          "LINKED_SYNCON" : [ {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "politician"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "chief executive"
+              }
+            }
+          } ]
+        },
+        "SENTIMENT" : {
+          "OVERALL" : -7.0
+        }
+      }, {
+        "BASE" : "Andrew Johnson",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 1279,
+            "END" : 1292
+          }, {
+            "BEGIN" : 1317,
+            "END" : 1323
+          }, {
+            "BEGIN" : 1415,
+            "END" : 1416
+          }, {
+            "BEGIN" : 1446,
+            "END" : 1447
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 5,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Johnson",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Andrew",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Johnson",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "president/United States of America",
+          "NAME" : "humanrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "17th President of the United States; was elected Vice President and succeeded Lincoln when Lincoln was assassinated;..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "chief executive"
+              }
+            }
+          }
+        },
+        "SENTIMENT" : {
+          "OVERALL" : -7.4
+        }
+      }, {
+        "BASE" : "Richard Nixon",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 1531,
+            "END" : 1543
+          }, {
+            "BEGIN" : 1582,
+            "END" : 1586
+          }, {
+            "BEGIN" : 1672,
+            "END" : 1676
+          }, {
+            "BEGIN" : 1704,
+            "END" : 1708
+          }, {
+            "BEGIN" : 1726,
+            "END" : 1727
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 6,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Nixon",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Richard",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Nixon",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "president/United States of America",
+          "NAME" : "humanrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "Vice President under Eisenhower and 37th President of the United States; resigned after the Watergate scandal in..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "chief executive"
+              }
+            }
+          }
+        },
+        "SENTIMENT" : {
+          "OVERALL" : -14.7
+        }
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 0,
+            "END" : 11
+          }, {
+            "BEGIN" : 351,
+            "END" : 355
+          }, {
+            "BEGIN" : 560,
+            "END" : 564
+          }, {
+            "BEGIN" : 1890,
+            "END" : 1894
+          }, {
+            "BEGIN" : 2001,
+            "END" : 2005
+          }, {
+            "BEGIN" : 2084,
+            "END" : 2096
+          }, {
+            "BEGIN" : 2171,
+            "END" : 2175
+          }, {
+            "BEGIN" : 2304,
+            "END" : 2308
+          }, {
+            "BEGIN" : 2353,
+            "END" : 2356
+          }, {
+            "BEGIN" : 2584,
+            "END" : 2595
+          }, {
+            "BEGIN" : 2810,
+            "END" : 2814
+          }, {
+            "BEGIN" : 3014,
+            "END" : 3018
+          }, {
+            "BEGIN" : 3314,
+            "END" : 3318
+          }, {
+            "BEGIN" : 3438,
+            "END" : 3442
+          }, {
+            "BEGIN" : 3496,
+            "END" : 3500
+          }, {
+            "BEGIN" : 3702,
+            "END" : 3713
+          }, {
+            "BEGIN" : 3901,
+            "END" : 3905
+          }, {
+            "BEGIN" : 4130,
+            "END" : 4134
+          }, {
+            "BEGIN" : 4197,
+            "END" : 4209
+          }, {
+            "BEGIN" : 4358,
+            "END" : 4364
+          }, {
+            "BEGIN" : 4650,
+            "END" : 4664
+          }, {
+            "BEGIN" : 4689,
+            "END" : 4700
+          }, {
+            "BEGIN" : 4813,
+            "END" : 4817
+          }, {
+            "BEGIN" : 4890,
+            "END" : 4900
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 7,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Trump",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Donald",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Trump",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "businessman",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "important person",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president/United States of America",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 5,
+          "LINKED_SYNCON" : [ {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "businessman"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "important person"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "chief executive"
+              }
+            }
+          }, {
+            "NAME" : "Country",
+            "SYNCON" : {
+              "TYPE" : "Proper noun",
+              "LEMMA" : {
+                "TEXT" : "United States of America"
+              }
+            }
+          }, {
+            "NAME" : "Wealth source",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "real estate company"
+              }
+            }
+          } ]
+        },
+        "SENTIMENT" : {
+          "OVERALL" : -3.4
+        }
+      }, {
+        "BASE" : "Robert Mueller",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 109,
+            "END" : 115
+          }, {
+            "BEGIN" : 2685,
+            "END" : 2698
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 8,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Mueller",
+          "NAME" : "ALIAS"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "Influential person. Key person for United States. (Upd Jan 2019)"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "important person"
+              }
+            }
+          }
+        }
+      } ]
+    },
+    "ORGANIZATIONS" : {
+      "FEATURE" : "LIST",
+      "ORGANIZATION" : [ {
+        "BASE" : "Federal Bureau of Investigation",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2792,
+            "END" : 2794
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 9,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "FBI",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "intelligence network",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "the primary investigative arm of the United States Department of Justice (DOJ), serving as both a federal criminal..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 2,
+          "LINKED_SYNCON" : [ {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "intelligence network"
+              }
+            }
+          }, {
+            "NAME" : "Headquarters",
+            "SYNCON" : {
+              "TYPE" : "Proper noun",
+              "LEMMA" : {
+                "TEXT" : "United States of America"
+              }
+            }
+          } ]
+        }
+      }, {
+        "BASE" : "U.S. Senate",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 3613,
+            "END" : 3618
+          }, {
+            "BEGIN" : 3621,
+            "END" : 3625
+          }, {
+            "BEGIN" : 3744,
+            "END" : 3756
+          }, {
+            "BEGIN" : 4751,
+            "END" : 4756
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 10,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Senate",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "senate/United States of America",
+          "NAME" : "orgrole"
+        }, {
+          "BASE" : "senate",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "the upper house of the US Congress"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "senate"
+              }
+            }
+          }
+        }
+      }, {
+        "BASE" : "US House of Representatives",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 1481,
+            "END" : 1504
+          }, {
+            "BEGIN" : 2839,
+            "END" : 2862
+          }, {
+            "BEGIN" : 2864,
+            "END" : 2867
+          }, {
+            "BEGIN" : 3059,
+            "END" : 3063
+          }, {
+            "BEGIN" : 3112,
+            "END" : 3137
+          }, {
+            "BEGIN" : 3188,
+            "END" : 3211
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 11,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "House",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "House of Representatives",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "lower house",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "the lower legislative house of the US Congress"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "lower house"
+              }
+            }
+          }
+        },
+        "SENTIMENT" : {
+          "OVERALL" : 0.0
+        }
+      }, {
+        "BASE" : "Democrats",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 3086,
+            "END" : 3094
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 12,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "party",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "a political party"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "party"
+              }
+            }
+          }
+        },
+        "SENTIMENT" : {
+          "OVERALL" : 0.8
+        }
+      }, {
+        "BASE" : "Republicans",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4582,
+            "END" : 4592
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 13,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "party",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "the younger of 2 major political parties in the US"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "party"
+              }
+            }
+          }
+        }
+      }, {
+        "BASE" : "Democratic National Committee",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 994,
+            "END" : 1022
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 14,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "committee",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "the principal organization governing the United States Democratic Party on a day to day basis. While it is responsible..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "committee"
+              }
+            }
+          }
+        },
+        "SENTIMENT" : {
+          "OVERALL" : -6.0
+        }
+      } ]
+    },
+    "PLACES" : {
+      "FEATURE" : "LIST",
+      "PLACE" : [ {
+        "BASE" : "Ukraine",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 277,
+            "END" : 283
+          }, {
+            "BEGIN" : 1957,
+            "END" : 1963
+          }, {
+            "BEGIN" : 2014,
+            "END" : 2020
+          }, {
+            "BEGIN" : 2284,
+            "END" : 2290
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 15,
+          "NAME" : "ID"
+        }, {
+          "BASE" : 690791,
+          "NAME" : "GeonamesId"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "unitary state (Europe)"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "unitary state"
+              }
+            }
+          }
+        },
+        "PROP" : [ {
+          "CONTINENT" : "Europe"
+        }, {
+          "COORD" : "49.0/32.0"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : -3.0
+        }
+      }, {
+        "BASE" : "United States of America",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4155,
+            "END" : 4161
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 16,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "America",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : 6252001,
+          "NAME" : "GeonamesId"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "federation (North America)"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "federation"
+              }
+            }
+          }
+        },
+        "PROP" : [ {
+          "CONTINENT" : "North America"
+        }, {
+          "COORD" : "38.895/-77.03667"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : 5.0
+        }
+      }, {
+        "BASE" : "District of Columbia",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2610,
+            "END" : 2611
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 17,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "DC/",
+          "NAME" : "ALIAS"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "district in United States of America (North America)"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "district"
+              }
+            }
+          }
+        },
+        "PROP" : [ {
+          "COUNTRY" : "United States of America"
+        }, {
+          "CONTINENT" : "North America"
+        } ]
+      } ]
+    },
+    "TEXTMINING" : [ {
+      "FEATURE" : "DOM_SPECIFIC",
+      "ENTITY" : [ {
+        "BASE" : "hotel",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2613,
+            "END" : 2617
+          }
+        },
+        "TYPE" : "Buildings",
+        "REASONING" : [ {
+          "VALUE" : "S.HTL",
+          "ATTRIBUTE" : "GeonamesId"
+        }, {
+          "VALUE" : "actual constructions",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "GLOSS" : "a building where travelers can pay for lodging and meals and other services"
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 0,
+            "END" : 11
+          }, {
+            "BEGIN" : 351,
+            "END" : 355
+          }, {
+            "BEGIN" : 560,
+            "END" : 564
+          }, {
+            "BEGIN" : 1890,
+            "END" : 1894
+          }, {
+            "BEGIN" : 2001,
+            "END" : 2005
+          }, {
+            "BEGIN" : 2084,
+            "END" : 2096
+          }, {
+            "BEGIN" : 2171,
+            "END" : 2175
+          }, {
+            "BEGIN" : 2304,
+            "END" : 2308
+          }, {
+            "BEGIN" : 2353,
+            "END" : 2356
+          }, {
+            "BEGIN" : 2584,
+            "END" : 2595
+          }, {
+            "BEGIN" : 2810,
+            "END" : 2814
+          }, {
+            "BEGIN" : 3014,
+            "END" : 3018
+          }, {
+            "BEGIN" : 3314,
+            "END" : 3318
+          }, {
+            "BEGIN" : 3438,
+            "END" : 3442
+          }, {
+            "BEGIN" : 3496,
+            "END" : 3500
+          }, {
+            "BEGIN" : 3702,
+            "END" : 3713
+          }, {
+            "BEGIN" : 3901,
+            "END" : 3905
+          }, {
+            "BEGIN" : 4130,
+            "END" : 4134
+          }, {
+            "BEGIN" : 4197,
+            "END" : 4209
+          }, {
+            "BEGIN" : 4358,
+            "END" : 4364
+          }, {
+            "BEGIN" : 4650,
+            "END" : 4664
+          }, {
+            "BEGIN" : 4689,
+            "END" : 4700
+          }, {
+            "BEGIN" : 4813,
+            "END" : 4817
+          }, {
+            "BEGIN" : 4890,
+            "END" : 4900
+          } ]
+        },
+        "TYPE" : "Most Influential People",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "businessman",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "important person",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      }, {
+        "BASE" : "Robert Mueller",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 109,
+            "END" : 115
+          }, {
+            "BEGIN" : 2685,
+            "END" : 2698
+          } ]
+        },
+        "TYPE" : "Most Influential People",
+        "REASONING" : {
+          "VALUE" : "important person",
+          "ATTRIBUTE" : "Is a"
+        },
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Influential person. Key person for United States. (Upd Jan 2019)"
+      }, {
+        "BASE" : "Federal Bureau of Investigation",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2792,
+            "END" : 2794
+          }
+        },
+        "TYPE" : "Intelligence Agencies",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Headquarters"
+        }, {
+          "VALUE" : "department",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "ORGANIZATIONS",
+        "GLOSS" : "the primary investigative arm of the United States Department of Justice (DOJ), serving as both a federal criminal..."
+      }, {
+        "BASE" : "At this moment",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4595,
+            "END" : 4608
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "at noon tomorrow",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1789,
+            "END" : 1804
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "FUTURE",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "between now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4732,
+            "END" : 4742
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "in 1868",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1308,
+            "END" : 1314
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "ABSOLUTE"
+        }
+      }, {
+        "BASE" : "in 1974",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1545,
+            "END" : 1551
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "ABSOLUTE"
+        }
+      }, {
+        "BASE" : "in 1998",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1120,
+            "END" : 1126
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "ABSOLUTE"
+        }
+      }, {
+        "BASE" : "in May-2017",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2193,
+            "END" : 2203
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "ABSOLUTE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 269,
+            "END" : 271
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4430,
+            "END" : 4432
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4551,
+            "END" : 4553
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 0,
+            "END" : 11
+          }, {
+            "BEGIN" : 351,
+            "END" : 355
+          }, {
+            "BEGIN" : 560,
+            "END" : 564
+          }, {
+            "BEGIN" : 1890,
+            "END" : 1894
+          }, {
+            "BEGIN" : 2001,
+            "END" : 2005
+          }, {
+            "BEGIN" : 2084,
+            "END" : 2096
+          }, {
+            "BEGIN" : 2171,
+            "END" : 2175
+          }, {
+            "BEGIN" : 2304,
+            "END" : 2308
+          }, {
+            "BEGIN" : 2353,
+            "END" : 2356
+          }, {
+            "BEGIN" : 2584,
+            "END" : 2595
+          }, {
+            "BEGIN" : 2810,
+            "END" : 2814
+          }, {
+            "BEGIN" : 3014,
+            "END" : 3018
+          }, {
+            "BEGIN" : 3314,
+            "END" : 3318
+          }, {
+            "BEGIN" : 3438,
+            "END" : 3442
+          }, {
+            "BEGIN" : 3496,
+            "END" : 3500
+          }, {
+            "BEGIN" : 3702,
+            "END" : 3713
+          }, {
+            "BEGIN" : 3901,
+            "END" : 3905
+          }, {
+            "BEGIN" : 4130,
+            "END" : 4134
+          }, {
+            "BEGIN" : 4197,
+            "END" : 4209
+          }, {
+            "BEGIN" : 4358,
+            "END" : 4364
+          }, {
+            "BEGIN" : 4650,
+            "END" : 4664
+          }, {
+            "BEGIN" : 4689,
+            "END" : 4700
+          }, {
+            "BEGIN" : 4813,
+            "END" : 4817
+          }, {
+            "BEGIN" : 4890,
+            "END" : 4900
+          } ]
+        },
+        "TYPE" : "World Leaders",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "head of state",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "president",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "politician",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      }, {
+        "BASE" : "May-2017",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2196,
+            "END" : 2203
+          }
+        },
+        "TYPE" : "Dates"
+      }, {
+        "BASE" : "1974",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1548,
+            "END" : 1551
+          }
+        },
+        "TYPE" : "Dates"
+      }, {
+        "BASE" : "1868",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1311,
+            "END" : 1314
+          }
+        },
+        "TYPE" : "Dates"
+      }, {
+        "BASE" : "1998",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1123,
+            "END" : 1126
+          }
+        },
+        "TYPE" : "Dates"
+      } ]
+    }, {
+      "FEATURE" : "PLACES_REASONING",
+      "ENTITY" : {
+        "BASE" : "District of Columbia",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2610,
+            "END" : 2611
+          }
+        },
+        "TYPE" : "PLACES",
+        "REASONING" : {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }
+      }
+    }, {
+      "FEATURE" : "INFERENTIAL_ENTITIES"
+    }, {
+      "FEATURE" : "ENTITIESRELATIONS",
+      "NODES" : {
+        "NODE" : [ {
+          "content" : "Joe Biden",
+          "ID" : 2,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Richard Nixon",
+          "ID" : 6,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Donald Trump",
+          "ID" : 7,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "US House of Representatives",
+          "ID" : 11,
+          "TYPE" : "ORGANIZATION"
+        } ]
+      },
+      "RELATIONS" : {
+        "REL" : [ {
+          "SOURCE" : 7,
+          "TARGET" : 2,
+          "FREQ" : 1,
+          "VERB" : "ask",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 1966,
+              "END" : 2097
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 35,
+              "REL_END" : 39
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 71,
+              "REL_END" : 79
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 41,
+              "REL_END" : 46
+            } ],
+            "BASE" : "But long before we found out about Trump asking Ukraine to investigate Joe Biden, there were already moves to impeach the president."
+          } ]
+        }, {
+          "SOURCE" : 11,
+          "TARGET" : 6,
+          "FREQ" : 1,
+          "VERB" : "break into",
+          "TYPE" : "Criminal action",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 1477,
+              "END" : 1698
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 4,
+              "REL_END" : 27
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 54,
+              "REL_END" : 66
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 134,
+              "REL_END" : 143
+            } ],
+            "BASE" : "The House of Representatives was preparing to impeach Richard Nixon in 1974, after people connected with Nixon's re-election campaign broke into the Democratic party headquarters, Watergate, and Nixon tried to cover it up."
+          } ]
+        }, {
+          "SOURCE" : 11,
+          "TARGET" : 6,
+          "FREQ" : 1,
+          "VERB" : "impeach",
+          "TYPE" : "Social activity",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 1477,
+              "END" : 1698
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 4,
+              "REL_END" : 27
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 54,
+              "REL_END" : 66
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 46,
+              "REL_END" : 52
+            } ],
+            "BASE" : "The House of Representatives was preparing to impeach Richard Nixon in 1974, after people connected with Nixon's re-election campaign broke into the Democratic party headquarters, Watergate, and Nixon tried to cover it up."
+          } ]
+        } ]
+      }
+    } ],
+    "TAGGING" : [ {
+      "FEATURE" : "MAINSENTENCES",
+      "RELEVANT" : [ {
+        "SENTENCE_TEXT" : "Donald Trump is in the biggest mess of what has been a very messy political career.",
+        "SCORE" : 5.2,
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 0,
+            "END" : 82
+          }
+        }
+      }, {
+        "SENTENCE_TEXT" : "There's already been the Mueller investigation, his handling of the border crisis, his firing of James Comey, and all the shenanigans that went on during his presidential campaign.",
+        "SCORE" : 4.4,
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 84,
+            "END" : 263
+          }
+        }
+      }, {
+        "SENTENCE_TEXT" : "The House of Representatives was preparing to impeach Richard Nixon in 1974, after people connected with Nixon's re-election campaign broke into the Democratic party headquarters, Watergate, and Nixon tried to cover it up.",
+        "SCORE" : 5.2,
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1477,
+            "END" : 1698
+          }
+        }
+      } ]
+    }, {
+      "FEATURE" : "MAINELEMENTS",
+      "LEMMA" : [ {
+        "LABEL" : "Donald Trump",
+        "SCORE" : 18.2,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 0,
+          "END" : 11
+        }, {
+          "BEGIN" : 351,
+          "END" : 355
+        }, {
+          "BEGIN" : 560,
+          "END" : 564
+        }, {
+          "BEGIN" : 1890,
+          "END" : 1894
+        }, {
+          "BEGIN" : 2001,
+          "END" : 2005
+        }, {
+          "BEGIN" : 2171,
+          "END" : 2175
+        }, {
+          "BEGIN" : 2304,
+          "END" : 2308
+        }, {
+          "BEGIN" : 2353,
+          "END" : 2356
+        }, {
+          "BEGIN" : 2810,
+          "END" : 2814
+        }, {
+          "BEGIN" : 3014,
+          "END" : 3018
+        }, {
+          "BEGIN" : 3314,
+          "END" : 3318
+        }, {
+          "BEGIN" : 3438,
+          "END" : 3442
+        }, {
+          "BEGIN" : 3496,
+          "END" : 3500
+        }, {
+          "BEGIN" : 3702,
+          "END" : 3713
+        }, {
+          "BEGIN" : 3901,
+          "END" : 3905
+        }, {
+          "BEGIN" : 4130,
+          "END" : 4134
+        }, {
+          "BEGIN" : 4362,
+          "END" : 4364
+        }, {
+          "BEGIN" : 4689,
+          "END" : 4700
+        }, {
+          "BEGIN" : 4813,
+          "END" : 4817
+        }, {
+          "BEGIN" : 4898,
+          "END" : 4900
+        } ]
+      }, {
+        "LABEL" : "president",
+        "SCORE" : 10.9,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 399,
+          "END" : 407
+        }, {
+          "BEGIN" : 507,
+          "END" : 515
+        }, {
+          "BEGIN" : 653,
+          "END" : 661
+        }, {
+          "BEGIN" : 1025,
+          "END" : 1034
+        }, {
+          "BEGIN" : 2088,
+          "END" : 2096
+        }, {
+          "BEGIN" : 2587,
+          "END" : 2595
+        }, {
+          "BEGIN" : 2898,
+          "END" : 2906
+        }, {
+          "BEGIN" : 3677,
+          "END" : 3685
+        }, {
+          "BEGIN" : 4201,
+          "END" : 4209
+        }, {
+          "BEGIN" : 4656,
+          "END" : 4664
+        } ]
+      }, {
+        "LABEL" : "Andrew Johnson",
+        "SCORE" : 10.1,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1279,
+          "END" : 1292
+        }, {
+          "BEGIN" : 1317,
+          "END" : 1323
+        }, {
+          "BEGIN" : 1415,
+          "END" : 1416
+        }, {
+          "BEGIN" : 1446,
+          "END" : 1447
+        } ]
+      }, {
+        "LABEL" : "Richard Nixon",
+        "SCORE" : 10.0,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1531,
+          "END" : 1543
+        }, {
+          "BEGIN" : 1582,
+          "END" : 1586
+        }, {
+          "BEGIN" : 1672,
+          "END" : 1676
+        }, {
+          "BEGIN" : 1704,
+          "END" : 1708
+        }, {
+          "BEGIN" : 1726,
+          "END" : 1727
+        } ]
+      }, {
+        "LABEL" : "impeachment",
+        "SCORE" : 6.7,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 443,
+          "END" : 453
+        }, {
+          "BEGIN" : 1874,
+          "END" : 1884
+        }, {
+          "BEGIN" : 2376,
+          "END" : 2386
+        }, {
+          "BEGIN" : 2943,
+          "END" : 2953
+        }, {
+          "BEGIN" : 4090,
+          "END" : 4100
+        }, {
+          "BEGIN" : 4447,
+          "END" : 4457
+        } ]
+      }, {
+        "LABEL" : "US House of Representatives",
+        "SCORE" : 6.5,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1481,
+          "END" : 1504
+        }, {
+          "BEGIN" : 2839,
+          "END" : 2862
+        }, {
+          "BEGIN" : 2864,
+          "END" : 2867
+        }, {
+          "BEGIN" : 3059,
+          "END" : 3063
+        }, {
+          "BEGIN" : 3188,
+          "END" : 3211
+        } ]
+      }, {
+        "LABEL" : "Bill Clinton",
+        "SCORE" : 6.2,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1093,
+          "END" : 1104
+        }, {
+          "BEGIN" : 1129,
+          "END" : 1130
+        } ]
+      }, {
+        "LABEL" : "Ukraine",
+        "SCORE" : 4.9,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 277,
+          "END" : 283
+        }, {
+          "BEGIN" : 1957,
+          "END" : 1963
+        }, {
+          "BEGIN" : 2014,
+          "END" : 2020
+        }, {
+          "BEGIN" : 2284,
+          "END" : 2290
+        } ]
+      }, {
+        "LABEL" : "blame",
+        "SCORE" : 4.2,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 946,
+          "END" : 951
+        }, {
+          "BEGIN" : 2994,
+          "END" : 3004
+        } ]
+      }, {
+        "LABEL" : "congressman",
+        "SCORE" : 4.2,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 2141,
+          "END" : 2151
+        }, {
+          "BEGIN" : 3219,
+          "END" : 3229
+        } ]
+      }, {
+        "LABEL" : "investigation",
+        "SCORE" : 3.5,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 117,
+          "END" : 129
+        }, {
+          "BEGIN" : 2702,
+          "END" : 2714
+        } ]
+      }, {
+        "LABEL" : "judiciary",
+        "SCORE" : 2.5,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 3065,
+          "END" : 3073
+        }, {
+          "BEGIN" : 3119,
+          "END" : 3127
+        } ]
+      }, {
+        "LABEL" : "Robert Mueller",
+        "SCORE" : 3.5,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 109,
+          "END" : 115
+        }, {
+          "BEGIN" : 2685,
+          "END" : 2698
+        } ]
+      }, {
+        "LABEL" : "Nancy Pelosi",
+        "SCORE" : 2.1,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 4026,
+          "END" : 4037
+        }
+      }, {
+        "LABEL" : "accusation",
+        "SCORE" : 1.8,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 2994,
+          "END" : 3004
+        }
+      }, {
+        "LABEL" : "committee",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 3075,
+          "END" : 3083
+        }, {
+          "BEGIN" : 3129,
+          "END" : 3137
+        } ]
+      }, {
+        "LABEL" : "headquarters",
+        "SCORE" : 0.8,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 974,
+          "END" : 985
+        }, {
+          "BEGIN" : 1643,
+          "END" : 1654
+        } ]
+      }, {
+        "LABEL" : "bye bye",
+        "SCORE" : 13.2,
+        "TYPE" : "group",
+        "TRACK" : [ {
+          "BEGIN" : 3893,
+          "END" : 3899
+        }, {
+          "BEGIN" : 3908,
+          "END" : 3914
+        }, {
+          "BEGIN" : 3917,
+          "END" : 3923
+        }, {
+          "BEGIN" : 3926,
+          "END" : 3932
+        }, {
+          "BEGIN" : 3935,
+          "END" : 3941
+        }, {
+          "BEGIN" : 3944,
+          "END" : 3950
+        } ]
+      }, {
+        "LABEL" : "House judiciary committee",
+        "SCORE" : 12.0,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 3059,
+          "END" : 3083
+        }
+      }, {
+        "LABEL" : "re-election campaign",
+        "SCORE" : 10.0,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1590,
+          "END" : 1609
+        }
+      }, {
+        "LABEL" : "impeachment process",
+        "SCORE" : 6.6,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 4090,
+          "END" : 4108
+        }
+      }, {
+        "LABEL" : "Ukraine scandal",
+        "SCORE" : 5.8,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 277,
+          "END" : 291
+        }
+      }, {
+        "LABEL" : "House of Representatives",
+        "SCORE" : 5.2,
+        "TYPE" : "group",
+        "TRACK" : [ {
+          "BEGIN" : 1481,
+          "END" : 1504
+        }, {
+          "BEGIN" : 2839,
+          "END" : 2862
+        }, {
+          "BEGIN" : 3188,
+          "END" : 3211
+        } ]
+      }, {
+        "LABEL" : "bullshit impeachment",
+        "SCORE" : 4.5,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1865,
+          "END" : 1884
+        }
+      }, {
+        "LABEL" : "office of president",
+        "SCORE" : 2.6,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 2577,
+          "END" : 2595
+        }
+      } ]
+    } ],
+    "FACTMINING" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "NAME" : "Judiciary (System of Justice)",
+        "RULE" : [ {
+          "END" : 377,
+          "BEGIN" : 333,
+          "OPERAND" : {
+            "END" : 376,
+            "BEGIN" : 368,
+            "NAME" : "impeached"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 355,
+            "BEGIN" : 351,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 355,
+            "BEGIN" : 351,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 355,
+            "BEGIN" : 351,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 1023,
+          "BEGIN" : 895,
+          "OPERAND" : {
+            "END" : 951,
+            "BEGIN" : 946,
+            "NAME" : "charge"
+          },
+          "ENTITY" : {
+            "ID" : "0014",
+            "END" : 1022,
+            "BEGIN" : 994,
+            "NAME" : "Democratic National Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }
+        }, {
+          "END" : 1127,
+          "BEGIN" : 1093,
+          "OPERAND" : {
+            "END" : 1118,
+            "BEGIN" : 1110,
+            "NAME" : "impeached"
+          },
+          "ENTITY" : [ {
+            "ID" : "0004",
+            "END" : 1104,
+            "BEGIN" : 1093,
+            "NAME" : "Bill Clinton",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 1126,
+            "BEGIN" : 1120,
+            "NAME" : "in 1998",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1126,
+            "BEGIN" : 1123,
+            "NAME" : "1998",
+            "TYPE" : "Dates"
+          } ]
+        }, {
+          "END" : 1187,
+          "BEGIN" : 1129,
+          "OPERAND" : [ {
+            "END" : 1142,
+            "BEGIN" : 1136,
+            "NAME" : "accused"
+          }, {
+            "END" : 1165,
+            "BEGIN" : 1159,
+            "NAME" : "justice"
+          } ],
+          "ENTITY" : {
+            "ID" : "0004",
+            "END" : 1130,
+            "BEGIN" : 1129,
+            "NAME" : "Bill Clinton",
+            "TYPE" : "PEOPLE"
+          }
+        }, {
+          "END" : 1315,
+          "BEGIN" : 1279,
+          "OPERAND" : {
+            "END" : 1306,
+            "BEGIN" : 1298,
+            "NAME" : "impeached"
+          },
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 1292,
+            "BEGIN" : 1279,
+            "NAME" : "Andrew Johnson",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 1314,
+            "BEGIN" : 1308,
+            "NAME" : "in 1868",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1314,
+            "BEGIN" : 1311,
+            "NAME" : "1868",
+            "TYPE" : "Dates"
+          } ]
+        }, {
+          "END" : 1698,
+          "BEGIN" : 1477,
+          "OPERAND" : {
+            "END" : 1529,
+            "BEGIN" : 1523,
+            "NAME" : "impeach"
+          },
+          "ENTITY" : [ {
+            "ID" : "0011",
+            "END" : 1504,
+            "BEGIN" : 1481,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0006",
+            "END" : 1543,
+            "BEGIN" : 1531,
+            "NAME" : "Richard Nixon",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 1551,
+            "BEGIN" : 1545,
+            "NAME" : "in 1974",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 1551,
+            "BEGIN" : 1548,
+            "NAME" : "1974",
+            "TYPE" : "Dates"
+          }, {
+            "ID" : "0006",
+            "END" : 1586,
+            "BEGIN" : 1582,
+            "NAME" : "Richard Nixon",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 1676,
+            "BEGIN" : 1672,
+            "NAME" : "Richard Nixon",
+            "TYPE" : "PEOPLE"
+          } ]
+        }, {
+          "END" : 1747,
+          "BEGIN" : 1700,
+          "OPERAND" : {
+            "END" : 1746,
+            "BEGIN" : 1738,
+            "NAME" : "impeached"
+          },
+          "ENTITY" : [ {
+            "ID" : "0006",
+            "END" : 1708,
+            "BEGIN" : 1704,
+            "NAME" : "Richard Nixon",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 1727,
+            "BEGIN" : 1726,
+            "NAME" : "Richard Nixon",
+            "TYPE" : "PEOPLE"
+          } ]
+        }, {
+          "END" : 1964,
+          "BEGIN" : 1887,
+          "OPERAND" : {
+            "END" : 1907,
+            "BEGIN" : 1899,
+            "NAME" : "impeached"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 1894,
+            "BEGIN" : 1890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1894,
+            "BEGIN" : 1890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1894,
+            "BEGIN" : 1890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0015",
+            "COORD" : "49.0/32.0",
+            "END" : 1963,
+            "BEGIN" : 1957,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          } ]
+        }, {
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : [ {
+            "END" : 2035,
+            "BEGIN" : 2025,
+            "NAME" : "investigate"
+          }, {
+            "END" : 2082,
+            "BEGIN" : 2076,
+            "NAME" : "impeach"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 2005,
+            "BEGIN" : 2001,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2005,
+            "BEGIN" : 2001,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2005,
+            "BEGIN" : 2001,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0015",
+            "COORD" : "49.0/32.0",
+            "END" : 2020,
+            "BEGIN" : 2014,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0002",
+            "END" : 2045,
+            "BEGIN" : 2037,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2096,
+            "BEGIN" : 2084,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2096,
+            "BEGIN" : 2084,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2096,
+            "BEGIN" : 2084,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 2204,
+          "BEGIN" : 2099,
+          "OPERAND" : {
+            "END" : 2191,
+            "BEGIN" : 2183,
+            "NAME" : "impeached"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 2175,
+            "BEGIN" : 2171,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2175,
+            "BEGIN" : 2171,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2175,
+            "BEGIN" : 2171,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 2203,
+            "BEGIN" : 2193,
+            "NAME" : "in May-2017",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 2203,
+            "BEGIN" : 2196,
+            "NAME" : "May-2017",
+            "TYPE" : "Dates"
+          } ]
+        }, {
+          "END" : 2828,
+          "BEGIN" : 2797,
+          "OPERAND" : {
+            "END" : 2827,
+            "BEGIN" : 2819,
+            "NAME" : "impeached"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 2814,
+            "BEGIN" : 2810,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2814,
+            "BEGIN" : 2810,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2814,
+            "BEGIN" : 2810,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 2907,
+          "BEGIN" : 2830,
+          "OPERAND" : {
+            "END" : 2894,
+            "BEGIN" : 2888,
+            "NAME" : "impeach"
+          },
+          "ENTITY" : [ {
+            "ID" : "0011",
+            "END" : 2862,
+            "BEGIN" : 2839,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0011",
+            "END" : 2867,
+            "BEGIN" : 2864,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          } ]
+        }, {
+          "END" : 3019,
+          "BEGIN" : 2957,
+          "OPERAND" : {
+            "END" : 3004,
+            "BEGIN" : 2994,
+            "NAME" : "accusations"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 3018,
+            "BEGIN" : 3014,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3018,
+            "BEGIN" : 3014,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3018,
+            "BEGIN" : 3014,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 3084,
+          "BEGIN" : 3021,
+          "OPERAND" : {
+            "END" : 3073,
+            "BEGIN" : 3065,
+            "NAME" : "judiciary"
+          },
+          "ENTITY" : {
+            "ID" : "0011",
+            "END" : 3063,
+            "BEGIN" : 3059,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }
+        }, {
+          "END" : 3170,
+          "BEGIN" : 3086,
+          "OPERAND" : {
+            "END" : 3127,
+            "BEGIN" : 3119,
+            "NAME" : "judiciary"
+          },
+          "ENTITY" : [ {
+            "ID" : "0012",
+            "END" : 3094,
+            "BEGIN" : 3086,
+            "NAME" : "Democrats",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0011",
+            "END" : 3137,
+            "BEGIN" : 3112,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          } ]
+        }, {
+          "END" : 3269,
+          "BEGIN" : 3172,
+          "OPERAND" : {
+            "END" : 3268,
+            "BEGIN" : 3262,
+            "NAME" : "impeach"
+          },
+          "ENTITY" : {
+            "ID" : "0011",
+            "END" : 3211,
+            "BEGIN" : 3188,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }
+        }, {
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : [ {
+            "END" : 3306,
+            "BEGIN" : 3300,
+            "NAME" : "impeach"
+          }, {
+            "END" : 3331,
+            "BEGIN" : 3323,
+            "NAME" : "impeached"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 3318,
+            "BEGIN" : 3314,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3318,
+            "BEGIN" : 3314,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3318,
+            "BEGIN" : 3314,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 3461,
+          "BEGIN" : 3334,
+          "OPERAND" : {
+            "END" : 3460,
+            "BEGIN" : 3452,
+            "NAME" : "impeached"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 3442,
+            "BEGIN" : 3438,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3442,
+            "BEGIN" : 3438,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3442,
+            "BEGIN" : 3438,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 3573,
+          "BEGIN" : 3463,
+          "OPERAND" : {
+            "END" : 3481,
+            "BEGIN" : 3473,
+            "NAME" : "impeached"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 3500,
+            "BEGIN" : 3496,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3500,
+            "BEGIN" : 3496,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3500,
+            "BEGIN" : 3496,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 3757,
+          "BEGIN" : 3657,
+          "OPERAND" : {
+            "END" : 3742,
+            "BEGIN" : 3738,
+            "NAME" : "trial"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 3713,
+            "BEGIN" : 3702,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3713,
+            "BEGIN" : 3702,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3713,
+            "BEGIN" : 3702,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0010",
+            "END" : 3756,
+            "BEGIN" : 3744,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          } ]
+        }, {
+          "END" : 3906,
+          "BEGIN" : 3825,
+          "OPERAND" : {
+            "END" : 3880,
+            "BEGIN" : 3874,
+            "NAME" : "convict"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 3905,
+            "BEGIN" : 3901,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3905,
+            "BEGIN" : 3901,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3905,
+            "BEGIN" : 3901,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 4257,
+          "BEGIN" : 4111,
+          "OPERAND" : {
+            "END" : 4223,
+            "BEGIN" : 4218,
+            "NAME" : "victim"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 4134,
+            "BEGIN" : 4130,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4134,
+            "BEGIN" : 4130,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4134,
+            "BEGIN" : 4130,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0016",
+            "COORD" : "38.895/-77.03667",
+            "END" : 4161,
+            "BEGIN" : 4155,
+            "NAME" : "United States of America",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0007",
+            "END" : 4209,
+            "BEGIN" : 4197,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4209,
+            "BEGIN" : 4197,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4209,
+            "BEGIN" : 4197,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 4763,
+          "BEGIN" : 4703,
+          "OPERAND" : {
+            "END" : 4762,
+            "BEGIN" : 4758,
+            "NAME" : "trial"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4742,
+            "BEGIN" : 4732,
+            "NAME" : "between now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "END" : 4756,
+            "BEGIN" : 4751,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          } ]
+        } ]
+      }, {
+        "NAME" : "Crime",
+        "RULE" : [ {
+          "END" : 263,
+          "BEGIN" : 84,
+          "OPERAND" : [ {
+            "END" : 176,
+            "BEGIN" : 171,
+            "NAME" : "firing"
+          }, {
+            "END" : 216,
+            "BEGIN" : 206,
+            "NAME" : "shenanigans"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0008",
+            "END" : 115,
+            "BEGIN" : 109,
+            "NAME" : "Robert Mueller",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 115,
+            "BEGIN" : 109,
+            "NAME" : "Robert Mueller",
+            "TYPE" : "Most Influential People"
+          }, {
+            "ID" : "0003",
+            "END" : 191,
+            "BEGIN" : 181,
+            "NAME" : "James Comey",
+            "TYPE" : "PEOPLE"
+          } ]
+        }, {
+          "END" : 331,
+          "BEGIN" : 265,
+          "OPERAND" : {
+            "END" : 306,
+            "BEGIN" : 296,
+            "NAME" : "threatening"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 271,
+            "BEGIN" : 269,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0015",
+            "COORD" : "49.0/32.0",
+            "END" : 283,
+            "BEGIN" : 277,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          } ]
+        }, {
+          "END" : 1187,
+          "BEGIN" : 1129,
+          "OPERAND" : {
+            "END" : 1165,
+            "BEGIN" : 1159,
+            "NAME" : "justice"
+          },
+          "ENTITY" : {
+            "ID" : "0004",
+            "END" : 1130,
+            "BEGIN" : 1129,
+            "NAME" : "Bill Clinton",
+            "TYPE" : "PEOPLE"
+          }
+        }, {
+          "END" : 1475,
+          "BEGIN" : 1415,
+          "OPERAND" : {
+            "END" : 1439,
+            "BEGIN" : 1433,
+            "NAME" : "nobbled"
+          },
+          "ENTITY" : [ {
+            "ID" : "0005",
+            "END" : 1416,
+            "BEGIN" : 1415,
+            "NAME" : "Andrew Johnson",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 1447,
+            "BEGIN" : 1446,
+            "NAME" : "Andrew Johnson",
+            "TYPE" : "PEOPLE"
+          } ]
+        }, {
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : {
+            "END" : 2035,
+            "BEGIN" : 2025,
+            "NAME" : "investigate"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 2005,
+            "BEGIN" : 2001,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2005,
+            "BEGIN" : 2001,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2005,
+            "BEGIN" : 2001,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0015",
+            "COORD" : "49.0/32.0",
+            "END" : 2020,
+            "BEGIN" : 2014,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0002",
+            "END" : 2045,
+            "BEGIN" : 2037,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2096,
+            "BEGIN" : 2084,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2096,
+            "BEGIN" : 2084,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2096,
+            "BEGIN" : 2084,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 2387,
+          "BEGIN" : 2254,
+          "OPERAND" : {
+            "END" : 2340,
+            "BEGIN" : 2322,
+            "NAME" : "under investigation"
+          },
+          "ENTITY" : [ {
+            "ID" : "0015",
+            "COORD" : "49.0/32.0",
+            "END" : 2290,
+            "BEGIN" : 2284,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0007",
+            "END" : 2308,
+            "BEGIN" : 2304,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2308,
+            "BEGIN" : 2304,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2308,
+            "BEGIN" : 2304,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0007",
+            "END" : 2356,
+            "BEGIN" : 2353,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2356,
+            "BEGIN" : 2353,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2356,
+            "BEGIN" : 2353,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 3906,
+          "BEGIN" : 3825,
+          "OPERAND" : {
+            "END" : 3880,
+            "BEGIN" : 3874,
+            "NAME" : "convict"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 3905,
+            "BEGIN" : 3901,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3905,
+            "BEGIN" : 3901,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3905,
+            "BEGIN" : 3901,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 4257,
+          "BEGIN" : 4111,
+          "OPERAND" : {
+            "END" : 4223,
+            "BEGIN" : 4218,
+            "NAME" : "victim"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 4134,
+            "BEGIN" : 4130,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4134,
+            "BEGIN" : 4130,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4134,
+            "BEGIN" : 4130,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0016",
+            "COORD" : "38.895/-77.03667",
+            "END" : 4161,
+            "BEGIN" : 4155,
+            "NAME" : "United States of America",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0007",
+            "END" : 4209,
+            "BEGIN" : 4197,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4209,
+            "BEGIN" : 4197,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4209,
+            "BEGIN" : 4197,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        } ]
+      }, {
+        "NAME" : "Corporate Crime",
+        "RULE" : {
+          "END" : 2795,
+          "BEGIN" : 2389,
+          "OPERAND" : [ {
+            "END" : 2416,
+            "BEGIN" : 2407,
+            "NAME" : "paying off"
+          }, {
+            "END" : 2428,
+            "BEGIN" : 2420,
+            "NAME" : "porn star"
+          } ],
+          "TOPIC" : {
+            "NAME" : "Bribery"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 2595,
+            "BEGIN" : 2584,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2595,
+            "BEGIN" : 2584,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2595,
+            "BEGIN" : 2584,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0017",
+            "END" : 2611,
+            "BEGIN" : 2610,
+            "NAME" : "District of Columbia",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 2617,
+            "BEGIN" : 2613,
+            "NAME" : "hotel",
+            "TYPE" : "Buildings"
+          }, {
+            "ID" : "0008",
+            "END" : 2698,
+            "BEGIN" : 2685,
+            "NAME" : "Robert Mueller",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2698,
+            "BEGIN" : 2685,
+            "NAME" : "Robert Mueller",
+            "TYPE" : "Most Influential People"
+          }, {
+            "ID" : "0003",
+            "END" : 2769,
+            "BEGIN" : 2759,
+            "NAME" : "James Comey",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 2774,
+            "BEGIN" : 2772,
+            "NAME" : "James Comey",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0009",
+            "END" : 2794,
+            "BEGIN" : 2792,
+            "NAME" : "Federal Bureau of Investigation",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "END" : 2794,
+            "BEGIN" : 2792,
+            "NAME" : "Federal Bureau of Investigation",
+            "TYPE" : "Intelligence Agencies"
+          } ]
+        }
+      }, {
+        "NAME" : "Election",
+        "RULE" : [ {
+          "END" : 263,
+          "BEGIN" : 84,
+          "OPERAND" : {
+            "END" : 262,
+            "BEGIN" : 242,
+            "NAME" : "presidential campaign"
+          },
+          "ENTITY" : [ {
+            "ID" : "0008",
+            "END" : 115,
+            "BEGIN" : 109,
+            "NAME" : "Robert Mueller",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 115,
+            "BEGIN" : 109,
+            "NAME" : "Robert Mueller",
+            "TYPE" : "Most Influential People"
+          }, {
+            "ID" : "0003",
+            "END" : 191,
+            "BEGIN" : 181,
+            "NAME" : "James Comey",
+            "TYPE" : "PEOPLE"
+          } ]
+        }, {
+          "END" : 2795,
+          "BEGIN" : 2389,
+          "OPERAND" : {
+            "END" : 2736,
+            "BEGIN" : 2729,
+            "NAME" : "election"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 2595,
+            "BEGIN" : 2584,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2595,
+            "BEGIN" : 2584,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2595,
+            "BEGIN" : 2584,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0017",
+            "END" : 2611,
+            "BEGIN" : 2610,
+            "NAME" : "District of Columbia",
+            "TYPE" : "PLACES"
+          }, {
+            "END" : 2617,
+            "BEGIN" : 2613,
+            "NAME" : "hotel",
+            "TYPE" : "Buildings"
+          }, {
+            "ID" : "0008",
+            "END" : 2698,
+            "BEGIN" : 2685,
+            "NAME" : "Robert Mueller",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2698,
+            "BEGIN" : 2685,
+            "NAME" : "Robert Mueller",
+            "TYPE" : "Most Influential People"
+          }, {
+            "ID" : "0003",
+            "END" : 2769,
+            "BEGIN" : 2759,
+            "NAME" : "James Comey",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 2774,
+            "BEGIN" : 2772,
+            "NAME" : "James Comey",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0009",
+            "END" : 2794,
+            "BEGIN" : 2792,
+            "NAME" : "Federal Bureau of Investigation",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "END" : 2794,
+            "BEGIN" : 2792,
+            "NAME" : "Federal Bureau of Investigation",
+            "TYPE" : "Intelligence Agencies"
+          } ]
+        }, {
+          "END" : 3084,
+          "BEGIN" : 3021,
+          "OPERAND" : {
+            "END" : 3047,
+            "BEGIN" : 3043,
+            "NAME" : "voted"
+          },
+          "ENTITY" : {
+            "ID" : "0011",
+            "END" : 3063,
+            "BEGIN" : 3059,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }
+        }, {
+          "END" : 3269,
+          "BEGIN" : 3172,
+          "OPERAND" : {
+            "END" : 3246,
+            "BEGIN" : 3243,
+            "NAME" : "vote"
+          },
+          "ENTITY" : {
+            "ID" : "0011",
+            "END" : 3211,
+            "BEGIN" : 3188,
+            "NAME" : "US House of Representatives",
+            "TYPE" : "ORGANIZATIONS"
+          }
+        }, {
+          "END" : 3332,
+          "BEGIN" : 3271,
+          "OPERAND" : [ {
+            "END" : 3290,
+            "BEGIN" : 3276,
+            "NAME" : "simple majority"
+          }, {
+            "END" : 3295,
+            "BEGIN" : 3292,
+            "NAME" : "vote"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 3318,
+            "BEGIN" : 3314,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3318,
+            "BEGIN" : 3314,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3318,
+            "BEGIN" : 3314,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 3906,
+          "BEGIN" : 3825,
+          "OPERAND" : [ {
+            "END" : 3864,
+            "BEGIN" : 3857,
+            "NAME" : "senators"
+          }, {
+            "END" : 3869,
+            "BEGIN" : 3866,
+            "NAME" : "vote"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 3905,
+            "BEGIN" : 3901,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3905,
+            "BEGIN" : 3901,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3905,
+            "BEGIN" : 3901,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 4371,
+          "BEGIN" : 4341,
+          "OPERAND" : {
+            "END" : 4356,
+            "BEGIN" : 4353,
+            "NAME" : "vote"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 4364,
+            "BEGIN" : 4358,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4364,
+            "BEGIN" : 4358,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4364,
+            "BEGIN" : 4358,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 4593,
+          "BEGIN" : 4521,
+          "OPERAND" : {
+            "END" : 4576,
+            "BEGIN" : 4569,
+            "NAME" : "senators"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4553,
+            "BEGIN" : 4551,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0013",
+            "END" : 4592,
+            "BEGIN" : 4582,
+            "NAME" : "Republicans",
+            "TYPE" : "ORGANIZATIONS"
+          } ]
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : [ {
+        "NAME" : "Investigations, inquiries and legal proceedings",
+        "RULE" : [ {
+          "END" : 1023,
+          "BEGIN" : 895,
+          "OPERAND" : [ {
+            "END" : 921,
+            "BEGIN" : 916,
+            "NAME" : "people"
+          }, {
+            "END" : 940,
+            "BEGIN" : 933,
+            "NAME" : "arrested"
+          }, {
+            "END" : 951,
+            "BEGIN" : 946,
+            "NAME" : "charge"
+          }, {
+            "END" : 956,
+            "BEGIN" : 953,
+            "NAME" : "with"
+          }, {
+            "END" : 968,
+            "BEGIN" : 958,
+            "NAME" : "breaking in"
+          } ],
+          "TOPIC" : [ {
+            "NAME" : "Judicial proceedings"
+          }, {
+            "NAME" : "Arrests, police custodies and detentions"
+          } ],
+          "ENTITY" : {
+            "ID" : "0014",
+            "END" : 1022,
+            "BEGIN" : 994,
+            "NAME" : "Democratic National Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }
+        }, {
+          "END" : 1187,
+          "BEGIN" : 1129,
+          "OPERAND" : [ {
+            "END" : 1142,
+            "BEGIN" : 1136,
+            "NAME" : "accused"
+          }, {
+            "END" : 1145,
+            "BEGIN" : 1144,
+            "NAME" : "of"
+          }, {
+            "END" : 1157,
+            "BEGIN" : 1147,
+            "NAME" : "obstructing"
+          }, {
+            "END" : 1175,
+            "BEGIN" : 1171,
+            "NAME" : "lying"
+          } ],
+          "TOPIC" : {
+            "NAME" : "Judicial proceedings"
+          },
+          "ENTITY" : {
+            "ID" : "0004",
+            "END" : 1130,
+            "BEGIN" : 1129,
+            "NAME" : "Bill Clinton",
+            "TYPE" : "PEOPLE"
+          }
+        }, {
+          "END" : 2387,
+          "BEGIN" : 2254,
+          "OPERAND" : [ {
+            "END" : 2308,
+            "BEGIN" : 2304,
+            "NAME" : "Trump"
+          }, {
+            "END" : 2312,
+            "BEGIN" : 2310,
+            "NAME" : "was"
+          }, {
+            "END" : 2340,
+            "BEGIN" : 2322,
+            "NAME" : "under investigation"
+          }, {
+            "END" : 2344,
+            "BEGIN" : 2342,
+            "NAME" : "for"
+          }, {
+            "END" : 2351,
+            "BEGIN" : 2346,
+            "NAME" : "things"
+          } ],
+          "TOPIC" : {
+            "NAME" : "Investigations and inquiries"
+          },
+          "ENTITY" : [ {
+            "ID" : "0015",
+            "COORD" : "49.0/32.0",
+            "END" : 2290,
+            "BEGIN" : 2284,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0007",
+            "END" : 2308,
+            "BEGIN" : 2304,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2308,
+            "BEGIN" : 2304,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2308,
+            "BEGIN" : 2304,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0007",
+            "END" : 2356,
+            "BEGIN" : 2353,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2356,
+            "BEGIN" : 2353,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2356,
+            "BEGIN" : 2353,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 3757,
+          "BEGIN" : 3657,
+          "OPERAND" : {
+            "END" : 3742,
+            "BEGIN" : 3738,
+            "NAME" : "trial"
+          },
+          "TOPIC" : {
+            "NAME" : "Judicial proceedings"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 3713,
+            "BEGIN" : 3702,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 3713,
+            "BEGIN" : 3702,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 3713,
+            "BEGIN" : 3702,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0010",
+            "END" : 3756,
+            "BEGIN" : 3744,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          } ]
+        }, {
+          "END" : 4763,
+          "BEGIN" : 4703,
+          "OPERAND" : {
+            "END" : 4762,
+            "BEGIN" : 4758,
+            "NAME" : "trial"
+          },
+          "TOPIC" : {
+            "NAME" : "Judicial proceedings"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4742,
+            "BEGIN" : 4732,
+            "NAME" : "between now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0010",
+            "END" : 4756,
+            "BEGIN" : 4751,
+            "NAME" : "U.S. Senate",
+            "TYPE" : "ORGANIZATIONS"
+          } ]
+        } ]
+      }, {
+        "NAME" : "Offences against public justice",
+        "RULE" : {
+          "END" : 1187,
+          "BEGIN" : 1129,
+          "OPERAND" : [ {
+            "END" : 1142,
+            "BEGIN" : 1136,
+            "NAME" : "accused"
+          }, {
+            "END" : 1175,
+            "BEGIN" : 1171,
+            "NAME" : "lying"
+          }, {
+            "END" : 1186,
+            "BEGIN" : 1177,
+            "NAME" : "under oath"
+          } ],
+          "ENTITY" : {
+            "ID" : "0004",
+            "END" : 1130,
+            "BEGIN" : 1129,
+            "NAME" : "Bill Clinton",
+            "TYPE" : "PEOPLE"
+          }
+        }
+      } ]
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ {
+        "NAME" : "Ukraine",
+        "PROP" : [ {
+          "CONTINENT" : "Europe"
+        }, {
+          "COORD" : "49.0/32.0"
+        } ],
+        "RULE" : [ {
+          "END" : 331,
+          "BEGIN" : 265,
+          "OPERAND" : {
+            "END" : 283,
+            "BEGIN" : 277,
+            "NAME" : "Ukraine"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 271,
+            "BEGIN" : 269,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0015",
+            "COORD" : "49.0/32.0",
+            "END" : 283,
+            "BEGIN" : 277,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          } ]
+        }, {
+          "END" : 1964,
+          "BEGIN" : 1887,
+          "OPERAND" : {
+            "END" : 1963,
+            "BEGIN" : 1957,
+            "NAME" : "Ukraine"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 1894,
+            "BEGIN" : 1890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1894,
+            "BEGIN" : 1890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1894,
+            "BEGIN" : 1890,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0015",
+            "COORD" : "49.0/32.0",
+            "END" : 1963,
+            "BEGIN" : 1957,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          } ]
+        }, {
+          "END" : 2097,
+          "BEGIN" : 1966,
+          "OPERAND" : {
+            "END" : 2020,
+            "BEGIN" : 2014,
+            "NAME" : "Ukraine"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 2005,
+            "BEGIN" : 2001,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2005,
+            "BEGIN" : 2001,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2005,
+            "BEGIN" : 2001,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0015",
+            "COORD" : "49.0/32.0",
+            "END" : 2020,
+            "BEGIN" : 2014,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0002",
+            "END" : 2045,
+            "BEGIN" : 2037,
+            "NAME" : "Joe Biden",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 2096,
+            "BEGIN" : 2084,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2096,
+            "BEGIN" : 2084,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2096,
+            "BEGIN" : 2084,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }, {
+          "END" : 2387,
+          "BEGIN" : 2254,
+          "OPERAND" : {
+            "END" : 2290,
+            "BEGIN" : 2284,
+            "NAME" : "Ukraine"
+          },
+          "ENTITY" : [ {
+            "ID" : "0015",
+            "COORD" : "49.0/32.0",
+            "END" : 2290,
+            "BEGIN" : 2284,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0007",
+            "END" : 2308,
+            "BEGIN" : 2304,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2308,
+            "BEGIN" : 2304,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2308,
+            "BEGIN" : 2304,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0007",
+            "END" : 2356,
+            "BEGIN" : 2353,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2356,
+            "BEGIN" : 2353,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2356,
+            "BEGIN" : 2353,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        } ]
+      }, {
+        "NAME" : "United States of America",
+        "PROP" : [ {
+          "CONTINENT" : "North America"
+        }, {
+          "COORD" : "39.759724/-98.5"
+        } ],
+        "RULE" : {
+          "END" : 4257,
+          "BEGIN" : 4111,
+          "OPERAND" : {
+            "END" : 4161,
+            "BEGIN" : 4155,
+            "NAME" : "America"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 4134,
+            "BEGIN" : 4130,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4134,
+            "BEGIN" : 4130,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4134,
+            "BEGIN" : 4130,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0016",
+            "COORD" : "38.895/-77.03667",
+            "END" : 4161,
+            "BEGIN" : 4155,
+            "NAME" : "United States of America",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0007",
+            "END" : 4209,
+            "BEGIN" : 4197,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 4209,
+            "BEGIN" : 4197,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 4209,
+            "BEGIN" : 4197,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "NAME" : "Action",
+        "RULE" : {
+          "END" : 2204,
+          "BEGIN" : 2099,
+          "OPERAND" : {
+            "END" : 2128,
+            "BEGIN" : 2125,
+            "NAME" : "keen"
+          },
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 2175,
+            "BEGIN" : 2171,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 2175,
+            "BEGIN" : 2171,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 2175,
+            "BEGIN" : 2171,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "ABSOLUTE",
+            "END" : 2203,
+            "BEGIN" : 2193,
+            "NAME" : "in May-2017",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 2203,
+            "BEGIN" : 2196,
+            "NAME" : "May-2017",
+            "TYPE" : "Dates"
+          } ]
+        }
+      }, {
+        "NAME" : "Confusion",
+        "RULE" : {
+          "END" : 82,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 34,
+            "BEGIN" : 31,
+            "NAME" : "mess"
+          }, {
+            "END" : 64,
+            "BEGIN" : 60,
+            "NAME" : "messy"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0007",
+            "END" : 11,
+            "BEGIN" : 0,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 11,
+            "BEGIN" : 0,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 11,
+            "BEGIN" : 0,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          } ]
+        }
+      } ]
+    } ],
+    "WRITEPRINT" : {
+      "FEATURE" : "INDEXES",
+      "READABILITY_INDEX" : {
+        "GRADE_LEVEL" : 15,
+        "EVALUATION" : "LOW",
+        "VALUE" : 0.0
+      },
+      "STYLE_INDEXES" : {
+        "SEMANTIC_INDEXES" : {
+          "DOCUMENT_STRUCTURE" : {
+            "INDEX" : [ {
+              "VALUE" : 69.0,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "N_SENT"
+            }, {
+              "VALUE" : 70.12,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "CHAR_PER_SENT"
+            }, {
+              "VALUE" : 12.96,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "WORD_PER_SENT"
+            } ]
+          },
+          "VOCABULARY_RICHNESS" : {
+            "INDEX" : [ {
+              "VALUE" : 67.27,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "SEMANTIC_RICHNESS"
+            }, {
+              "VALUE" : 62.32,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "DIFFERENT_LEMMA"
+            }, {
+              "VALUE" : 21.94,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "SHORT_WORD"
+            }, {
+              "VALUE" : 13.98,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "HIGH_FREQ"
+            }, {
+              "VALUE" : 5.91,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ADVANCED_WORD"
+            }, {
+              "VALUE" : 1.23,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ACADEMIC_WORD"
+            }, {
+              "VALUE" : 66.01,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "COMMON_WORD"
+            } ]
+          },
+          "GRAMMAR" : {
+            "INDEX" : [ {
+              "VALUE" : 16.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_NOU"
+            }, {
+              "VALUE" : 8.39,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADJ"
+            }, {
+              "VALUE" : 14.09,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_VER"
+            }, {
+              "VALUE" : 4.7,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_CON"
+            }, {
+              "VALUE" : 6.94,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADV"
+            }, {
+              "VALUE" : 7.14,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_CONDITIONAL"
+            }, {
+              "VALUE" : 3.17,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ED_FORM"
+            }, {
+              "VALUE" : 4.76,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_FUTURE"
+            }, {
+              "VALUE" : 10.32,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ING_FORM"
+            }, {
+              "VALUE" : 0.79,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PAST_PERFECT"
+            }, {
+              "VALUE" : 5.56,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PRESENT_PERFECT"
+            }, {
+              "VALUE" : 13.49,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PAST"
+            }, {
+              "VALUE" : 43.65,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PRESENT"
+            }, {
+              "VALUE" : 11.11,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_UNDEFINED"
+            } ]
+          },
+          "REGISTER" : {
+            "INDEX" : [ {
+              "VALUE" : 0.22,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_ABBREVIATION"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_FOREIGN"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_LITERARY"
+            }, {
+              "VALUE" : 0.67,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_SLANG"
+            }, {
+              "VALUE" : 0.34,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CRIMINAL_ENTERPRISE_SLANG"
+            }, {
+              "VALUE" : 0.89,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CYBER_ILLEGAL_SLANG"
+            }, {
+              "VALUE" : 0.67,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_MILITARY_SLANG"
+            }, {
+              "VALUE" : 0.11,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_SOCIAL_SLANG"
+            } ]
+          },
+          "CHAINS" : {
+            "CHAIN-INDEX" : [ {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ABOUT_NATURAL_EVENTS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.59,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.79,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ILLEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "INCORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "LEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ASSAILMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DISSENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DRUGS_USE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ECONOMY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.79,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_EXISTENCE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FINANCES",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FIRING_A_WEAPON",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.59,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERAL_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.59,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_CREATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INFORMATICS_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.79,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INVESTIGATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.38,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LAW",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 6.35,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MILITARY_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 3.17,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT_ON_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_NO_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.59,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POLITICS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.79,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POSSESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.79,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_PSYCHOLOGICAL_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.59,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SHIFT_OF_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.79,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SOCIAL_BEHAVIOUR",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TAKING",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRADE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRAVEL",
+              "TYPE" : "VER"
+            } ]
+          }
+        }
+      }
+    }
+  }
+}

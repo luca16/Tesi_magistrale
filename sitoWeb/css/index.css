@@ -1,0 +1,46 @@
+.title{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 70px;
+}
+
+
+.txt1{
+    margin-left: 50px;
+    margin-right:50px ;
+}
+
+.txt2{
+    margin-left: 50px;
+    margin-right:50px ;
+}
+.cogito{
+    margin-left: 50px;
+    margin-right:50px ;
+}
+.org{
+    margin-left: 50px;
+    margin-right:50px ;
+}
+
+
+.elenco{
+    margin-left: 50px;
+    margin-right:50px ;
+}
+
+.img2{
+   
+    height : 300px; 
+    width : 500px;
+    margin-bottom: 20px;
+}
+
+
+
+.img3{
+    
+    height : 250px; 
+    width : 400px;
+    float: right;
+}

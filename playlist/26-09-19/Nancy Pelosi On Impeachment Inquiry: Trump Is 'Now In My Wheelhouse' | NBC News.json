@@ -1,0 +1,1690 @@
+{
+  "RESPONSE" : {
+    "TRANSACTIONS" : {
+      "dailyCount" : "810",
+      "limit" : "1000"
+    },
+    "DOCUMENT" : "is there evidence madam Speaker in this there is actions that are actions that are cover up yeah when you take when you have a system of electronic storage for information that is specifically for national security purposes and you have something that it's self-serving to the president politically and decide it might not be you might not want people to know and you hide it someplace else that's a cover-up there are some in our caucus who think let's just have an impeachment no we have to have an inquiry to further establish the facts there is no rush to judgment and in some ways we are a jury open to what might be exculpatory or not but every day the sadness grows because the disregard for our Constitution that the president has becomes more clear this is the focus of the moment because this is the charge all of the other work that relates to abuse of power ignoring subpoenas of government of Congress abuse a contempt of Congress by him those things will be considered later but right now we're in the investigate the inquiry stage so that's why I said that's not make any conclusions about articles of impeachment as we'd have to get that in the facts I think what the Dan I did was broke the wall the law is very clear the DNI shall convey the complaint to the Intelligence Committee we are at a different level of lawlessness that is self-evident to the American people which is clearer than saying that president obstructed Congress because he wouldn't let us see these records because we can't see the records we can't show the public what the president is hiding so as long as he keeps obstructing and in this case because of a whistleblower we have this access then we have a heightened responsibility to act upon those facts president didn't seem to see what was wrong I did remind him of my 25 years intelligence and that he was now in my wheelhouse\n",
+    "CATEGORIZATION" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 30.22,
+        "SCORE" : 11535,
+        "NAME" : "Politics",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 913,
+            "BEGIN" : 906
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 901,
+            "BEGIN" : 892
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 297,
+            "BEGIN" : 287
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1449,
+            "BEGIN" : 1442
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 30,
+            "BEGIN" : 24
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 733,
+            "BEGIN" : 725
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 285,
+            "BEGIN" : 277
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1755,
+            "BEGIN" : 1747
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1429,
+            "BEGIN" : 1421
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1571,
+            "BEGIN" : 1563
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 350,
+            "BEGIN" : 345
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 7.86,
+        "SCORE" : 3000,
+        "NAME" : "Heads of State",
+        "RULE" : [ {
+          "SCORE" : 600,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 285,
+            "BEGIN" : 277
+          }
+        }, {
+          "SCORE" : 600,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 733,
+            "BEGIN" : 725
+          }
+        }, {
+          "SCORE" : 600,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1755,
+            "BEGIN" : 1747
+          }
+        }, {
+          "SCORE" : 600,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1429,
+            "BEGIN" : 1421
+          }
+        }, {
+          "SCORE" : 600,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1571,
+            "BEGIN" : 1563
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 6.99,
+        "SCORE" : 2670,
+        "NAME" : "Investigation",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 507,
+            "BEGIN" : 501
+          }, {
+            "END" : 1633,
+            "BEGIN" : 1630
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1038,
+            "BEGIN" : 1032
+          }, {
+            "END" : 1633,
+            "BEGIN" : 1630
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 4.91,
+        "SCORE" : 1875,
+        "NAME" : "Crime",
+        "RULE" : [ {
+          "SCORE" : 940,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 868,
+            "BEGIN" : 855
+          }
+        }, {
+          "SCORE" : 200,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 90,
+            "BEGIN" : 83
+          }
+        }, {
+          "SCORE" : 500,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1026,
+            "BEGIN" : 1016
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 4.51,
+        "SCORE" : 1720,
+        "NAME" : "Parliament",
+        "RULE" : [ {
+          "SCORE" : 860,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 913,
+            "BEGIN" : 906
+          }
+        }, {
+          "SCORE" : 860,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1449,
+            "BEGIN" : 1442
+          }
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 9.86,
+        "SCORE" : 3765,
+        "NAME" : "Judicial proceedings",
+        "RULE" : [ {
+          "SCORE" : 810,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 16,
+            "BEGIN" : 9
+          }, {
+            "END" : 507,
+            "BEGIN" : 501
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 16,
+            "BEGIN" : 9
+          }, {
+            "END" : 1219,
+            "BEGIN" : 1217
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 16,
+            "BEGIN" : 9
+          }, {
+            "END" : 1038,
+            "BEGIN" : 1032
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1633,
+            "BEGIN" : 1630
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 6.99,
+        "SCORE" : 2670,
+        "NAME" : "Investigations and inquiries",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1038,
+            "BEGIN" : 1032
+          }, {
+            "END" : 1633,
+            "BEGIN" : 1630
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 507,
+            "BEGIN" : 501
+          }, {
+            "END" : 1633,
+            "BEGIN" : 1630
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 4.66,
+        "SCORE" : 1780,
+        "NAME" : "Corruption, abuse of office and crimes against the Public Administration",
+        "RULE" : {
+          "SCORE" : 1780,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 868,
+            "BEGIN" : 855
+          }
+        }
+      } ]
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : {
+        "FREQUENCY" : 0.05,
+        "SCORE" : 20,
+        "NAME" : "Neglect",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 693,
+            "BEGIN" : 685
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 877,
+            "BEGIN" : 870
+          }
+        } ]
+      }
+    } ],
+    "PEOPLE" : {
+      "FEATURE" : "LIST",
+      "PERSON" : {
+        "BASE" : "Dan",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 1184,
+            "END" : 1186
+          }, {
+            "BEGIN" : 1459,
+            "END" : 1460
+          }, {
+            "BEGIN" : 1597,
+            "END" : 1598
+          }, {
+            "BEGIN" : 1804,
+            "END" : 1806
+          }, {
+            "BEGIN" : 1845,
+            "END" : 1846
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 1,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Dan",
+          "NAME" : "NAME"
+        } ]
+      }
+    },
+    "ORGANIZATIONS" : {
+      "FEATURE" : "LIST",
+      "ORGANIZATION" : {
+        "BASE" : "Intelligence Committee",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1277,
+            "END" : 1298
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 2,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "committee",
+          "NAME" : "orgrole"
+        } ]
+      }
+    },
+    "PLACES" : {
+      "FEATURE" : "LIST",
+      "PLACE" : [ ]
+    },
+    "TEXTMINING" : [ {
+      "FEATURE" : "DOM_SPECIFIC",
+      "ENTITY" : [ {
+        "BASE" : "every day",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 645,
+            "END" : 653
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 999,
+            "END" : 1001
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "25 years",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1814,
+            "END" : 1821
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1852,
+            "END" : 1854
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      } ]
+    }, {
+      "FEATURE" : "PLACES_REASONING"
+    }, {
+      "FEATURE" : "INFERENTIAL_ENTITIES"
+    }, {
+      "FEATURE" : "ENTITIESRELATIONS",
+      "NODES" : {
+        "NODE" : [ {
+          "content" : "Dan",
+          "ID" : 1,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Intelligence Committee",
+          "ID" : 2,
+          "TYPE" : "ORGANIZATION"
+        } ]
+      },
+      "RELATIONS" : {
+        "REL" : [ {
+          "SOURCE" : 2,
+          "TARGET" : 1,
+          "FREQ" : 1,
+          "VERB" : "say",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1871
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 1277,
+              "REL_END" : 1298
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 1459,
+              "REL_END" : 1460
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 1409,
+              "REL_END" : 1414
+            } ],
+            "BASE" : "is there evidence madam Speaker in this there is actions that are actions that are cover up yeah when you take when you have a system of electronic storage for information that is specifically for national security purposes and you have something that it's self-serving to the president politically and decide it might not be you might not want people to know and you hide it someplace else that's a cover-up there are some in our caucus who think let's just have an impeachment no we have to have an inquiry to further establish the facts there is no rush to judgment and in some ways we are a jury open to what might be exculpatory or not but every day the sadness grows because the disregard for our Constitution that the president has becomes more clear this is the focus of the moment because this is the charge all of the other work that relates to abuse of power ignoring subpoenas of government of Congress abuse a contempt of Congress by him those things will be considered later but right now we're in the investigate the inquiry stage so that's why I said that's not make any conclusions about articles of impeachment as we'd have to get that in the facts I think what the Dan I did was broke the wall the law is very clear the DNI shall convey the complaint to the Intelligence Committee we are at a different level of lawlessness that is self-evident to the American people which is clearer than saying that president obstructed Congress because he wouldn't let us see these records because we can't see the records we can't show the public what the president is hiding so as long as he keeps obstructing and in this case because of a whistleblower we have this access then we have a heightened responsibility to act upon those facts president didn't seem to see what was wrong I did remind him of my 25 years intelligence and that he was now in my wheelhouse"
+          } ]
+        }, {
+          "SOURCE" : 1,
+          "TARGET" : 2,
+          "FREQ" : 1,
+          "VERB" : "convey",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1871
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 1184,
+              "REL_END" : 1186
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 1277,
+              "REL_END" : 1298
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 1249,
+              "REL_END" : 1254
+            } ],
+            "BASE" : "is there evidence madam Speaker in this there is actions that are actions that are cover up yeah when you take when you have a system of electronic storage for information that is specifically for national security purposes and you have something that it's self-serving to the president politically and decide it might not be you might not want people to know and you hide it someplace else that's a cover-up there are some in our caucus who think let's just have an impeachment no we have to have an inquiry to further establish the facts there is no rush to judgment and in some ways we are a jury open to what might be exculpatory or not but every day the sadness grows because the disregard for our Constitution that the president has becomes more clear this is the focus of the moment because this is the charge all of the other work that relates to abuse of power ignoring subpoenas of government of Congress abuse a contempt of Congress by him those things will be considered later but right now we're in the investigate the inquiry stage so that's why I said that's not make any conclusions about articles of impeachment as we'd have to get that in the facts I think what the Dan I did was broke the wall the law is very clear the DNI shall convey the complaint to the Intelligence Committee we are at a different level of lawlessness that is self-evident to the American people which is clearer than saying that president obstructed Congress because he wouldn't let us see these records because we can't see the records we can't show the public what the president is hiding so as long as he keeps obstructing and in this case because of a whistleblower we have this access then we have a heightened responsibility to act upon those facts president didn't seem to see what was wrong I did remind him of my 25 years intelligence and that he was now in my wheelhouse"
+          } ]
+        }, {
+          "SOURCE" : 2,
+          "TARGET" : 1,
+          "FREQ" : 1,
+          "NOUN" : "president",
+          "TYPE" : "Social activity",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1871
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 1277,
+              "REL_END" : 1298
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 1459,
+              "REL_END" : 1460
+            }, {
+              "ELEMENT" : "NOUN",
+              "REL_BEGIN" : 1421,
+              "REL_END" : 1429
+            } ],
+            "BASE" : "is there evidence madam Speaker in this there is actions that are actions that are cover up yeah when you take when you have a system of electronic storage for information that is specifically for national security purposes and you have something that it's self-serving to the president politically and decide it might not be you might not want people to know and you hide it someplace else that's a cover-up there are some in our caucus who think let's just have an impeachment no we have to have an inquiry to further establish the facts there is no rush to judgment and in some ways we are a jury open to what might be exculpatory or not but every day the sadness grows because the disregard for our Constitution that the president has becomes more clear this is the focus of the moment because this is the charge all of the other work that relates to abuse of power ignoring subpoenas of government of Congress abuse a contempt of Congress by him those things will be considered later but right now we're in the investigate the inquiry stage so that's why I said that's not make any conclusions about articles of impeachment as we'd have to get that in the facts I think what the Dan I did was broke the wall the law is very clear the DNI shall convey the complaint to the Intelligence Committee we are at a different level of lawlessness that is self-evident to the American people which is clearer than saying that president obstructed Congress because he wouldn't let us see these records because we can't see the records we can't show the public what the president is hiding so as long as he keeps obstructing and in this case because of a whistleblower we have this access then we have a heightened responsibility to act upon those facts president didn't seem to see what was wrong I did remind him of my 25 years intelligence and that he was now in my wheelhouse"
+          } ]
+        } ]
+      }
+    } ],
+    "TAGGING" : [ {
+      "FEATURE" : "MAINSENTENCES",
+      "RELEVANT" : {
+        "SENTENCE_TEXT" : "is there evidence madam Speaker in this there is actions that are actions that are cover up yeah when you take when you have a system of electronic storage for information that is specifically for national security purposes and you have something that it's self-serving to the president politically and decide it might not be you might not want people to know and you hide it someplace else that's a cover-up there are some in our caucus who think let's just have an impeachment no we have to have an inquiry to further establish the facts there is no rush to judgment and in some ways we are a jury open to what might be exculpatory or not but every day the sadness grows because the disregard for our Constitution that the president has becomes more clear this is the focus of the moment because this is the charge all of the other work that relates to abuse of power ignoring subpoenas of government of Congress abuse a contempt of Congress by him those things will be considered later but right now we're in the investigate the inquiry stage so that's why I said that's not make any conclusions about articles of impeachment as we'd have to get that in the facts I think what the Dan I did was broke the wall the law is very clear the DNI shall convey the complaint to the Intelligence Committee we are at a different level of lawlessness that is self-evident to the American people which is clearer than saying that president obstructed Congress because he wouldn't let us see these records because we can't see the records we can't show the public what the president is hiding so as long as he keeps obstructing and in this case because of a whistleblower we have this access then we have a heightened responsibility to act upon those facts president didn't seem to see what was wrong I did remind him of my 25 years intelligence and that he was now in my wheelhouse",
+        "SCORE" : 100.0,
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 0,
+            "END" : 1871
+          }
+        }
+      }
+    }, {
+      "FEATURE" : "MAINELEMENTS",
+      "LEMMA" : [ {
+        "LABEL" : "inquiry",
+        "SCORE" : 11.6,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 501,
+          "END" : 507
+        }, {
+          "BEGIN" : 1032,
+          "END" : 1038
+        } ]
+      }, {
+        "LABEL" : "president",
+        "SCORE" : 10.2,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 277,
+          "END" : 285
+        }, {
+          "BEGIN" : 725,
+          "END" : 733
+        }, {
+          "BEGIN" : 947,
+          "END" : 949
+        }, {
+          "BEGIN" : 1421,
+          "END" : 1429
+        }, {
+          "BEGIN" : 1563,
+          "END" : 1571
+        }, {
+          "BEGIN" : 1747,
+          "END" : 1755
+        } ]
+      }, {
+        "LABEL" : "jury",
+        "SCORE" : 7.6,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 595,
+          "END" : 598
+        }
+      }, {
+        "LABEL" : "anarchy",
+        "SCORE" : 7.3,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1331,
+          "END" : 1341
+        }
+      }, {
+        "LABEL" : "phase",
+        "SCORE" : 7.1,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1040,
+          "END" : 1044
+        }
+      }, {
+        "LABEL" : "Speaker",
+        "SCORE" : 6.9,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 24,
+          "END" : 30
+        }
+      }, {
+        "LABEL" : "fact",
+        "SCORE" : 6.9,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 534,
+          "END" : 538
+        }, {
+          "BEGIN" : 1161,
+          "END" : 1165
+        } ]
+      }, {
+        "LABEL" : "impeachment",
+        "SCORE" : 6.0,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1117,
+          "END" : 1127
+        }
+      }, {
+        "LABEL" : "abuse of power",
+        "SCORE" : 5.8,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 855,
+          "END" : 868
+        }
+      }, {
+        "LABEL" : "contempt of Congress",
+        "SCORE" : 5.5,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 923,
+          "END" : 942
+        }
+      }, {
+        "LABEL" : "aim",
+        "SCORE" : 4.9,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 215,
+          "END" : 222
+        }
+      }, {
+        "LABEL" : "evidence",
+        "SCORE" : 4.6,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 9,
+          "END" : 16
+        }
+      }, {
+        "LABEL" : "subpoena",
+        "SCORE" : 4.6,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 879,
+          "END" : 887
+        }
+      }, {
+        "LABEL" : "record",
+        "SCORE" : 4.5,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1488,
+          "END" : 1494
+        }, {
+          "BEGIN" : 1521,
+          "END" : 1527
+        } ]
+      }, {
+        "LABEL" : "lawlessness",
+        "SCORE" : 4.4,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1331,
+          "END" : 1341
+        }
+      }, {
+        "LABEL" : "stage",
+        "SCORE" : 4.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1040,
+          "END" : 1044
+        }
+      }, {
+        "LABEL" : "Intelligence Committee",
+        "SCORE" : 3.6,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1277,
+          "END" : 1298
+        }
+      }, {
+        "LABEL" : "purpose",
+        "SCORE" : 2.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 215,
+          "END" : 222
+        }
+      }, {
+        "LABEL" : "caucus",
+        "SCORE" : 2.1,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 431,
+          "END" : 436
+        }
+      }, {
+        "LABEL" : "wheelhouse",
+        "SCORE" : 1.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1862,
+          "END" : 1871
+        }
+      }, {
+        "LABEL" : "disregard",
+        "SCORE" : 1.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 685,
+          "END" : 693
+        }
+      }, {
+        "LABEL" : "sadness",
+        "SCORE" : 1.7,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 659,
+          "END" : 665
+        }
+      }, {
+        "LABEL" : "whistleblower",
+        "SCORE" : 1.7,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1648,
+          "END" : 1660
+        }
+      }, {
+        "LABEL" : "national security",
+        "SCORE" : 1.6,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 197,
+          "END" : 213
+        }
+      }, {
+        "LABEL" : "article",
+        "SCORE" : 1.5,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1105,
+          "END" : 1112
+        }
+      }, {
+        "LABEL" : "people",
+        "SCORE" : 1.5,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 345,
+          "END" : 350
+        }, {
+          "BEGIN" : 1380,
+          "END" : 1385
+        } ]
+      }, {
+        "LABEL" : "work",
+        "SCORE" : 1.5,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 834,
+          "END" : 837
+        }
+      }, {
+        "LABEL" : "government",
+        "SCORE" : 1.5,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 892,
+          "END" : 901
+        }
+      }, {
+        "LABEL" : "cover-up",
+        "SCORE" : 1.5,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 400,
+          "END" : 407
+        }
+      }, {
+        "LABEL" : "law",
+        "SCORE" : 1.5,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1217,
+          "END" : 1219
+        }
+      }, {
+        "LABEL" : "Dan",
+        "SCORE" : 1.2,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 1184,
+          "END" : 1186
+        }, {
+          "BEGIN" : 1459,
+          "END" : 1460
+        }, {
+          "BEGIN" : 1597,
+          "END" : 1598
+        }, {
+          "BEGIN" : 1804,
+          "END" : 1806
+        }, {
+          "BEGIN" : 1845,
+          "END" : 1846
+        } ]
+      }, {
+        "LABEL" : "storage",
+        "SCORE" : 1.2,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 148,
+          "END" : 154
+        }
+      }, {
+        "LABEL" : "charge",
+        "SCORE" : 1.2,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 810,
+          "END" : 815
+        }
+      }, {
+        "LABEL" : "system",
+        "SCORE" : 1.1,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 127,
+          "END" : 132
+        }
+      }, {
+        "LABEL" : "inquiry stage",
+        "SCORE" : 26.0,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1032,
+          "END" : 1044
+        }
+      }, {
+        "LABEL" : "national security purpose",
+        "SCORE" : 11.4,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 197,
+          "END" : 222
+        }
+      }, {
+        "LABEL" : "subpoenas of government",
+        "SCORE" : 9.3,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 879,
+          "END" : 901
+        }
+      }, {
+        "LABEL" : "evidence madam Speaker",
+        "SCORE" : 8.4,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 9,
+          "END" : 30
+        }
+      }, {
+        "LABEL" : "level of lawlessness",
+        "SCORE" : 5.0,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1322,
+          "END" : 1341
+        }
+      } ]
+    } ],
+    "FACTMINING" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "NAME" : "Investigation",
+        "RULE" : {
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 507,
+            "BEGIN" : 501,
+            "NAME" : "inquiry"
+          }, {
+            "END" : 1038,
+            "BEGIN" : 1032,
+            "NAME" : "inquiry"
+          }, {
+            "END" : 1633,
+            "BEGIN" : 1630,
+            "NAME" : "case"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 653,
+            "BEGIN" : 645,
+            "NAME" : "every day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1001,
+            "BEGIN" : 999,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1186,
+            "BEGIN" : 1184,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1298,
+            "BEGIN" : 1277,
+            "NAME" : "Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1460,
+            "BEGIN" : 1459,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1598,
+            "BEGIN" : 1597,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1806,
+            "BEGIN" : 1804,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1821,
+            "BEGIN" : 1814,
+            "NAME" : "25 years",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1846,
+            "BEGIN" : 1845,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1854,
+            "BEGIN" : 1852,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      }, {
+        "NAME" : "Crime",
+        "RULE" : {
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 90,
+            "BEGIN" : 83,
+            "NAME" : "cover up"
+          }, {
+            "END" : 868,
+            "BEGIN" : 855,
+            "NAME" : "abuse of power"
+          }, {
+            "END" : 1026,
+            "BEGIN" : 1016,
+            "NAME" : "investigate"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 653,
+            "BEGIN" : 645,
+            "NAME" : "every day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1001,
+            "BEGIN" : 999,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1186,
+            "BEGIN" : 1184,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1298,
+            "BEGIN" : 1277,
+            "NAME" : "Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1460,
+            "BEGIN" : 1459,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1598,
+            "BEGIN" : 1597,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1806,
+            "BEGIN" : 1804,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1821,
+            "BEGIN" : 1814,
+            "NAME" : "25 years",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1846,
+            "BEGIN" : 1845,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1854,
+            "BEGIN" : 1852,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : [ {
+        "NAME" : "Investigations, inquiries and legal proceedings",
+        "RULE" : {
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 16,
+            "BEGIN" : 9,
+            "NAME" : "evidence"
+          }, {
+            "END" : 507,
+            "BEGIN" : 501,
+            "NAME" : "inquiry"
+          }, {
+            "END" : 1038,
+            "BEGIN" : 1032,
+            "NAME" : "inquiry"
+          }, {
+            "END" : 1219,
+            "BEGIN" : 1217,
+            "NAME" : "law"
+          }, {
+            "END" : 1633,
+            "BEGIN" : 1630,
+            "NAME" : "case"
+          } ],
+          "TOPIC" : [ {
+            "NAME" : "Judicial proceedings"
+          }, {
+            "NAME" : "Investigations and inquiries"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 653,
+            "BEGIN" : 645,
+            "NAME" : "every day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1001,
+            "BEGIN" : 999,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1186,
+            "BEGIN" : 1184,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1298,
+            "BEGIN" : 1277,
+            "NAME" : "Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1460,
+            "BEGIN" : 1459,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1598,
+            "BEGIN" : 1597,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1806,
+            "BEGIN" : 1804,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1821,
+            "BEGIN" : 1814,
+            "NAME" : "25 years",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1846,
+            "BEGIN" : 1845,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1854,
+            "BEGIN" : 1852,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      }, {
+        "NAME" : "Corruption, abuse of office and crimes against the Public Administration",
+        "RULE" : {
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 868,
+            "BEGIN" : 855,
+            "NAME" : "abuse of power"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 653,
+            "BEGIN" : 645,
+            "NAME" : "every day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1001,
+            "BEGIN" : 999,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1186,
+            "BEGIN" : 1184,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1298,
+            "BEGIN" : 1277,
+            "NAME" : "Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1460,
+            "BEGIN" : 1459,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1598,
+            "BEGIN" : 1597,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1806,
+            "BEGIN" : 1804,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1821,
+            "BEGIN" : 1814,
+            "NAME" : "25 years",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1846,
+            "BEGIN" : 1845,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1854,
+            "BEGIN" : 1852,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : {
+        "NAME" : "Neglect",
+        "RULE" : {
+          "END" : 1871,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 693,
+            "BEGIN" : 685,
+            "NAME" : "disregard"
+          }, {
+            "END" : 877,
+            "BEGIN" : 870,
+            "NAME" : "ignoring"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 653,
+            "BEGIN" : 645,
+            "NAME" : "every day",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1001,
+            "BEGIN" : 999,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1186,
+            "BEGIN" : 1184,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 1298,
+            "BEGIN" : 1277,
+            "NAME" : "Intelligence Committee",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1460,
+            "BEGIN" : 1459,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1598,
+            "BEGIN" : 1597,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0001",
+            "END" : 1806,
+            "BEGIN" : 1804,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 1821,
+            "BEGIN" : 1814,
+            "NAME" : "25 years",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1846,
+            "BEGIN" : 1845,
+            "NAME" : "Dan",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1854,
+            "BEGIN" : 1852,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      }
+    } ],
+    "WRITEPRINT" : {
+      "FEATURE" : "INDEXES",
+      "READABILITY_INDEX" : {
+        "GRADE_LEVEL" : 15,
+        "EVALUATION" : "LOW",
+        "VALUE" : 0.0
+      },
+      "STYLE_INDEXES" : {
+        "SEMANTIC_INDEXES" : {
+          "DOCUMENT_STRUCTURE" : {
+            "INDEX" : [ {
+              "VALUE" : 1.0,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "N_SENT"
+            }, {
+              "VALUE" : 1872.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "CHAR_PER_SENT"
+            }, {
+              "VALUE" : 340.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "WORD_PER_SENT"
+            } ]
+          },
+          "VOCABULARY_RICHNESS" : {
+            "INDEX" : [ {
+              "VALUE" : 170.81,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "SEMANTIC_RICHNESS"
+            }, {
+              "VALUE" : 65.56,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "DIFFERENT_LEMMA"
+            }, {
+              "VALUE" : 30.92,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "SHORT_WORD"
+            }, {
+              "VALUE" : 7.74,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "HIGH_FREQ"
+            }, {
+              "VALUE" : 6.11,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ADVANCED_WORD"
+            }, {
+              "VALUE" : 1.67,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ACADEMIC_WORD"
+            }, {
+              "VALUE" : 80.56,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "COMMON_WORD"
+            } ]
+          },
+          "GRAMMAR" : {
+            "INDEX" : [ {
+              "VALUE" : 18.24,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_NOU"
+            }, {
+              "VALUE" : 8.53,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADJ"
+            }, {
+              "VALUE" : 19.12,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_VER"
+            }, {
+              "VALUE" : 7.35,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_CON"
+            }, {
+              "VALUE" : 7.06,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADV"
+            }, {
+              "VALUE" : 7.69,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_CONDITIONAL"
+            }, {
+              "VALUE" : 1.54,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ED_FORM"
+            }, {
+              "VALUE" : 3.08,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_FUTURE"
+            }, {
+              "VALUE" : 3.08,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ING_FORM"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PAST_PERFECT"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PRESENT_PERFECT"
+            }, {
+              "VALUE" : 10.77,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PAST"
+            }, {
+              "VALUE" : 66.15,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PRESENT"
+            }, {
+              "VALUE" : 7.69,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_UNDEFINED"
+            } ]
+          },
+          "REGISTER" : {
+            "INDEX" : [ {
+              "VALUE" : 0.29,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_ABBREVIATION"
+            }, {
+              "VALUE" : 0.29,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_FOREIGN"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_LITERARY"
+            }, {
+              "VALUE" : 0.29,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CRIMINAL_ENTERPRISE_SLANG"
+            }, {
+              "VALUE" : 0.88,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CYBER_ILLEGAL_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_MILITARY_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_SOCIAL_SLANG"
+            } ]
+          },
+          "CHAINS" : {
+            "CHAIN-INDEX" : [ {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ABOUT_NATURAL_EVENTS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ILLEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "INCORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "LEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ASSAILMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DISSENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DRUGS_USE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ECONOMY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_EXISTENCE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FINANCES",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FIRING_A_WEAPON",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERAL_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.54,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_CREATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INFORMATICS_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INVESTIGATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LAW",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 3.08,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MILITARY_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT_ON_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_NO_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POLITICS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 12.31,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POSSESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.54,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_PSYCHOLOGICAL_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SHIFT_OF_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SOCIAL_BEHAVIOUR",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.54,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TAKING",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRADE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRAVEL",
+              "TYPE" : "VER"
+            } ]
+          }
+        }
+      }
+    }
+  }
+}

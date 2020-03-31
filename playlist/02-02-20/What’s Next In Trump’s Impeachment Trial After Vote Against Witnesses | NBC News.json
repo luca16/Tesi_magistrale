@@ -1,0 +1,4908 @@
+{
+  "RESPONSE" : {
+    "TRANSACTIONS" : {
+      "dailyCount" : "180",
+      "limit" : "1000"
+    },
+    "DOCUMENT" : "four months of impeachment they have a hopes going on over there to end in four days with Democrats braced for frustration if the president is acquitted with no witnesses no documents the acquittal will have no value the president projected a carefree mode posting his golf swing on Twitter today on the eve of his biggest annual TV audiences the traditional Super Bowl interview to where tomorrow and Tuesday's State of the Union address president Trump's plan theme is the great American comeback with a focus on the economy but over this year's walk into the house chamber hangs impeachment still unresolved Monday morning the trial resumes up to four hours of closing arguments split between house managers president Trump solicited foreign interference abusing the power of his office and the president's defense they're asking you to remove President Trump from the ballot then senators who have been largely silent get the floor to explain how they will vote Wednesday afternoon to convict or acquit retiring Tennessee Republican Lamar Alexander told meet the press the president's Ukraine conduct was wrong but voters should decide I think he shouldn't have done it I think it was wrong the only question left is who decides what to do about that and with more counter-programming the president's campaign announced today plans to send top surrogates the president's eldest sons and his campaign manager to Iowa Monday to visit Republican caught caucus sites and to compete with the Democrats\n",
+    "CATEGORIZATION" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 18.98,
+        "SCORE" : 14495,
+        "NAME" : "Politics",
+        "RULE" : [ {
+          "SCORE" : 100,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 368,
+            "BEGIN" : 359
+          }, {
+            "END" : 877,
+            "BEGIN" : 872
+          } ]
+        }, {
+          "SCORE" : 100,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 368,
+            "BEGIN" : 359
+          }, {
+            "END" : 1124,
+            "BEGIN" : 1119
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 725,
+            "BEGIN" : 721
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1085,
+            "BEGIN" : 1077
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 861,
+            "BEGIN" : 857
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 447,
+            "BEGIN" : 439
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1371,
+            "BEGIN" : 1363
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1301,
+            "BEGIN" : 1293
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 453,
+            "BEGIN" : 449
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 229,
+            "BEGIN" : 221
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 138,
+            "BEGIN" : 130
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 891,
+            "BEGIN" : 884
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 855,
+            "BEGIN" : 847
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 806,
+            "BEGIN" : 798
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1445,
+            "BEGIN" : 1436
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1499,
+            "BEGIN" : 1491
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 98,
+            "BEGIN" : 90
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 719,
+            "BEGIN" : 711
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 964,
+            "BEGIN" : 961
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 16.39,
+        "SCORE" : 12515,
+        "NAME" : "Executive (government)",
+        "RULE" : [ {
+          "SCORE" : 50,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 447,
+            "BEGIN" : 439
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 719,
+            "BEGIN" : 711
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 229,
+            "BEGIN" : 221
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1301,
+            "BEGIN" : 1293
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1371,
+            "BEGIN" : 1363
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 855,
+            "BEGIN" : 847
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 806,
+            "BEGIN" : 798
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1085,
+            "BEGIN" : 1077
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 138,
+            "BEGIN" : 130
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 453,
+            "BEGIN" : 449
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 861,
+            "BEGIN" : 857
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 725,
+            "BEGIN" : 721
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 453,
+            "BEGIN" : 449
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 725,
+            "BEGIN" : 721
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 861,
+            "BEGIN" : 857
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 719,
+            "BEGIN" : 711
+          }, {
+            "END" : 725,
+            "BEGIN" : 721
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 855,
+            "BEGIN" : 847
+          }, {
+            "END" : 861,
+            "BEGIN" : 857
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 447,
+            "BEGIN" : 439
+          }, {
+            "END" : 453,
+            "BEGIN" : 449
+          } ]
+        }, {
+          "SCORE" : 50,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1085,
+            "BEGIN" : 1077
+          }, {
+            "END" : 1095,
+            "BEGIN" : 1089
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 10.49,
+        "SCORE" : 8010,
+        "NAME" : "Voting",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 488,
+            "BEGIN" : 481
+          }, {
+            "END" : 964,
+            "BEGIN" : 961
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 964,
+            "BEGIN" : 961
+          }, {
+            "END" : 1124,
+            "BEGIN" : 1119
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 877,
+            "BEGIN" : 872
+          }, {
+            "END" : 1124,
+            "BEGIN" : 1119
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 488,
+            "BEGIN" : 481
+          }, {
+            "END" : 877,
+            "BEGIN" : 872
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 964,
+            "BEGIN" : 961
+          }, {
+            "END" : 1124,
+            "BEGIN" : 1119
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 964,
+            "BEGIN" : 961
+          }, {
+            "END" : 1124,
+            "BEGIN" : 1119
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 10.49,
+        "SCORE" : 8010,
+        "NAME" : "Political Campaigns",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 964,
+            "BEGIN" : 961
+          }, {
+            "END" : 1312,
+            "BEGIN" : 1305
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 964,
+            "BEGIN" : 961
+          }, {
+            "END" : 1402,
+            "BEGIN" : 1395
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 877,
+            "BEGIN" : 872
+          }, {
+            "END" : 1312,
+            "BEGIN" : 1305
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 877,
+            "BEGIN" : 872
+          }, {
+            "END" : 1402,
+            "BEGIN" : 1395
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1124,
+            "BEGIN" : 1119
+          }, {
+            "END" : 1312,
+            "BEGIN" : 1305
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1124,
+            "BEGIN" : 1119
+          }, {
+            "END" : 1402,
+            "BEGIN" : 1395
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 3.25,
+        "SCORE" : 2480,
+        "NAME" : "Judiciary (System of Justice)",
+        "RULE" : [ {
+          "SCORE" : 940,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 196,
+            "BEGIN" : 188
+          }
+        }, {
+          "SCORE" : 200,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 995,
+            "BEGIN" : 989
+          }
+        }, {
+          "SCORE" : 390,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 816,
+            "BEGIN" : 810
+          }
+        }, {
+          "SCORE" : 250,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1005,
+            "BEGIN" : 1000
+          }
+        }, {
+          "SCORE" : 250,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 151,
+            "BEGIN" : 143
+          }
+        }, {
+          "SCORE" : 190,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 634,
+            "BEGIN" : 630
+          }
+        }, {
+          "SCORE" : 180,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 169,
+            "BEGIN" : 161
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 2.41,
+        "SCORE" : 1840,
+        "NAME" : "Crime",
+        "RULE" : [ {
+          "SCORE" : 490,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 196,
+            "BEGIN" : 188
+          }
+        }, {
+          "SCORE" : 410,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 995,
+            "BEGIN" : 989
+          }
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 4.66,
+        "SCORE" : 3560,
+        "NAME" : "Corruption, abuse of office and crimes against the Public Administration",
+        "RULE" : [ {
+          "SCORE" : 1780,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 764,
+            "BEGIN" : 758
+          }, {
+            "END" : 788,
+            "BEGIN" : 783
+          } ]
+        }, {
+          "SCORE" : 1780,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 764,
+            "BEGIN" : 758
+          }, {
+            "END" : 774,
+            "BEGIN" : 770
+          }, {
+            "END" : 788,
+            "BEGIN" : 783
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 3.5,
+        "SCORE" : 2670,
+        "NAME" : "Acquittals",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1005,
+            "BEGIN" : 1000
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 138,
+            "BEGIN" : 130
+          }, {
+            "END" : 151,
+            "BEGIN" : 143
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 1.75,
+        "SCORE" : 1335,
+        "NAME" : "Judicial proceedings",
+        "RULE" : {
+          "SCORE" : 1335,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 634,
+            "BEGIN" : 630
+          }
+        }
+      } ]
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 0.05,
+        "SCORE" : 25,
+        "NAME" : "Iowa",
+        "RULE" : [ {
+          "SCORE" : 15,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1418,
+            "BEGIN" : 1415
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1418,
+            "BEGIN" : 1415
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.05,
+        "SCORE" : 25,
+        "NAME" : "United States of America",
+        "RULE" : [ {
+          "SCORE" : 15,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1418,
+            "BEGIN" : 1415
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1418,
+            "BEGIN" : 1415
+          }
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 0.02,
+        "SCORE" : 13,
+        "NAME" : "Anger",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 121,
+            "BEGIN" : 111
+          }
+        }, {
+          "SCORE" : 3,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1187,
+            "BEGIN" : 1185
+          }, {
+            "END" : 1193,
+            "BEGIN" : 1189
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 0.01,
+        "SCORE" : 10,
+        "NAME" : "Traditionalism",
+        "RULE" : {
+          "SCORE" : 10,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 357,
+            "BEGIN" : 347
+          }
+        }
+      }, {
+        "FREQUENCY" : 0.01,
+        "SCORE" : 10,
+        "NAME" : "Exasperation",
+        "RULE" : {
+          "SCORE" : 10,
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 121,
+            "BEGIN" : 111
+          }
+        }
+      } ]
+    } ],
+    "PEOPLE" : {
+      "FEATURE" : "LIST",
+      "PERSON" : {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 126,
+            "END" : 138
+          }, {
+            "BEGIN" : 217,
+            "END" : 229
+          }, {
+            "BEGIN" : 449,
+            "END" : 453
+          }, {
+            "BEGIN" : 721,
+            "END" : 725
+          }, {
+            "BEGIN" : 794,
+            "END" : 808
+          }, {
+            "BEGIN" : 857,
+            "END" : 861
+          }, {
+            "BEGIN" : 1073,
+            "END" : 1087
+          }, {
+            "BEGIN" : 1148,
+            "END" : 1149
+          }, {
+            "BEGIN" : 1289,
+            "END" : 1303
+          }, {
+            "BEGIN" : 1359,
+            "END" : 1373
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 1,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Trump",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Donald",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Trump",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "businessman",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "important person",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president/United States of America",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 5,
+          "LINKED_SYNCON" : [ {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "businessman"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "important person"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "chief executive"
+              }
+            }
+          }, {
+            "NAME" : "Country",
+            "SYNCON" : {
+              "TYPE" : "Proper noun",
+              "LEMMA" : {
+                "TEXT" : "United States of America"
+              }
+            }
+          }, {
+            "NAME" : "Wealth source",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "real estate company"
+              }
+            }
+          } ]
+        }
+      }
+    },
+    "ORGANIZATIONS" : {
+      "FEATURE" : "LIST",
+      "ORGANIZATION" : [ {
+        "BASE" : "Tennessee Republican Lamar Alexander",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1016,
+            "END" : 1051
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 2,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "organization",
+          "NAME" : "orgrole"
+        } ]
+      }, {
+        "BASE" : "Twitter",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 283,
+            "END" : 289
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : {
+          "BASE" : 3,
+          "NAME" : "ID"
+        },
+        "SYNCON" : {
+          "GLOSS" : "a free social networking and micro-blogging service that allows its users to send and read other users' updates (otherwise..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "social network"
+              }
+            }
+          }
+        }
+      } ]
+    },
+    "PLACES" : {
+      "FEATURE" : "LIST",
+      "PLACE" : [ {
+        "BASE" : "Ukraine",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1089,
+            "END" : 1095
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 4,
+          "NAME" : "ID"
+        }, {
+          "BASE" : 690791,
+          "NAME" : "GeonamesId"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "unitary state (Europe)"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "unitary state"
+              }
+            }
+          }
+        },
+        "PROP" : [ {
+          "CONTINENT" : "Europe"
+        }, {
+          "COORD" : "49.0/32.0"
+        } ]
+      }, {
+        "BASE" : "Iowa",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1415,
+            "END" : 1418
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 5,
+          "NAME" : "ID"
+        }, {
+          "BASE" : 4862182,
+          "NAME" : "GeonamesId"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "federated state in United States of America (North America)"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "federated state"
+              }
+            }
+          }
+        },
+        "PROP" : [ {
+          "COUNTRY" : "United States of America"
+        }, {
+          "CONTINENT" : "North America"
+        }, {
+          "COORD" : "42.0/-93.0"
+        } ]
+      } ]
+    },
+    "TEXTMINING" : [ {
+      "FEATURE" : "DOM_SPECIFIC",
+      "ENTITY" : [ {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 126,
+            "END" : 138
+          }, {
+            "BEGIN" : 217,
+            "END" : 229
+          }, {
+            "BEGIN" : 449,
+            "END" : 453
+          }, {
+            "BEGIN" : 721,
+            "END" : 725
+          }, {
+            "BEGIN" : 794,
+            "END" : 808
+          }, {
+            "BEGIN" : 857,
+            "END" : 861
+          }, {
+            "BEGIN" : 1073,
+            "END" : 1087
+          }, {
+            "BEGIN" : 1148,
+            "END" : 1149
+          }, {
+            "BEGIN" : 1289,
+            "END" : 1303
+          }, {
+            "BEGIN" : 1359,
+            "END" : 1373
+          } ]
+        },
+        "TYPE" : "Most Influential People",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "businessman",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "important person",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      }, {
+        "BASE" : "Monday",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1420,
+            "END" : 1425
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "UNDEFINED",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "Monday morning",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 611,
+            "END" : 624
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "RECENT",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "Wednesday afternoon",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 966,
+            "END" : 984
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "FUTURE",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "four hours",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 650,
+            "END" : 659
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "FUTURE",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "four months",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 0,
+            "END" : 10
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "in four days",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 72,
+            "END" : 83
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "UNDEFINED",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "over this year",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 531,
+            "END" : 544
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "OLD",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "to where tomorrow and Tuesday",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 380,
+            "END" : 408
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "FUTURE",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "today",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1324,
+            "END" : 1328
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "today on the eve",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 291,
+            "END" : 306
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "RECENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 126,
+            "END" : 138
+          }, {
+            "BEGIN" : 217,
+            "END" : 229
+          }, {
+            "BEGIN" : 449,
+            "END" : 453
+          }, {
+            "BEGIN" : 721,
+            "END" : 725
+          }, {
+            "BEGIN" : 794,
+            "END" : 808
+          }, {
+            "BEGIN" : 857,
+            "END" : 861
+          }, {
+            "BEGIN" : 1073,
+            "END" : 1087
+          }, {
+            "BEGIN" : 1148,
+            "END" : 1149
+          }, {
+            "BEGIN" : 1289,
+            "END" : 1303
+          }, {
+            "BEGIN" : 1359,
+            "END" : 1373
+          } ]
+        },
+        "TYPE" : "World Leaders",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "head of state",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "president",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "politician",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      }, {
+        "BASE" : "four hours",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 650,
+            "END" : 659
+          }
+        },
+        "TYPE" : "Times"
+      } ]
+    }, {
+      "FEATURE" : "PLACES_REASONING",
+      "ENTITY" : {
+        "BASE" : "Iowa",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1415,
+            "END" : 1418
+          }
+        },
+        "TYPE" : "PLACES",
+        "REASONING" : {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }
+      }
+    }, {
+      "FEATURE" : "INFERENTIAL_ENTITIES",
+      "ENTITY" : {
+        "BASE" : "United States of America",
+        "EVIDENCE" : [ {
+          "ATTRIBUTE" : "Country",
+          "CUE" : "Iowa",
+          "TRACKS" : {
+            "TRACK" : {
+              "BEGIN" : 1415,
+              "END" : 1418
+            }
+          }
+        }, {
+          "ATTRIBUTE" : "Country",
+          "CUE" : "Donald Trump",
+          "TRACKS" : {
+            "TRACK" : [ {
+              "BEGIN" : 126,
+              "END" : 138
+            }, {
+              "BEGIN" : 217,
+              "END" : 229
+            }, {
+              "BEGIN" : 449,
+              "END" : 453
+            }, {
+              "BEGIN" : 721,
+              "END" : 725
+            }, {
+              "BEGIN" : 794,
+              "END" : 808
+            }, {
+              "BEGIN" : 857,
+              "END" : 861
+            }, {
+              "BEGIN" : 1073,
+              "END" : 1087
+            }, {
+              "BEGIN" : 1148,
+              "END" : 1149
+            }, {
+              "BEGIN" : 1289,
+              "END" : 1303
+            }, {
+              "BEGIN" : 1359,
+              "END" : 1373
+            } ]
+          }
+        } ]
+      }
+    }, {
+      "FEATURE" : "ENTITIESRELATIONS",
+      "NODES" : {
+        "NODE" : [ {
+          "content" : "Donald Trump",
+          "ID" : 1,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Tennessee Republican Lamar Alexander",
+          "ID" : 2,
+          "TYPE" : "ORGANIZATION"
+        } ]
+      },
+      "RELATIONS" : {
+        "REL" : [ {
+          "SOURCE" : 1,
+          "TARGET" : 2,
+          "FREQ" : 1,
+          "VERB" : "ask",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1499
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 721,
+              "REL_END" : 725
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 1016,
+              "REL_END" : 1051
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 826,
+              "REL_END" : 831
+            } ],
+            "BASE" : "four months of impeachment they have a hopes going on over there to end in four days with Democrats braced for frustration if the president is acquitted with no witnesses no documents the acquittal will have no value the president projected a carefree mode posting his golf swing on Twitter today on the eve of his biggest annual TV audiences the traditional Super Bowl interview to where tomorrow and Tuesday's State of the Union address president Trump's plan theme is the great American comeback with a focus on the economy but over this year's walk into the house chamber hangs impeachment still unresolved Monday morning the trial resumes up to four hours of closing arguments split between house managers president Trump solicited foreign interference abusing the power of his office and the president's defense they're asking you to remove President Trump from the ballot then senators who have been largely silent get the floor to explain how they will vote Wednesday afternoon to convict or acquit retiring Tennessee Republican Lamar Alexander told meet the press the president's Ukraine conduct was wrong but voters should decide I think he shouldn't have done it I think it was wrong the only question left is who decides what to do about that and with more counter-programming the president's campaign announced today plans to send top surrogates the president's eldest sons and his campaign manager to Iowa Monday to visit Republican caught caucus sites and to compete with the Democrats"
+          } ]
+        }, {
+          "SOURCE" : 1,
+          "TARGET" : 2,
+          "FREQ" : 1,
+          "VERB" : "explain",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 1499
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 857,
+              "REL_END" : 861
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 1016,
+              "REL_END" : 1051
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 939,
+              "REL_END" : 945
+            } ],
+            "BASE" : "four months of impeachment they have a hopes going on over there to end in four days with Democrats braced for frustration if the president is acquitted with no witnesses no documents the acquittal will have no value the president projected a carefree mode posting his golf swing on Twitter today on the eve of his biggest annual TV audiences the traditional Super Bowl interview to where tomorrow and Tuesday's State of the Union address president Trump's plan theme is the great American comeback with a focus on the economy but over this year's walk into the house chamber hangs impeachment still unresolved Monday morning the trial resumes up to four hours of closing arguments split between house managers president Trump solicited foreign interference abusing the power of his office and the president's defense they're asking you to remove President Trump from the ballot then senators who have been largely silent get the floor to explain how they will vote Wednesday afternoon to convict or acquit retiring Tennessee Republican Lamar Alexander told meet the press the president's Ukraine conduct was wrong but voters should decide I think he shouldn't have done it I think it was wrong the only question left is who decides what to do about that and with more counter-programming the president's campaign announced today plans to send top surrogates the president's eldest sons and his campaign manager to Iowa Monday to visit Republican caught caucus sites and to compete with the Democrats"
+          } ]
+        } ]
+      }
+    } ],
+    "TAGGING" : [ {
+      "FEATURE" : "MAINSENTENCES",
+      "RELEVANT" : {
+        "SENTENCE_TEXT" : "four months of impeachment they have a hopes going on over there to end in four days with Democrats braced for frustration if the president is acquitted with no witnesses no documents the acquittal will have no value the president projected a carefree mode posting his golf swing on Twitter today on the eve of his biggest annual TV audiences the traditional Super Bowl interview to where tomorrow and Tuesday's State of the Union address president Trump's plan theme is the great American comeback with a focus on the economy but over this year's walk into the house chamber hangs impeachment still unresolved Monday morning the trial resumes up to four hours of closing arguments split between house managers president Trump solicited foreign interference abusing the power of his office and the president's defense they're asking you to remove President Trump from the ballot then senators who have been largely silent get the floor to explain how they will vote Wednesday afternoon to convict or acquit retiring Tennessee Republican Lamar Alexander told meet the press the president's Ukraine conduct was wrong but voters should decide I think he shouldn't have done it I think it was wrong the only question left is who decides what to do about that and with more counter-programming the president's campaign announced today plans to send top surrogates the president's eldest sons and his campaign manager to Iowa Monday to visit Republican caught caucus sites and to compete with the Democrats",
+        "SCORE" : 100.0,
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 0,
+            "END" : 1499
+          }
+        }
+      }
+    }, {
+      "FEATURE" : "MAINELEMENTS",
+      "LEMMA" : [ {
+        "LABEL" : "president",
+        "SCORE" : 26.0,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 130,
+          "END" : 138
+        }, {
+          "BEGIN" : 221,
+          "END" : 229
+        }, {
+          "BEGIN" : 439,
+          "END" : 447
+        }, {
+          "BEGIN" : 711,
+          "END" : 719
+        }, {
+          "BEGIN" : 798,
+          "END" : 806
+        }, {
+          "BEGIN" : 847,
+          "END" : 855
+        }, {
+          "BEGIN" : 1077,
+          "END" : 1085
+        }, {
+          "BEGIN" : 1148,
+          "END" : 1149
+        }, {
+          "BEGIN" : 1293,
+          "END" : 1301
+        }, {
+          "BEGIN" : 1363,
+          "END" : 1371
+        } ]
+      }, {
+        "LABEL" : "Donald Trump",
+        "SCORE" : 18.9,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 449,
+          "END" : 453
+        }, {
+          "BEGIN" : 721,
+          "END" : 725
+        }, {
+          "BEGIN" : 857,
+          "END" : 861
+        } ]
+      }, {
+        "LABEL" : "Democrat",
+        "SCORE" : 7.1,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 90,
+          "END" : 98
+        }, {
+          "BEGIN" : 1491,
+          "END" : 1499
+        } ]
+      }, {
+        "LABEL" : "State of the Union",
+        "SCORE" : 6.6,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 412,
+          "END" : 429
+        }
+      }, {
+        "LABEL" : "campaign",
+        "SCORE" : 5.8,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1305,
+          "END" : 1312
+        }, {
+          "BEGIN" : 1395,
+          "END" : 1402
+        } ]
+      }, {
+        "LABEL" : "Republican",
+        "SCORE" : 5.3,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1436,
+          "END" : 1445
+        }
+      }, {
+        "LABEL" : "elector",
+        "SCORE" : 4.6,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1119,
+          "END" : 1124
+        }
+      }, {
+        "LABEL" : "impeachment",
+        "SCORE" : 4.5,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 15,
+          "END" : 25
+        }, {
+          "BEGIN" : 582,
+          "END" : 592
+        } ]
+      }, {
+        "LABEL" : "vote",
+        "SCORE" : 3.5,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 872,
+          "END" : 877
+        }
+      }, {
+        "LABEL" : "acquittal",
+        "SCORE" : 3.3,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 188,
+          "END" : 196
+        }
+      }, {
+        "LABEL" : "coach",
+        "SCORE" : 3.3,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1404,
+          "END" : 1410
+        }
+      }, {
+        "LABEL" : "closing argument",
+        "SCORE" : 3.1,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 664,
+          "END" : 680
+        }
+      }, {
+        "LABEL" : "interview",
+        "SCORE" : 2.8,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 370,
+          "END" : 378
+        }
+      }, {
+        "LABEL" : "Ukraine",
+        "SCORE" : 2.2,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1089,
+          "END" : 1095
+        }
+      }, {
+        "LABEL" : "speech",
+        "SCORE" : 2.2,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 431,
+          "END" : 437
+        }
+      }, {
+        "LABEL" : "voter",
+        "SCORE" : 3.5,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1119,
+          "END" : 1124
+        }
+      }, {
+        "LABEL" : "ballot",
+        "SCORE" : 2.6,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 872,
+          "END" : 877
+        }
+      }, {
+        "LABEL" : "manager",
+        "SCORE" : 2.5,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1404,
+          "END" : 1410
+        }
+      }, {
+        "LABEL" : "address",
+        "SCORE" : 1.6,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 431,
+          "END" : 437
+        }
+      }, {
+        "LABEL" : "caucus",
+        "SCORE" : 1.1,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1454,
+          "END" : 1459
+        }
+      }, {
+        "LABEL" : "four hours",
+        "SCORE" : 1.1,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 650,
+          "END" : 659
+        }
+      }, {
+        "LABEL" : "theme",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 462,
+          "END" : 466
+        }
+      }, {
+        "LABEL" : "morning",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 618,
+          "END" : 624
+        }
+      }, {
+        "LABEL" : "Twitter",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 283,
+          "END" : 289
+        }
+      }, {
+        "LABEL" : "conduct",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1097,
+          "END" : 1103
+        }
+      }, {
+        "LABEL" : "Super Bowl",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 359,
+          "END" : 368
+        }
+      }, {
+        "LABEL" : "Iowa",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1415,
+          "END" : 1418
+        }
+      }, {
+        "LABEL" : "senator",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 884,
+          "END" : 891
+        }
+      }, {
+        "LABEL" : "Tennessee Republican Lamar Alexander",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 1016,
+          "END" : 1051
+        }
+      }, {
+        "LABEL" : "comeback",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 490,
+          "END" : 497
+        }
+      }, {
+        "LABEL" : "interference",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 745,
+          "END" : 756
+        }
+      }, {
+        "LABEL" : "house manager",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 696,
+          "END" : 709
+        }
+      }, {
+        "LABEL" : "eve",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 304,
+          "END" : 306
+        }
+      }, {
+        "LABEL" : "TV audience",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 330,
+          "END" : 341
+        }
+      }, {
+        "LABEL" : "trial",
+        "SCORE" : 0.9,
+        "TYPE" : "lemma",
+        "TRACK" : {
+          "BEGIN" : 630,
+          "END" : 634
+        }
+      }, {
+        "LABEL" : "president's campaign",
+        "SCORE" : 16.1,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1293,
+          "END" : 1312
+        }
+      }, {
+        "LABEL" : "president's defense",
+        "SCORE" : 11.8,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 798,
+          "END" : 816
+        }
+      }, {
+        "LABEL" : "campaign manager",
+        "SCORE" : 10.9,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1395,
+          "END" : 1410
+        }
+      }, {
+        "LABEL" : "president's Ukraine",
+        "SCORE" : 9.6,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1077,
+          "END" : 1095
+        }
+      }, {
+        "LABEL" : "manager to Iowa",
+        "SCORE" : 6.5,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1404,
+          "END" : 1418
+        }
+      } ]
+    } ],
+    "FACTMINING" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "NAME" : "Election",
+        "RULE" : {
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 488,
+            "BEGIN" : 481,
+            "NAME" : "American"
+          }, {
+            "END" : 877,
+            "BEGIN" : 872,
+            "NAME" : "ballot"
+          }, {
+            "END" : 964,
+            "BEGIN" : 961,
+            "NAME" : "vote"
+          }, {
+            "END" : 1124,
+            "BEGIN" : 1119,
+            "NAME" : "voters"
+          }, {
+            "END" : 1312,
+            "BEGIN" : 1305,
+            "NAME" : "campaign"
+          }, {
+            "END" : 1402,
+            "BEGIN" : 1395,
+            "NAME" : "campaign"
+          } ],
+          "TOPIC" : [ {
+            "NAME" : "Voting"
+          }, {
+            "NAME" : "Political Campaigns"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 10,
+            "BEGIN" : 0,
+            "NAME" : "four months",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 83,
+            "BEGIN" : 72,
+            "NAME" : "in four days",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 289,
+            "BEGIN" : 283,
+            "NAME" : "Twitter",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 306,
+            "BEGIN" : 291,
+            "NAME" : "today on the eve",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 408,
+            "BEGIN" : 380,
+            "NAME" : "to where tomorrow and Tuesday",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 544,
+            "BEGIN" : 531,
+            "NAME" : "over this year",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 624,
+            "BEGIN" : 611,
+            "NAME" : "Monday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RANGE",
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0001",
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 984,
+            "BEGIN" : 966,
+            "NAME" : "Wednesday afternoon",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 1051,
+            "BEGIN" : 1016,
+            "NAME" : "Tennessee Republican Lamar Alexander",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0004",
+            "COORD" : "49.0/32.0",
+            "END" : 1095,
+            "BEGIN" : 1089,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0001",
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1328,
+            "BEGIN" : 1324,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "COORD" : "42.0/-93.0",
+            "END" : 1418,
+            "BEGIN" : 1415,
+            "NAME" : "Iowa",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1425,
+            "BEGIN" : 1420,
+            "NAME" : "Monday",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      }, {
+        "NAME" : "Judiciary (System of Justice)",
+        "RULE" : {
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 151,
+            "BEGIN" : 143,
+            "NAME" : "acquitted"
+          }, {
+            "END" : 169,
+            "BEGIN" : 161,
+            "NAME" : "witnesses"
+          }, {
+            "END" : 196,
+            "BEGIN" : 188,
+            "NAME" : "acquittal"
+          }, {
+            "END" : 634,
+            "BEGIN" : 630,
+            "NAME" : "trial"
+          }, {
+            "END" : 816,
+            "BEGIN" : 810,
+            "NAME" : "defense"
+          }, {
+            "END" : 995,
+            "BEGIN" : 989,
+            "NAME" : "convict"
+          }, {
+            "END" : 1005,
+            "BEGIN" : 1000,
+            "NAME" : "acquit"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 10,
+            "BEGIN" : 0,
+            "NAME" : "four months",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 83,
+            "BEGIN" : 72,
+            "NAME" : "in four days",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 289,
+            "BEGIN" : 283,
+            "NAME" : "Twitter",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 306,
+            "BEGIN" : 291,
+            "NAME" : "today on the eve",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 408,
+            "BEGIN" : 380,
+            "NAME" : "to where tomorrow and Tuesday",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 544,
+            "BEGIN" : 531,
+            "NAME" : "over this year",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 624,
+            "BEGIN" : 611,
+            "NAME" : "Monday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RANGE",
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0001",
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 984,
+            "BEGIN" : 966,
+            "NAME" : "Wednesday afternoon",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 1051,
+            "BEGIN" : 1016,
+            "NAME" : "Tennessee Republican Lamar Alexander",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0004",
+            "COORD" : "49.0/32.0",
+            "END" : 1095,
+            "BEGIN" : 1089,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0001",
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1328,
+            "BEGIN" : 1324,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "COORD" : "42.0/-93.0",
+            "END" : 1418,
+            "BEGIN" : 1415,
+            "NAME" : "Iowa",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1425,
+            "BEGIN" : 1420,
+            "NAME" : "Monday",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      }, {
+        "NAME" : "Crime",
+        "RULE" : {
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 196,
+            "BEGIN" : 188,
+            "NAME" : "acquittal"
+          }, {
+            "END" : 995,
+            "BEGIN" : 989,
+            "NAME" : "convict"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 10,
+            "BEGIN" : 0,
+            "NAME" : "four months",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 83,
+            "BEGIN" : 72,
+            "NAME" : "in four days",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 289,
+            "BEGIN" : 283,
+            "NAME" : "Twitter",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 306,
+            "BEGIN" : 291,
+            "NAME" : "today on the eve",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 408,
+            "BEGIN" : 380,
+            "NAME" : "to where tomorrow and Tuesday",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 544,
+            "BEGIN" : 531,
+            "NAME" : "over this year",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 624,
+            "BEGIN" : 611,
+            "NAME" : "Monday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RANGE",
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0001",
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 984,
+            "BEGIN" : 966,
+            "NAME" : "Wednesday afternoon",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 1051,
+            "BEGIN" : 1016,
+            "NAME" : "Tennessee Republican Lamar Alexander",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0004",
+            "COORD" : "49.0/32.0",
+            "END" : 1095,
+            "BEGIN" : 1089,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0001",
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1328,
+            "BEGIN" : 1324,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "COORD" : "42.0/-93.0",
+            "END" : 1418,
+            "BEGIN" : 1415,
+            "NAME" : "Iowa",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1425,
+            "BEGIN" : 1420,
+            "NAME" : "Monday",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : [ {
+        "NAME" : "Corruption, abuse of office and crimes against the Public Administration",
+        "RULE" : {
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 764,
+            "BEGIN" : 758,
+            "NAME" : "abusing"
+          }, {
+            "END" : 774,
+            "BEGIN" : 770,
+            "NAME" : "power"
+          }, {
+            "END" : 788,
+            "BEGIN" : 783,
+            "NAME" : "office"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 10,
+            "BEGIN" : 0,
+            "NAME" : "four months",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 83,
+            "BEGIN" : 72,
+            "NAME" : "in four days",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 289,
+            "BEGIN" : 283,
+            "NAME" : "Twitter",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 306,
+            "BEGIN" : 291,
+            "NAME" : "today on the eve",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 408,
+            "BEGIN" : 380,
+            "NAME" : "to where tomorrow and Tuesday",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 544,
+            "BEGIN" : 531,
+            "NAME" : "over this year",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 624,
+            "BEGIN" : 611,
+            "NAME" : "Monday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RANGE",
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0001",
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 984,
+            "BEGIN" : 966,
+            "NAME" : "Wednesday afternoon",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 1051,
+            "BEGIN" : 1016,
+            "NAME" : "Tennessee Republican Lamar Alexander",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0004",
+            "COORD" : "49.0/32.0",
+            "END" : 1095,
+            "BEGIN" : 1089,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0001",
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1328,
+            "BEGIN" : 1324,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "COORD" : "42.0/-93.0",
+            "END" : 1418,
+            "BEGIN" : 1415,
+            "NAME" : "Iowa",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1425,
+            "BEGIN" : 1420,
+            "NAME" : "Monday",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      }, {
+        "NAME" : "Positive results from investigations and measures",
+        "RULE" : {
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 138,
+            "BEGIN" : 130,
+            "NAME" : "president"
+          }, {
+            "END" : 151,
+            "BEGIN" : 143,
+            "NAME" : "acquitted"
+          }, {
+            "END" : 1005,
+            "BEGIN" : 1000,
+            "NAME" : "acquit"
+          } ],
+          "TOPIC" : {
+            "NAME" : "Acquittals"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 10,
+            "BEGIN" : 0,
+            "NAME" : "four months",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 83,
+            "BEGIN" : 72,
+            "NAME" : "in four days",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 289,
+            "BEGIN" : 283,
+            "NAME" : "Twitter",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 306,
+            "BEGIN" : 291,
+            "NAME" : "today on the eve",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 408,
+            "BEGIN" : 380,
+            "NAME" : "to where tomorrow and Tuesday",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 544,
+            "BEGIN" : 531,
+            "NAME" : "over this year",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 624,
+            "BEGIN" : 611,
+            "NAME" : "Monday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RANGE",
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0001",
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 984,
+            "BEGIN" : 966,
+            "NAME" : "Wednesday afternoon",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 1051,
+            "BEGIN" : 1016,
+            "NAME" : "Tennessee Republican Lamar Alexander",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0004",
+            "COORD" : "49.0/32.0",
+            "END" : 1095,
+            "BEGIN" : 1089,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0001",
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1328,
+            "BEGIN" : 1324,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "COORD" : "42.0/-93.0",
+            "END" : 1418,
+            "BEGIN" : 1415,
+            "NAME" : "Iowa",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1425,
+            "BEGIN" : 1420,
+            "NAME" : "Monday",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      }, {
+        "NAME" : "Investigations, inquiries and legal proceedings",
+        "RULE" : {
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 634,
+            "BEGIN" : 630,
+            "NAME" : "trial"
+          },
+          "TOPIC" : {
+            "NAME" : "Judicial proceedings"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 10,
+            "BEGIN" : 0,
+            "NAME" : "four months",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 83,
+            "BEGIN" : 72,
+            "NAME" : "in four days",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 289,
+            "BEGIN" : 283,
+            "NAME" : "Twitter",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 306,
+            "BEGIN" : 291,
+            "NAME" : "today on the eve",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 408,
+            "BEGIN" : 380,
+            "NAME" : "to where tomorrow and Tuesday",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 544,
+            "BEGIN" : 531,
+            "NAME" : "over this year",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 624,
+            "BEGIN" : 611,
+            "NAME" : "Monday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RANGE",
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0001",
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 984,
+            "BEGIN" : 966,
+            "NAME" : "Wednesday afternoon",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 1051,
+            "BEGIN" : 1016,
+            "NAME" : "Tennessee Republican Lamar Alexander",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0004",
+            "COORD" : "49.0/32.0",
+            "END" : 1095,
+            "BEGIN" : 1089,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0001",
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1328,
+            "BEGIN" : 1324,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "COORD" : "42.0/-93.0",
+            "END" : 1418,
+            "BEGIN" : 1415,
+            "NAME" : "Iowa",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1425,
+            "BEGIN" : 1420,
+            "NAME" : "Monday",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : {
+        "NAME" : "United States of America",
+        "PROP" : [ {
+          "CONTINENT" : "North America"
+        }, {
+          "COORD" : "39.759724/-98.5"
+        } ],
+        "RULE" : {
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1418,
+            "BEGIN" : 1415,
+            "NAME" : "Iowa"
+          },
+          "TOPIC" : {
+            "NAME" : "Iowa"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 10,
+            "BEGIN" : 0,
+            "NAME" : "four months",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 83,
+            "BEGIN" : 72,
+            "NAME" : "in four days",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 289,
+            "BEGIN" : 283,
+            "NAME" : "Twitter",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 306,
+            "BEGIN" : 291,
+            "NAME" : "today on the eve",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 408,
+            "BEGIN" : 380,
+            "NAME" : "to where tomorrow and Tuesday",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 544,
+            "BEGIN" : 531,
+            "NAME" : "over this year",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 624,
+            "BEGIN" : 611,
+            "NAME" : "Monday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RANGE",
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0001",
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 984,
+            "BEGIN" : 966,
+            "NAME" : "Wednesday afternoon",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 1051,
+            "BEGIN" : 1016,
+            "NAME" : "Tennessee Republican Lamar Alexander",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0004",
+            "COORD" : "49.0/32.0",
+            "END" : 1095,
+            "BEGIN" : 1089,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0001",
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1328,
+            "BEGIN" : 1324,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "COORD" : "42.0/-93.0",
+            "END" : 1418,
+            "BEGIN" : 1415,
+            "NAME" : "Iowa",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1425,
+            "BEGIN" : 1420,
+            "NAME" : "Monday",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      }
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "NAME" : "Anger",
+        "RULE" : {
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 121,
+            "BEGIN" : 111,
+            "NAME" : "frustration"
+          }, {
+            "END" : 1187,
+            "BEGIN" : 1185,
+            "NAME" : "was"
+          }, {
+            "END" : 1193,
+            "BEGIN" : 1189,
+            "NAME" : "wrong"
+          } ],
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 10,
+            "BEGIN" : 0,
+            "NAME" : "four months",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 83,
+            "BEGIN" : 72,
+            "NAME" : "in four days",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 289,
+            "BEGIN" : 283,
+            "NAME" : "Twitter",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 306,
+            "BEGIN" : 291,
+            "NAME" : "today on the eve",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 408,
+            "BEGIN" : 380,
+            "NAME" : "to where tomorrow and Tuesday",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 544,
+            "BEGIN" : 531,
+            "NAME" : "over this year",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 624,
+            "BEGIN" : 611,
+            "NAME" : "Monday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RANGE",
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0001",
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 984,
+            "BEGIN" : 966,
+            "NAME" : "Wednesday afternoon",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 1051,
+            "BEGIN" : 1016,
+            "NAME" : "Tennessee Republican Lamar Alexander",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0004",
+            "COORD" : "49.0/32.0",
+            "END" : 1095,
+            "BEGIN" : 1089,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0001",
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1328,
+            "BEGIN" : 1324,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "COORD" : "42.0/-93.0",
+            "END" : 1418,
+            "BEGIN" : 1415,
+            "NAME" : "Iowa",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1425,
+            "BEGIN" : 1420,
+            "NAME" : "Monday",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      }, {
+        "NAME" : "Traditionalism",
+        "RULE" : {
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 357,
+            "BEGIN" : 347,
+            "NAME" : "traditional"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 10,
+            "BEGIN" : 0,
+            "NAME" : "four months",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 83,
+            "BEGIN" : 72,
+            "NAME" : "in four days",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 289,
+            "BEGIN" : 283,
+            "NAME" : "Twitter",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 306,
+            "BEGIN" : 291,
+            "NAME" : "today on the eve",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 408,
+            "BEGIN" : 380,
+            "NAME" : "to where tomorrow and Tuesday",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 544,
+            "BEGIN" : 531,
+            "NAME" : "over this year",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 624,
+            "BEGIN" : 611,
+            "NAME" : "Monday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RANGE",
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0001",
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 984,
+            "BEGIN" : 966,
+            "NAME" : "Wednesday afternoon",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 1051,
+            "BEGIN" : 1016,
+            "NAME" : "Tennessee Republican Lamar Alexander",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0004",
+            "COORD" : "49.0/32.0",
+            "END" : 1095,
+            "BEGIN" : 1089,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0001",
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1328,
+            "BEGIN" : 1324,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "COORD" : "42.0/-93.0",
+            "END" : 1418,
+            "BEGIN" : 1415,
+            "NAME" : "Iowa",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1425,
+            "BEGIN" : 1420,
+            "NAME" : "Monday",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      }, {
+        "NAME" : "Exasperation",
+        "RULE" : {
+          "END" : 1499,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 121,
+            "BEGIN" : 111,
+            "NAME" : "frustration"
+          },
+          "ENTITY" : [ {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 10,
+            "BEGIN" : 0,
+            "NAME" : "four months",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RANGE",
+            "END" : 83,
+            "BEGIN" : 72,
+            "NAME" : "in four days",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 138,
+            "BEGIN" : 126,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 229,
+            "BEGIN" : 217,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0003",
+            "END" : 289,
+            "BEGIN" : 283,
+            "NAME" : "Twitter",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 306,
+            "BEGIN" : 291,
+            "NAME" : "today on the eve",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 408,
+            "BEGIN" : 380,
+            "NAME" : "to where tomorrow and Tuesday",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 453,
+            "BEGIN" : 449,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "OLD",
+            "TIME_TYPE" : "RANGE",
+            "END" : 544,
+            "BEGIN" : 531,
+            "NAME" : "over this year",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 624,
+            "BEGIN" : 611,
+            "NAME" : "Monday morning",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RANGE",
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Time Reference"
+          }, {
+            "END" : 659,
+            "BEGIN" : 650,
+            "NAME" : "four hours",
+            "TYPE" : "Times"
+          }, {
+            "ID" : "0001",
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 725,
+            "BEGIN" : 721,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 808,
+            "BEGIN" : 794,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 861,
+            "BEGIN" : 857,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 984,
+            "BEGIN" : 966,
+            "NAME" : "Wednesday afternoon",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0002",
+            "END" : 1051,
+            "BEGIN" : 1016,
+            "NAME" : "Tennessee Republican Lamar Alexander",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0001",
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1087,
+            "BEGIN" : 1073,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0004",
+            "COORD" : "49.0/32.0",
+            "END" : 1095,
+            "BEGIN" : 1089,
+            "NAME" : "Ukraine",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0001",
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1149,
+            "BEGIN" : 1148,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1303,
+            "BEGIN" : 1289,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1328,
+            "BEGIN" : 1324,
+            "NAME" : "today",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0001",
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 1373,
+            "BEGIN" : 1359,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0005",
+            "COORD" : "42.0/-93.0",
+            "END" : 1418,
+            "BEGIN" : 1415,
+            "NAME" : "Iowa",
+            "TYPE" : "PLACES"
+          }, {
+            "TIME_REFER" : "UNDEFINED",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1425,
+            "BEGIN" : 1420,
+            "NAME" : "Monday",
+            "TYPE" : "Time Reference"
+          } ]
+        }
+      } ]
+    } ],
+    "WRITEPRINT" : {
+      "FEATURE" : "INDEXES",
+      "READABILITY_INDEX" : {
+        "GRADE_LEVEL" : 15,
+        "EVALUATION" : "LOW",
+        "VALUE" : 0.0
+      },
+      "STYLE_INDEXES" : {
+        "SEMANTIC_INDEXES" : {
+          "DOCUMENT_STRUCTURE" : {
+            "INDEX" : [ {
+              "VALUE" : 1.0,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "N_SENT"
+            }, {
+              "VALUE" : 1500.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "CHAR_PER_SENT"
+            }, {
+              "VALUE" : 244.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "WORD_PER_SENT"
+            } ]
+          },
+          "VOCABULARY_RICHNESS" : {
+            "INDEX" : [ {
+              "VALUE" : 54.24,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "SEMANTIC_RICHNESS"
+            }, {
+              "VALUE" : 79.02,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "DIFFERENT_LEMMA"
+            }, {
+              "VALUE" : 17.61,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "SHORT_WORD"
+            }, {
+              "VALUE" : 8.82,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "HIGH_FREQ"
+            }, {
+              "VALUE" : 6.99,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ADVANCED_WORD"
+            }, {
+              "VALUE" : 5.59,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ACADEMIC_WORD"
+            }, {
+              "VALUE" : 72.03,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "COMMON_WORD"
+            } ]
+          },
+          "GRAMMAR" : {
+            "INDEX" : [ {
+              "VALUE" : 26.23,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_NOU"
+            }, {
+              "VALUE" : 10.25,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADJ"
+            }, {
+              "VALUE" : 18.03,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_VER"
+            }, {
+              "VALUE" : 4.51,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_CON"
+            }, {
+              "VALUE" : 4.1,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADV"
+            }, {
+              "VALUE" : 4.55,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_CONDITIONAL"
+            }, {
+              "VALUE" : 13.64,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ED_FORM"
+            }, {
+              "VALUE" : 4.55,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_FUTURE"
+            }, {
+              "VALUE" : 9.09,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ING_FORM"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PAST_PERFECT"
+            }, {
+              "VALUE" : 2.27,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PRESENT_PERFECT"
+            }, {
+              "VALUE" : 9.09,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PAST"
+            }, {
+              "VALUE" : 36.36,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PRESENT"
+            }, {
+              "VALUE" : 20.45,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_UNDEFINED"
+            } ]
+          },
+          "REGISTER" : {
+            "INDEX" : [ {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_ABBREVIATION"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_FOREIGN"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_LITERARY"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CRIMINAL_ENTERPRISE_SLANG"
+            }, {
+              "VALUE" : 2.05,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CYBER_ILLEGAL_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_MILITARY_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_SOCIAL_SLANG"
+            } ]
+          },
+          "CHAINS" : {
+            "CHAIN-INDEX" : [ {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ABOUT_NATURAL_EVENTS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ILLEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "INCORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "LEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ASSAILMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DISSENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DRUGS_USE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ECONOMY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_EXISTENCE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FINANCES",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FIRING_A_WEAPON",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERAL_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_CREATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INFORMATICS_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INVESTIGATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 6.82,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LAW",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 15.91,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MILITARY_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.27,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT_ON_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_NO_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.27,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POLITICS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 4.55,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POSSESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_PSYCHOLOGICAL_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.27,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SHIFT_OF_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.27,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SOCIAL_BEHAVIOUR",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.27,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TAKING",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRADE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRAVEL",
+              "TYPE" : "VER"
+            } ]
+          }
+        }
+      }
+    }
+  }
+}

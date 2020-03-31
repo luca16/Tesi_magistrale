@@ -1,0 +1,4290 @@
+{
+  "RESPONSE" : {
+    "TRANSACTIONS" : {
+      "dailyCount" : "990",
+      "limit" : "1000"
+    },
+    "DOCUMENT" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos\n",
+    "CATEGORIZATION" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 27.5,
+        "SCORE" : 6435,
+        "NAME" : "Politics",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1865,
+            "BEGIN" : 1863
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1950,
+            "BEGIN" : 1940
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1861,
+            "BEGIN" : 1859
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3545,
+            "BEGIN" : 3537
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 446,
+            "BEGIN" : 438
+          }
+        }, {
+          "SCORE" : 810,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 59,
+            "BEGIN" : 48
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 11.84,
+        "SCORE" : 2770,
+        "NAME" : "Executive (government)",
+        "RULE" : [ {
+          "SCORE" : 50,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 446,
+            "BEGIN" : 438
+          }
+        }, {
+          "SCORE" : 50,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3545,
+            "BEGIN" : 3537
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 59,
+            "BEGIN" : 48
+          }
+        }, {
+          "SCORE" : 1335,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 59,
+            "BEGIN" : 48
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 11.41,
+        "SCORE" : 2670,
+        "NAME" : "Voting",
+        "RULE" : [ {
+          "SCORE" : 1335,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1865,
+            "BEGIN" : 1863
+          }, {
+            "END" : 4864,
+            "BEGIN" : 4861
+          } ]
+        }, {
+          "SCORE" : 1335,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1861,
+            "BEGIN" : 1859
+          }, {
+            "END" : 4864,
+            "BEGIN" : 4861
+          } ]
+        } ]
+      }, {
+        "FREQUENCY" : 6.92,
+        "SCORE" : 1620,
+        "NAME" : "Counter Terrorist Attack",
+        "RULE" : [ {
+          "SCORE" : 810,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1237,
+            "BEGIN" : 1235
+          }, {
+            "END" : 1922,
+            "BEGIN" : 1909
+          }, {
+            "END" : 3008,
+            "BEGIN" : 3006
+          } ]
+        }, {
+          "SCORE" : 810,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1237,
+            "BEGIN" : 1235
+          }, {
+            "END" : 1965,
+            "BEGIN" : 1952
+          }, {
+            "END" : 3008,
+            "BEGIN" : 3006
+          } ]
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : {
+        "FREQUENCY" : 5.7,
+        "SCORE" : 1335,
+        "NAME" : "Bankruptcy",
+        "RULE" : {
+          "SCORE" : 1335,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1108,
+            "BEGIN" : 1099
+          }
+        }
+      }
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 0.13,
+        "SCORE" : 20,
+        "NAME" : "California",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2759,
+            "BEGIN" : 2750
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2759,
+            "BEGIN" : 2750
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.13,
+        "SCORE" : 20,
+        "NAME" : "United States of America",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2759,
+            "BEGIN" : 2750
+          }
+        }, {
+          "SCORE" : 10,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2759,
+            "BEGIN" : 2750
+          }
+        } ]
+      } ]
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "FREQUENCY" : 0.06,
+        "SCORE" : 13,
+        "NAME" : "Anxiety",
+        "RULE" : [ {
+          "SCORE" : 10,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 543,
+            "BEGIN" : 539
+          }
+        }, {
+          "SCORE" : 3,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 844,
+            "BEGIN" : 835
+          }
+        } ]
+      }, {
+        "FREQUENCY" : 0.04,
+        "SCORE" : 10,
+        "NAME" : "Seriousness",
+        "RULE" : {
+          "SCORE" : 10,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 963,
+            "BEGIN" : 955
+          }
+        }
+      }, {
+        "FREQUENCY" : 0.04,
+        "SCORE" : 10,
+        "NAME" : "Courage",
+        "RULE" : {
+          "SCORE" : 10,
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3068,
+            "BEGIN" : 3060
+          }
+        }
+      } ]
+    } ],
+    "PEOPLE" : {
+      "FEATURE" : "LIST",
+      "PERSON" : [ {
+        "BASE" : "Ana",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1235,
+            "END" : 1237
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 1,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "F",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Ana",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "person generic",
+          "NAME" : "humanrole"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : 5.0
+        }
+      }, {
+        "BASE" : "Barbara",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 12,
+            "END" : 18
+          }, {
+            "BEGIN" : 24,
+            "END" : 26
+          }, {
+            "BEGIN" : 74,
+            "END" : 76
+          }, {
+            "BEGIN" : 136,
+            "END" : 138
+          }, {
+            "BEGIN" : 231,
+            "END" : 237
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 2,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "F",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Barbara",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "person generic",
+          "NAME" : "humanrole"
+        } ]
+      }, {
+        "BASE" : "Chris Hayes",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4676,
+            "END" : 4686
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 3,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Chris",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Hayes",
+          "NAME" : "SURNAME"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : 6.0
+        }
+      }, {
+        "BASE" : "Stephanie",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 3234,
+            "END" : 3242
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 4,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "F",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Stephanie",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "person generic",
+          "NAME" : "humanrole"
+        } ]
+      }, {
+        "BASE" : "John Kelly",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 2428,
+            "END" : 2432
+          }, {
+            "BEGIN" : 2450,
+            "END" : 2459
+          }, {
+            "BEGIN" : 2567,
+            "END" : 2573
+          }, {
+            "BEGIN" : 2596,
+            "END" : 2597
+          }, {
+            "BEGIN" : 2647,
+            "END" : 2654
+          }, {
+            "BEGIN" : 2684,
+            "END" : 2690
+          }, {
+            "BEGIN" : 2712,
+            "END" : 2728
+          }, {
+            "BEGIN" : 2800,
+            "END" : 2802
+          }, {
+            "BEGIN" : 2851,
+            "END" : 2852
+          }, {
+            "BEGIN" : 3188,
+            "END" : 3189
+          }, {
+            "BEGIN" : 3382,
+            "END" : 3388
+          }, {
+            "BEGIN" : 3491,
+            "END" : 3492
+          }, {
+            "BEGIN" : 3555,
+            "END" : 3556
+          }, {
+            "BEGIN" : 3829,
+            "END" : 3831
+          }, {
+            "BEGIN" : 3897,
+            "END" : 3898
+          }, {
+            "BEGIN" : 3928,
+            "END" : 3929
+          }, {
+            "BEGIN" : 3984,
+            "END" : 3985
+          }, {
+            "BEGIN" : 4455,
+            "END" : 4456
+          }, {
+            "BEGIN" : 4557,
+            "END" : 4558
+          }, {
+            "BEGIN" : 4560,
+            "END" : 4561
+          }, {
+            "BEGIN" : 4573,
+            "END" : 4574
+          }, {
+            "BEGIN" : 4612,
+            "END" : 4613
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 5,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Kelly",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "John",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Kelly",
+          "NAME" : "SURNAME"
+        } ],
+        "SENTIMENT" : {
+          "OVERALL" : -3.3
+        }
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 48,
+            "END" : 59
+          }, {
+            "BEGIN" : 428,
+            "END" : 448
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 6,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "M",
+          "NAME" : "SEX"
+        }, {
+          "BASE" : "Donald",
+          "NAME" : "NAME"
+        }, {
+          "BASE" : "Trump",
+          "NAME" : "SURNAME"
+        }, {
+          "BASE" : "businessman",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "important person",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president/United States of America",
+          "NAME" : "humanrole"
+        }, {
+          "BASE" : "president",
+          "NAME" : "humanrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 5,
+          "LINKED_SYNCON" : [ {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "businessman"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "important person"
+              }
+            }
+          }, {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "chief executive"
+              }
+            }
+          }, {
+            "NAME" : "Country",
+            "SYNCON" : {
+              "TYPE" : "Proper noun",
+              "LEMMA" : {
+                "TEXT" : "United States of America"
+              }
+            }
+          }, {
+            "NAME" : "Wealth source",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "real estate company"
+              }
+            }
+          } ]
+        }
+      } ]
+    },
+    "ORGANIZATIONS" : {
+      "FEATURE" : "LIST",
+      "ORGANIZATION" : [ {
+        "BASE" : "Trump Organization",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 117,
+            "END" : 134
+          }, {
+            "BEGIN" : 2259,
+            "END" : 2263
+          } ]
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 7,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "Trump",
+          "NAME" : "ALIAS"
+        }, {
+          "BASE" : "organization",
+          "NAME" : "orgrole"
+        } ]
+      }, {
+        "BASE" : "White House",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1940,
+            "END" : 1950
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 8,
+          "NAME" : "ID"
+        }, {
+          "BASE" : "government",
+          "NAME" : "orgrole"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "the chief executive department of the US government"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "government"
+              }
+            }
+          }
+        }
+      } ]
+    },
+    "PLACES" : {
+      "FEATURE" : "LIST",
+      "PLACE" : {
+        "BASE" : "California",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2750,
+            "END" : 2759
+          }
+        },
+        "FEATURE" : "FULLNAME",
+        "FIELD" : [ {
+          "BASE" : 10,
+          "NAME" : "ID"
+        }, {
+          "BASE" : 5332921,
+          "NAME" : "GeonamesId"
+        } ],
+        "SYNCON" : {
+          "GLOSS" : "federated state in United States of America (North America)"
+        },
+        "LINKED_SYNCONS" : {
+          "COUNT" : 1,
+          "LINKED_SYNCON" : {
+            "NAME" : "Is a",
+            "SYNCON" : {
+              "TYPE" : "Noun",
+              "LEMMA" : {
+                "TEXT" : "federated state"
+              }
+            }
+          }
+        },
+        "PROP" : [ {
+          "COUNTRY" : "United States of America"
+        }, {
+          "CONTINENT" : "North America"
+        }, {
+          "COORD" : "37.0/-120.0"
+        } ]
+      }
+    },
+    "TEXTMINING" : [ {
+      "FEATURE" : "DOM_SPECIFIC",
+      "ENTITY" : [ {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 48,
+            "END" : 59
+          }, {
+            "BEGIN" : 428,
+            "END" : 448
+          } ]
+        },
+        "TYPE" : "Most Influential People",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "businessman",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "important person",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      }, {
+        "BASE" : "Friday night",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 3279,
+            "END" : 3290
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "RECENT",
+          "TIME_TYPE" : "RANGE"
+        }
+      }, {
+        "BASE" : "in January",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2165,
+            "END" : 2174
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "FUTURE",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "in the very last day",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2656,
+            "END" : 2675
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "RECENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2831,
+            "END" : 2833
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "now",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4348,
+            "END" : 4350
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "the day",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 4495,
+            "END" : 4501
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "RECENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "tonight",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 268,
+            "END" : 274
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "RECENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "tonight",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 385,
+            "END" : 391
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "tonight",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1892,
+            "END" : 1898
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "tonight",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2044,
+            "END" : 2050
+          }
+        },
+        "TYPE" : "Time Reference",
+        "TIMEREFERENCE" : {
+          "TIME_REFER" : "PRESENT",
+          "TIME_TYPE" : "RELATIVE"
+        }
+      }, {
+        "BASE" : "Donald Trump",
+        "TRACKS" : {
+          "TRACK" : [ {
+            "BEGIN" : 48,
+            "END" : 59
+          }, {
+            "BEGIN" : 428,
+            "END" : 448
+          } ]
+        },
+        "TYPE" : "World Leaders",
+        "REASONING" : [ {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }, {
+          "VALUE" : "real estate company",
+          "ATTRIBUTE" : "Wealth source"
+        }, {
+          "VALUE" : "head of state",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "president",
+          "ATTRIBUTE" : "Is a"
+        }, {
+          "VALUE" : "politician",
+          "ATTRIBUTE" : "Is a"
+        } ],
+        "SUPERTYPE" : "PEOPLE",
+        "GLOSS" : "Donald John Trump (born June 14, 1946) is the 45th and current President of the United States, in office since January..."
+      }, {
+        "BASE" : "politico.com",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2031,
+            "END" : 2042
+          }
+        },
+        "TYPE" : "Urls"
+      }, {
+        "BASE" : "100%",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 1306,
+            "END" : 1309
+          }
+        },
+        "TYPE" : "Percentages"
+      } ]
+    }, {
+      "FEATURE" : "PLACES_REASONING",
+      "ENTITY" : {
+        "BASE" : "California",
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 2750,
+            "END" : 2759
+          }
+        },
+        "TYPE" : "PLACES",
+        "REASONING" : {
+          "VALUE" : "United States of America",
+          "ATTRIBUTE" : "Country"
+        }
+      }
+    }, {
+      "FEATURE" : "INFERENTIAL_ENTITIES",
+      "ENTITY" : {
+        "BASE" : "United States of America",
+        "EVIDENCE" : [ {
+          "ATTRIBUTE" : "Country",
+          "CUE" : "Donald Trump",
+          "TRACKS" : {
+            "TRACK" : [ {
+              "BEGIN" : 48,
+              "END" : 59
+            }, {
+              "BEGIN" : 428,
+              "END" : 448
+            } ]
+          }
+        }, {
+          "ATTRIBUTE" : "Country",
+          "CUE" : "California",
+          "TRACKS" : {
+            "TRACK" : {
+              "BEGIN" : 2750,
+              "END" : 2759
+            }
+          }
+        } ]
+      }
+    }, {
+      "FEATURE" : "ENTITIESRELATIONS",
+      "NODES" : {
+        "NODE" : [ {
+          "content" : "Barbara",
+          "ID" : 2,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Chris Hayes",
+          "ID" : 3,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Stephanie",
+          "ID" : 4,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "John Kelly",
+          "ID" : 5,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Donald Trump",
+          "ID" : 6,
+          "TYPE" : "PERSON"
+        }, {
+          "content" : "Trump Organization",
+          "ID" : 7,
+          "TYPE" : "ORGANIZATION"
+        } ]
+      },
+      "RELATIONS" : {
+        "REL" : [ {
+          "SOURCE" : 2,
+          "TARGET" : 7,
+          "FREQ" : 1,
+          "VERB" : "say",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4898
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 74,
+              "REL_END" : 76
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 117,
+              "REL_END" : 134
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 306,
+              "REL_END" : 308
+            } ],
+            "BASE" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 6,
+          "TARGET" : 7,
+          "FREQ" : 1,
+          "VERB" : "say",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4898
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 48,
+              "REL_END" : 59
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 117,
+              "REL_END" : 134
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 306,
+              "REL_END" : 308
+            } ],
+            "BASE" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 2,
+          "TARGET" : 7,
+          "FREQ" : 1,
+          "VERB" : "thank",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4898
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 74,
+              "REL_END" : 76
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 117,
+              "REL_END" : 134
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 341,
+              "REL_END" : 345
+            } ],
+            "BASE" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 6,
+          "TARGET" : 7,
+          "FREQ" : 1,
+          "VERB" : "thank",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4898
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 48,
+              "REL_END" : 59
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 117,
+              "REL_END" : 134
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 341,
+              "REL_END" : 345
+            } ],
+            "BASE" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 6,
+          "TARGET" : 2,
+          "FREQ" : 1,
+          "VERB" : "say",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4898
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 48,
+              "REL_END" : 59
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 74,
+              "REL_END" : 76
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 306,
+              "REL_END" : 308
+            } ],
+            "BASE" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 2,
+          "TARGET" : 6,
+          "FREQ" : 1,
+          "VERB" : "say",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4898
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 12,
+              "REL_END" : 18
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 48,
+              "REL_END" : 59
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 306,
+              "REL_END" : 308
+            } ],
+            "BASE" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 5,
+          "TARGET" : 4,
+          "FREQ" : 1,
+          "VERB" : "expect",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4898
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 3188,
+              "REL_END" : 3189
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 3234,
+              "REL_END" : 3242
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 3453,
+              "REL_END" : 3461
+            } ],
+            "BASE" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 5,
+          "TARGET" : 3,
+          "FREQ" : 1,
+          "VERB" : "exact",
+          "TYPE" : "Communicative",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4898
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 4612,
+              "REL_END" : 4613
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 4676,
+              "REL_END" : 4686
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 4620,
+              "REL_END" : 4624
+            } ],
+            "BASE" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 2,
+          "TARGET" : 7,
+          "FREQ" : 2,
+          "VERB" : "work",
+          "TYPE" : "Social activity",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4898
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 12,
+              "REL_END" : 18
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 117,
+              "REL_END" : 134
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 36,
+              "REL_END" : 42
+            } ],
+            "BASE" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          }, {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4898
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 24,
+              "REL_END" : 26
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 117,
+              "REL_END" : 134
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 36,
+              "REL_END" : 42
+            } ],
+            "BASE" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        }, {
+          "SOURCE" : 6,
+          "TARGET" : 7,
+          "FREQ" : 1,
+          "VERB" : "work",
+          "TYPE" : "Social activity",
+          "SENTENCE" : [ {
+            "TRACK" : [ {
+              "ELEMENT" : "SENTENCE",
+              "BEGIN" : 0,
+              "END" : 4898
+            }, {
+              "ELEMENT" : "SOURCE",
+              "REL_BEGIN" : 48,
+              "REL_END" : 59
+            }, {
+              "ELEMENT" : "TARGET",
+              "REL_BEGIN" : 117,
+              "REL_END" : 134
+            }, {
+              "ELEMENT" : "VERB",
+              "REL_BEGIN" : 36,
+              "REL_END" : 42
+            } ],
+            "BASE" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos"
+          } ]
+        } ]
+      }
+    } ],
+    "TAGGING" : [ {
+      "FEATURE" : "MAINSENTENCES",
+      "RELEVANT" : {
+        "SENTENCE_TEXT" : "her name is Barbara res she started working for Donald Trump in the 1980s she was an executive vice president at the Trump Organization she's the author of all alone on the 68th floor how one woman changed the face of construction Barbara thanks so much for coming in tonight I did not know that you would say yes when I guess don't you but thank you no reason I wanted you to come in tonight is because I don't think very much about the president's brain and his personality and his biography and all these things I've got other stuff to worry about but I'm also starting to think for in terms of what's going to happen at this big moment in our country I'm starting to think about what we should expect from him I don't know that he's ever had kind of an accountability moment like this before in his business side who's ever gotten in trouble before and you know he has but not anything of this nature I mean this is and and he's taking this extremely seriously when you say he has had he hasn't sort of gotten in trouble before yeah we lose a little thing or you know he'll he'll have deal with bankruptcy or something I'll happen wasn't building and he always is able to shuffle it off to someone else and you know walk away from Ana unscathed is that kind of his MO to try to find somebody else - Oh 100% it's never ever ham and what do you mean in terms of just blaming them or in terms of making somebody actually face the consequences for him more yeah if you can absolutely but certainly blaming them and you know looking for someone to who made this happen in the impeachment in my minds he's going around saying well you know it shouldn't have happened then you let it happen you know whoever he's talking to and you didn't do your job and I screaming and I think he's probably really out there in terms of dealing with his own people his own job yes yes we did just get a report tonight that the chief of staff is about to the White House chief of staff is is gone that he's already been sidelined he was described in politico.com tonight as sort of being like at the kids table like he's allowed to be seen but not speak and then he's a he'll be gone in January that sounds like that's in keeping with what your expectation of a high stature if Trump needs to have that post and be responsible for something that he did it'll diminish that post it's you know that kind of things no longer I mean you saw that will Kelly in my mind with John Kelly the previous cheetahs on were you ever in a business situation where there were some negative consequence for him for his business and he blamed you the very last thing that I had to do with him in the very last day I work for him mom we were working in this big party very complicated in California but decision had to be made and I told him not to do something I tell now advised not and he didn't listen to my advice and it was a very very bad decision what kind of decision was it we had to do with them approaching somebody that we were at war with and you know letting them know basically how desperate we were to make a deal and not a good decision not something we would think you would allow to happen but at any rate he we had a big meeting with his partners and Stephanie blamed me for everything so it was Friday night I quit you know that was the end that was the last time yeah that was the last their work for him one of the things that I have been wondering about and kind of expecting is that I feel like the way he's dealt with things not cutting his way as president is that he's created competing crises like something's going bad so I'm going to do something really outrageous that everybody feels obliged to respond to because it's outrageous and that'll be the new thing to keep the new cycle moving to put this thing behind us I know I've seen him do that kind of thing so hard to remember specifically what but he does absolutely you know if he's looking bad in some way or another all of a sudden he's the greatest you know whatever so I spread and and you know look at what I've done here and and take the pressure and that the picture off what were they had done more sure you don't do that all the time is there anything that you would say to people who have never dealt with them personally but the country is all sort of dealing with them personally right now in terms of either what to expect or how to sort of mitigate any negative consequences in terms of how he might act out in response you know I the day some mitigation seemed to be gone but I will say that he he will once he gets through this any properly well he will exact revenge on a lot of people a lot of hey there I'm Chris Hayes from MSNBC thanks for watching MSNBC on youtube if you want to keep up to date with the videos we're putting out you can click subscribe just below me or click over on this list to see lots of other great videos",
+        "SCORE" : 100.0,
+        "TRACKS" : {
+          "TRACK" : {
+            "BEGIN" : 0,
+            "END" : 4898
+          }
+        }
+      }
+    }, {
+      "FEATURE" : "MAINELEMENTS",
+      "LEMMA" : [ {
+        "LABEL" : "author",
+        "SCORE" : 13.4,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 146,
+          "END" : 151
+        }, {
+          "BEGIN" : 710,
+          "END" : 712
+        }, {
+          "BEGIN" : 732,
+          "END" : 733
+        }, {
+          "BEGIN" : 866,
+          "END" : 867
+        }, {
+          "BEGIN" : 928,
+          "END" : 929
+        }, {
+          "BEGIN" : 978,
+          "END" : 979
+        }, {
+          "BEGIN" : 989,
+          "END" : 990
+        }, {
+          "BEGIN" : 1072,
+          "END" : 1073
+        }, {
+          "BEGIN" : 1078,
+          "END" : 1079
+        }, {
+          "BEGIN" : 1155,
+          "END" : 1156
+        }, {
+          "BEGIN" : 1448,
+          "END" : 1450
+        }, {
+          "BEGIN" : 1599,
+          "END" : 1600
+        }, {
+          "BEGIN" : 1705,
+          "END" : 1706
+        }, {
+          "BEGIN" : 1776,
+          "END" : 1777
+        }, {
+          "BEGIN" : 1983,
+          "END" : 1984
+        }, {
+          "BEGIN" : 2011,
+          "END" : 2012
+        }, {
+          "BEGIN" : 2097,
+          "END" : 2098
+        }, {
+          "BEGIN" : 2144,
+          "END" : 2145
+        }, {
+          "BEGIN" : 2151,
+          "END" : 2152
+        }, {
+          "BEGIN" : 2327,
+          "END" : 2328
+        } ]
+      }, {
+        "LABEL" : "yes",
+        "SCORE" : 7.8,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1859,
+          "END" : 1861
+        }, {
+          "BEGIN" : 1863,
+          "END" : 1865
+        } ]
+      }, {
+        "LABEL" : "work",
+        "SCORE" : 7.8,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1744,
+          "END" : 1746
+        }, {
+          "BEGIN" : 1855,
+          "END" : 1857
+        }, {
+          "BEGIN" : 3377,
+          "END" : 3380
+        } ]
+      }, {
+        "LABEL" : "chief of staff",
+        "SCORE" : 7.4,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1909,
+          "END" : 1922
+        }, {
+          "BEGIN" : 1952,
+          "END" : 1965
+        } ]
+      }, {
+        "LABEL" : "White House",
+        "SCORE" : 6.2,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 1940,
+          "END" : 1950
+        }
+      }, {
+        "LABEL" : "kind",
+        "SCORE" : 6.1,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1257,
+          "END" : 1260
+        }, {
+          "BEGIN" : 2922,
+          "END" : 2925
+        }, {
+          "BEGIN" : 3841,
+          "END" : 3844
+        }, {
+          "BEGIN" : 4305,
+          "END" : 4308
+        } ]
+      }, {
+        "LABEL" : "re",
+        "SCORE" : 4.7,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 20,
+          "END" : 22
+        }, {
+          "BEGIN" : 24,
+          "END" : 26
+        }, {
+          "BEGIN" : 74,
+          "END" : 76
+        }, {
+          "BEGIN" : 136,
+          "END" : 138
+        } ]
+      }, {
+        "LABEL" : "thanks",
+        "SCORE" : 4.1,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 239,
+          "END" : 244
+        }, {
+          "BEGIN" : 4699,
+          "END" : 4704
+        } ]
+      }, {
+        "LABEL" : "Donald Trump",
+        "SCORE" : 3.9,
+        "TYPE" : "syncon",
+        "TRACK" : {
+          "BEGIN" : 48,
+          "END" : 59
+        }
+      }, {
+        "LABEL" : "mind",
+        "SCORE" : 3.7,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 450,
+          "END" : 454
+        }, {
+          "BEGIN" : 1593,
+          "END" : 1597
+        }, {
+          "BEGIN" : 2440,
+          "END" : 2443
+        } ]
+      }, {
+        "LABEL" : "deal",
+        "SCORE" : 3.3,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 1089,
+          "END" : 1092
+        }, {
+          "BEGIN" : 3088,
+          "END" : 3091
+        } ]
+      }, {
+        "LABEL" : "country",
+        "SCORE" : 3.3,
+        "TYPE" : "syncon",
+        "TRACK" : [ {
+          "BEGIN" : 647,
+          "END" : 653
+        }, {
+          "BEGIN" : 4290,
+          "END" : 4296
+        } ]
+      }, {
+        "LABEL" : "John Kelly",
+        "SCORE" : 10.9,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 2428,
+          "END" : 2432
+        }, {
+          "BEGIN" : 2450,
+          "END" : 2459
+        }, {
+          "BEGIN" : 2571,
+          "END" : 2573
+        }, {
+          "BEGIN" : 2596,
+          "END" : 2597
+        }, {
+          "BEGIN" : 2652,
+          "END" : 2654
+        }, {
+          "BEGIN" : 2688,
+          "END" : 2690
+        }, {
+          "BEGIN" : 2800,
+          "END" : 2802
+        }, {
+          "BEGIN" : 2851,
+          "END" : 2852
+        }, {
+          "BEGIN" : 3188,
+          "END" : 3189
+        }, {
+          "BEGIN" : 3386,
+          "END" : 3388
+        }, {
+          "BEGIN" : 3491,
+          "END" : 3492
+        }, {
+          "BEGIN" : 3555,
+          "END" : 3556
+        }, {
+          "BEGIN" : 3829,
+          "END" : 3831
+        }, {
+          "BEGIN" : 3897,
+          "END" : 3898
+        }, {
+          "BEGIN" : 3928,
+          "END" : 3929
+        }, {
+          "BEGIN" : 3984,
+          "END" : 3985
+        }, {
+          "BEGIN" : 4455,
+          "END" : 4456
+        }, {
+          "BEGIN" : 4557,
+          "END" : 4558
+        }, {
+          "BEGIN" : 4560,
+          "END" : 4561
+        }, {
+          "BEGIN" : 4573,
+          "END" : 4574
+        }, {
+          "BEGIN" : 4612,
+          "END" : 4613
+        } ]
+      }, {
+        "LABEL" : "job",
+        "SCORE" : 5.2,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 1744,
+          "END" : 1746
+        }, {
+          "BEGIN" : 1855,
+          "END" : 1857
+        } ]
+      }, {
+        "LABEL" : "Barbara",
+        "SCORE" : 4.4,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 12,
+          "END" : 18
+        }, {
+          "BEGIN" : 231,
+          "END" : 237
+        } ]
+      }, {
+        "LABEL" : "Trump Organization",
+        "SCORE" : 4.2,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 117,
+          "END" : 134
+        }, {
+          "BEGIN" : 2259,
+          "END" : 2263
+        } ]
+      }, {
+        "LABEL" : "consequence",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 1431,
+          "END" : 1442
+        }, {
+          "BEGIN" : 2555,
+          "END" : 2565
+        }, {
+          "BEGIN" : 4426,
+          "END" : 4437
+        } ]
+      }, {
+        "LABEL" : "video",
+        "SCORE" : 1.0,
+        "TYPE" : "lemma",
+        "TRACK" : [ {
+          "BEGIN" : 4776,
+          "END" : 4781
+        }, {
+          "BEGIN" : 4893,
+          "END" : 4898
+        } ]
+      }, {
+        "LABEL" : "job yes yes",
+        "SCORE" : 30.3,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1855,
+          "END" : 1865
+        }
+      }, {
+        "LABEL" : "White House chief of staff",
+        "SCORE" : 20.1,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 1940,
+          "END" : 1965
+        }
+      }, {
+        "LABEL" : "face of construction Barbara thanks",
+        "SCORE" : 8.3,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 210,
+          "END" : 244
+        }
+      }, {
+        "LABEL" : "MSNBC thanks",
+        "SCORE" : 5.6,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 4693,
+          "END" : 4704
+        }
+      }, {
+        "LABEL" : "kind of decision",
+        "SCORE" : 5.3,
+        "TYPE" : "group",
+        "TRACK" : {
+          "BEGIN" : 2922,
+          "END" : 2937
+        }
+      } ]
+    } ],
+    "FACTMINING" : [ {
+      "FEATURE" : "INTELLIGENCE",
+      "DOMAIN" : [ {
+        "NAME" : "Election",
+        "RULE" : {
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1861,
+            "BEGIN" : 1859,
+            "NAME" : "yes"
+          }, {
+            "END" : 1865,
+            "BEGIN" : 1863,
+            "NAME" : "yes"
+          }, {
+            "END" : 4864,
+            "BEGIN" : 4861,
+            "NAME" : "list"
+          } ],
+          "TOPIC" : {
+            "NAME" : "Voting"
+          },
+          "ENTITY" : [ {
+            "ID" : "0002",
+            "END" : 18,
+            "BEGIN" : 12,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 26,
+            "BEGIN" : 24,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0002",
+            "END" : 76,
+            "BEGIN" : 74,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 134,
+            "BEGIN" : 117,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 138,
+            "BEGIN" : 136,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 237,
+            "BEGIN" : 231,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 274,
+            "BEGIN" : 268,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 391,
+            "BEGIN" : 385,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1237,
+            "BEGIN" : 1235,
+            "NAME" : "Ana",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1309,
+            "BEGIN" : 1306,
+            "NAME" : "100%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1898,
+            "BEGIN" : 1892,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 1950,
+            "BEGIN" : 1940,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "END" : 2042,
+            "BEGIN" : 2031,
+            "NAME" : "politico.com",
+            "TYPE" : "Urls"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2050,
+            "BEGIN" : 2044,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2174,
+            "BEGIN" : 2165,
+            "NAME" : "in January",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2263,
+            "BEGIN" : 2259,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0005",
+            "END" : 2432,
+            "BEGIN" : 2428,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2459,
+            "BEGIN" : 2450,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2573,
+            "BEGIN" : 2567,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2597,
+            "BEGIN" : 2596,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2654,
+            "BEGIN" : 2647,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2675,
+            "BEGIN" : 2656,
+            "NAME" : "in the very last day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2690,
+            "BEGIN" : 2684,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2728,
+            "BEGIN" : 2712,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0010",
+            "COORD" : "37.0/-120.0",
+            "END" : 2759,
+            "BEGIN" : 2750,
+            "NAME" : "California",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 2802,
+            "BEGIN" : 2800,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2833,
+            "BEGIN" : 2831,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2852,
+            "BEGIN" : 2851,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3189,
+            "BEGIN" : 3188,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 3242,
+            "BEGIN" : 3234,
+            "NAME" : "Stephanie",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3290,
+            "BEGIN" : 3279,
+            "NAME" : "Friday night",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 3388,
+            "BEGIN" : 3382,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3492,
+            "BEGIN" : 3491,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3556,
+            "BEGIN" : 3555,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3831,
+            "BEGIN" : 3829,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3898,
+            "BEGIN" : 3897,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3929,
+            "BEGIN" : 3928,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3985,
+            "BEGIN" : 3984,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4350,
+            "BEGIN" : 4348,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4456,
+            "BEGIN" : 4455,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4501,
+            "BEGIN" : 4495,
+            "NAME" : "the day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4558,
+            "BEGIN" : 4557,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4561,
+            "BEGIN" : 4560,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4574,
+            "BEGIN" : 4573,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4613,
+            "BEGIN" : 4612,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 4686,
+            "BEGIN" : 4676,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }, {
+        "NAME" : "Counter Terrorism",
+        "RULE" : {
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 1237,
+            "BEGIN" : 1235,
+            "NAME" : "Ana"
+          }, {
+            "END" : 1922,
+            "BEGIN" : 1909,
+            "NAME" : "chief of staff"
+          }, {
+            "END" : 1965,
+            "BEGIN" : 1952,
+            "NAME" : "chief of staff"
+          }, {
+            "END" : 3008,
+            "BEGIN" : 3006,
+            "NAME" : "war"
+          } ],
+          "TOPIC" : {
+            "NAME" : "Counter Terrorist Attack"
+          },
+          "ENTITY" : [ {
+            "ID" : "0002",
+            "END" : 18,
+            "BEGIN" : 12,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 26,
+            "BEGIN" : 24,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0002",
+            "END" : 76,
+            "BEGIN" : 74,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 134,
+            "BEGIN" : 117,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 138,
+            "BEGIN" : 136,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 237,
+            "BEGIN" : 231,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 274,
+            "BEGIN" : 268,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 391,
+            "BEGIN" : 385,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1237,
+            "BEGIN" : 1235,
+            "NAME" : "Ana",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1309,
+            "BEGIN" : 1306,
+            "NAME" : "100%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1898,
+            "BEGIN" : 1892,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 1950,
+            "BEGIN" : 1940,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "END" : 2042,
+            "BEGIN" : 2031,
+            "NAME" : "politico.com",
+            "TYPE" : "Urls"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2050,
+            "BEGIN" : 2044,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2174,
+            "BEGIN" : 2165,
+            "NAME" : "in January",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2263,
+            "BEGIN" : 2259,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0005",
+            "END" : 2432,
+            "BEGIN" : 2428,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2459,
+            "BEGIN" : 2450,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2573,
+            "BEGIN" : 2567,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2597,
+            "BEGIN" : 2596,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2654,
+            "BEGIN" : 2647,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2675,
+            "BEGIN" : 2656,
+            "NAME" : "in the very last day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2690,
+            "BEGIN" : 2684,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2728,
+            "BEGIN" : 2712,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0010",
+            "COORD" : "37.0/-120.0",
+            "END" : 2759,
+            "BEGIN" : 2750,
+            "NAME" : "California",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 2802,
+            "BEGIN" : 2800,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2833,
+            "BEGIN" : 2831,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2852,
+            "BEGIN" : 2851,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3189,
+            "BEGIN" : 3188,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 3242,
+            "BEGIN" : 3234,
+            "NAME" : "Stephanie",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3290,
+            "BEGIN" : 3279,
+            "NAME" : "Friday night",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 3388,
+            "BEGIN" : 3382,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3492,
+            "BEGIN" : 3491,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3556,
+            "BEGIN" : 3555,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3831,
+            "BEGIN" : 3829,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3898,
+            "BEGIN" : 3897,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3929,
+            "BEGIN" : 3928,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3985,
+            "BEGIN" : 3984,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4350,
+            "BEGIN" : 4348,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4456,
+            "BEGIN" : 4455,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4501,
+            "BEGIN" : 4495,
+            "NAME" : "the day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4558,
+            "BEGIN" : 4557,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4561,
+            "BEGIN" : 4560,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4574,
+            "BEGIN" : 4573,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4613,
+            "BEGIN" : 4612,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 4686,
+            "BEGIN" : 4676,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      } ]
+    }, {
+      "FEATURE" : "CRIME",
+      "DOMAIN" : {
+        "NAME" : "Bankruptcy offences and corporate crime",
+        "RULE" : {
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 1108,
+            "BEGIN" : 1099,
+            "NAME" : "bankruptcy"
+          },
+          "TOPIC" : {
+            "NAME" : "Bankruptcy"
+          },
+          "ENTITY" : [ {
+            "ID" : "0002",
+            "END" : 18,
+            "BEGIN" : 12,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 26,
+            "BEGIN" : 24,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0002",
+            "END" : 76,
+            "BEGIN" : 74,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 134,
+            "BEGIN" : 117,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 138,
+            "BEGIN" : 136,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 237,
+            "BEGIN" : 231,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 274,
+            "BEGIN" : 268,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 391,
+            "BEGIN" : 385,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1237,
+            "BEGIN" : 1235,
+            "NAME" : "Ana",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1309,
+            "BEGIN" : 1306,
+            "NAME" : "100%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1898,
+            "BEGIN" : 1892,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 1950,
+            "BEGIN" : 1940,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "END" : 2042,
+            "BEGIN" : 2031,
+            "NAME" : "politico.com",
+            "TYPE" : "Urls"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2050,
+            "BEGIN" : 2044,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2174,
+            "BEGIN" : 2165,
+            "NAME" : "in January",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2263,
+            "BEGIN" : 2259,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0005",
+            "END" : 2432,
+            "BEGIN" : 2428,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2459,
+            "BEGIN" : 2450,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2573,
+            "BEGIN" : 2567,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2597,
+            "BEGIN" : 2596,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2654,
+            "BEGIN" : 2647,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2675,
+            "BEGIN" : 2656,
+            "NAME" : "in the very last day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2690,
+            "BEGIN" : 2684,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2728,
+            "BEGIN" : 2712,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0010",
+            "COORD" : "37.0/-120.0",
+            "END" : 2759,
+            "BEGIN" : 2750,
+            "NAME" : "California",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 2802,
+            "BEGIN" : 2800,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2833,
+            "BEGIN" : 2831,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2852,
+            "BEGIN" : 2851,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3189,
+            "BEGIN" : 3188,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 3242,
+            "BEGIN" : 3234,
+            "NAME" : "Stephanie",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3290,
+            "BEGIN" : 3279,
+            "NAME" : "Friday night",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 3388,
+            "BEGIN" : 3382,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3492,
+            "BEGIN" : 3491,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3556,
+            "BEGIN" : 3555,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3831,
+            "BEGIN" : 3829,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3898,
+            "BEGIN" : 3897,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3929,
+            "BEGIN" : 3928,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3985,
+            "BEGIN" : 3984,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4350,
+            "BEGIN" : 4348,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4456,
+            "BEGIN" : 4455,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4501,
+            "BEGIN" : 4495,
+            "NAME" : "the day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4558,
+            "BEGIN" : 4557,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4561,
+            "BEGIN" : 4560,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4574,
+            "BEGIN" : 4573,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4613,
+            "BEGIN" : 4612,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 4686,
+            "BEGIN" : 4676,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }
+    }, {
+      "FEATURE" : "TERRORISM",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "GEOGRAPHY",
+      "DOMAIN" : {
+        "NAME" : "United States of America",
+        "PROP" : [ {
+          "CONTINENT" : "North America"
+        }, {
+          "COORD" : "39.759724/-98.5"
+        } ],
+        "RULE" : {
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 2759,
+            "BEGIN" : 2750,
+            "NAME" : "California"
+          },
+          "TOPIC" : {
+            "NAME" : "California"
+          },
+          "ENTITY" : [ {
+            "ID" : "0002",
+            "END" : 18,
+            "BEGIN" : 12,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 26,
+            "BEGIN" : 24,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0002",
+            "END" : 76,
+            "BEGIN" : 74,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 134,
+            "BEGIN" : 117,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 138,
+            "BEGIN" : 136,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 237,
+            "BEGIN" : 231,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 274,
+            "BEGIN" : 268,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 391,
+            "BEGIN" : 385,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1237,
+            "BEGIN" : 1235,
+            "NAME" : "Ana",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1309,
+            "BEGIN" : 1306,
+            "NAME" : "100%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1898,
+            "BEGIN" : 1892,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 1950,
+            "BEGIN" : 1940,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "END" : 2042,
+            "BEGIN" : 2031,
+            "NAME" : "politico.com",
+            "TYPE" : "Urls"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2050,
+            "BEGIN" : 2044,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2174,
+            "BEGIN" : 2165,
+            "NAME" : "in January",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2263,
+            "BEGIN" : 2259,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0005",
+            "END" : 2432,
+            "BEGIN" : 2428,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2459,
+            "BEGIN" : 2450,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2573,
+            "BEGIN" : 2567,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2597,
+            "BEGIN" : 2596,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2654,
+            "BEGIN" : 2647,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2675,
+            "BEGIN" : 2656,
+            "NAME" : "in the very last day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2690,
+            "BEGIN" : 2684,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2728,
+            "BEGIN" : 2712,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0010",
+            "COORD" : "37.0/-120.0",
+            "END" : 2759,
+            "BEGIN" : 2750,
+            "NAME" : "California",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 2802,
+            "BEGIN" : 2800,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2833,
+            "BEGIN" : 2831,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2852,
+            "BEGIN" : 2851,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3189,
+            "BEGIN" : 3188,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 3242,
+            "BEGIN" : 3234,
+            "NAME" : "Stephanie",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3290,
+            "BEGIN" : 3279,
+            "NAME" : "Friday night",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 3388,
+            "BEGIN" : 3382,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3492,
+            "BEGIN" : 3491,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3556,
+            "BEGIN" : 3555,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3831,
+            "BEGIN" : 3829,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3898,
+            "BEGIN" : 3897,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3929,
+            "BEGIN" : 3928,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3985,
+            "BEGIN" : 3984,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4350,
+            "BEGIN" : 4348,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4456,
+            "BEGIN" : 4455,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4501,
+            "BEGIN" : 4495,
+            "NAME" : "the day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4558,
+            "BEGIN" : 4557,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4561,
+            "BEGIN" : 4560,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4574,
+            "BEGIN" : 4573,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4613,
+            "BEGIN" : 4612,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 4686,
+            "BEGIN" : 4676,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }
+    }, {
+      "FEATURE" : "CYBERCRIME",
+      "DOMAIN" : [ ]
+    }, {
+      "FEATURE" : "EMOTIONS",
+      "DOMAIN" : [ {
+        "NAME" : "Anxiety",
+        "RULE" : {
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : [ {
+            "END" : 543,
+            "BEGIN" : 539,
+            "NAME" : "worry"
+          }, {
+            "END" : 844,
+            "BEGIN" : 835,
+            "NAME" : "in trouble"
+          } ],
+          "ENTITY" : [ {
+            "ID" : "0002",
+            "END" : 18,
+            "BEGIN" : 12,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 26,
+            "BEGIN" : 24,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0002",
+            "END" : 76,
+            "BEGIN" : 74,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 134,
+            "BEGIN" : 117,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 138,
+            "BEGIN" : 136,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 237,
+            "BEGIN" : 231,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 274,
+            "BEGIN" : 268,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 391,
+            "BEGIN" : 385,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1237,
+            "BEGIN" : 1235,
+            "NAME" : "Ana",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1309,
+            "BEGIN" : 1306,
+            "NAME" : "100%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1898,
+            "BEGIN" : 1892,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 1950,
+            "BEGIN" : 1940,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "END" : 2042,
+            "BEGIN" : 2031,
+            "NAME" : "politico.com",
+            "TYPE" : "Urls"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2050,
+            "BEGIN" : 2044,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2174,
+            "BEGIN" : 2165,
+            "NAME" : "in January",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2263,
+            "BEGIN" : 2259,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0005",
+            "END" : 2432,
+            "BEGIN" : 2428,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2459,
+            "BEGIN" : 2450,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2573,
+            "BEGIN" : 2567,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2597,
+            "BEGIN" : 2596,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2654,
+            "BEGIN" : 2647,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2675,
+            "BEGIN" : 2656,
+            "NAME" : "in the very last day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2690,
+            "BEGIN" : 2684,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2728,
+            "BEGIN" : 2712,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0010",
+            "COORD" : "37.0/-120.0",
+            "END" : 2759,
+            "BEGIN" : 2750,
+            "NAME" : "California",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 2802,
+            "BEGIN" : 2800,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2833,
+            "BEGIN" : 2831,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2852,
+            "BEGIN" : 2851,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3189,
+            "BEGIN" : 3188,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 3242,
+            "BEGIN" : 3234,
+            "NAME" : "Stephanie",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3290,
+            "BEGIN" : 3279,
+            "NAME" : "Friday night",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 3388,
+            "BEGIN" : 3382,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3492,
+            "BEGIN" : 3491,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3556,
+            "BEGIN" : 3555,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3831,
+            "BEGIN" : 3829,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3898,
+            "BEGIN" : 3897,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3929,
+            "BEGIN" : 3928,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3985,
+            "BEGIN" : 3984,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4350,
+            "BEGIN" : 4348,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4456,
+            "BEGIN" : 4455,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4501,
+            "BEGIN" : 4495,
+            "NAME" : "the day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4558,
+            "BEGIN" : 4557,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4561,
+            "BEGIN" : 4560,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4574,
+            "BEGIN" : 4573,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4613,
+            "BEGIN" : 4612,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 4686,
+            "BEGIN" : 4676,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }, {
+        "NAME" : "Seriousness",
+        "RULE" : {
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 963,
+            "BEGIN" : 955,
+            "NAME" : "seriously"
+          },
+          "ENTITY" : [ {
+            "ID" : "0002",
+            "END" : 18,
+            "BEGIN" : 12,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 26,
+            "BEGIN" : 24,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0002",
+            "END" : 76,
+            "BEGIN" : 74,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 134,
+            "BEGIN" : 117,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 138,
+            "BEGIN" : 136,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 237,
+            "BEGIN" : 231,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 274,
+            "BEGIN" : 268,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 391,
+            "BEGIN" : 385,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1237,
+            "BEGIN" : 1235,
+            "NAME" : "Ana",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1309,
+            "BEGIN" : 1306,
+            "NAME" : "100%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1898,
+            "BEGIN" : 1892,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 1950,
+            "BEGIN" : 1940,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "END" : 2042,
+            "BEGIN" : 2031,
+            "NAME" : "politico.com",
+            "TYPE" : "Urls"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2050,
+            "BEGIN" : 2044,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2174,
+            "BEGIN" : 2165,
+            "NAME" : "in January",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2263,
+            "BEGIN" : 2259,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0005",
+            "END" : 2432,
+            "BEGIN" : 2428,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2459,
+            "BEGIN" : 2450,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2573,
+            "BEGIN" : 2567,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2597,
+            "BEGIN" : 2596,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2654,
+            "BEGIN" : 2647,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2675,
+            "BEGIN" : 2656,
+            "NAME" : "in the very last day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2690,
+            "BEGIN" : 2684,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2728,
+            "BEGIN" : 2712,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0010",
+            "COORD" : "37.0/-120.0",
+            "END" : 2759,
+            "BEGIN" : 2750,
+            "NAME" : "California",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 2802,
+            "BEGIN" : 2800,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2833,
+            "BEGIN" : 2831,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2852,
+            "BEGIN" : 2851,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3189,
+            "BEGIN" : 3188,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 3242,
+            "BEGIN" : 3234,
+            "NAME" : "Stephanie",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3290,
+            "BEGIN" : 3279,
+            "NAME" : "Friday night",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 3388,
+            "BEGIN" : 3382,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3492,
+            "BEGIN" : 3491,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3556,
+            "BEGIN" : 3555,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3831,
+            "BEGIN" : 3829,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3898,
+            "BEGIN" : 3897,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3929,
+            "BEGIN" : 3928,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3985,
+            "BEGIN" : 3984,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4350,
+            "BEGIN" : 4348,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4456,
+            "BEGIN" : 4455,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4501,
+            "BEGIN" : 4495,
+            "NAME" : "the day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4558,
+            "BEGIN" : 4557,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4561,
+            "BEGIN" : 4560,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4574,
+            "BEGIN" : 4573,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4613,
+            "BEGIN" : 4612,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 4686,
+            "BEGIN" : 4676,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      }, {
+        "NAME" : "Courage",
+        "RULE" : {
+          "END" : 4898,
+          "BEGIN" : 0,
+          "OPERAND" : {
+            "END" : 3068,
+            "BEGIN" : 3060,
+            "NAME" : "desperate"
+          },
+          "ENTITY" : [ {
+            "ID" : "0002",
+            "END" : 18,
+            "BEGIN" : 12,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 26,
+            "BEGIN" : 24,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0006",
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 59,
+            "BEGIN" : 48,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0002",
+            "END" : 76,
+            "BEGIN" : 74,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0007",
+            "END" : 134,
+            "BEGIN" : 117,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0002",
+            "END" : 138,
+            "BEGIN" : 136,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0002",
+            "END" : 237,
+            "BEGIN" : 231,
+            "NAME" : "Barbara",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 274,
+            "BEGIN" : 268,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 391,
+            "BEGIN" : 385,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0006",
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "Most Influential People"
+          }, {
+            "END" : 448,
+            "BEGIN" : 428,
+            "NAME" : "Donald Trump",
+            "TYPE" : "World Leaders"
+          }, {
+            "ID" : "0001",
+            "END" : 1237,
+            "BEGIN" : 1235,
+            "NAME" : "Ana",
+            "TYPE" : "PEOPLE"
+          }, {
+            "END" : 1309,
+            "BEGIN" : 1306,
+            "NAME" : "100%",
+            "TYPE" : "Percentages"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 1898,
+            "BEGIN" : 1892,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0008",
+            "END" : 1950,
+            "BEGIN" : 1940,
+            "NAME" : "White House",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "END" : 2042,
+            "BEGIN" : 2031,
+            "NAME" : "politico.com",
+            "TYPE" : "Urls"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2050,
+            "BEGIN" : 2044,
+            "NAME" : "tonight",
+            "TYPE" : "Time Reference"
+          }, {
+            "TIME_REFER" : "FUTURE",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2174,
+            "BEGIN" : 2165,
+            "NAME" : "in January",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0007",
+            "END" : 2263,
+            "BEGIN" : 2259,
+            "NAME" : "Trump Organization",
+            "TYPE" : "ORGANIZATIONS"
+          }, {
+            "ID" : "0005",
+            "END" : 2432,
+            "BEGIN" : 2428,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2459,
+            "BEGIN" : 2450,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2573,
+            "BEGIN" : 2567,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2597,
+            "BEGIN" : 2596,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2654,
+            "BEGIN" : 2647,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2675,
+            "BEGIN" : 2656,
+            "NAME" : "in the very last day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2690,
+            "BEGIN" : 2684,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 2728,
+            "BEGIN" : 2712,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0010",
+            "COORD" : "37.0/-120.0",
+            "END" : 2759,
+            "BEGIN" : 2750,
+            "NAME" : "California",
+            "TYPE" : "PLACES"
+          }, {
+            "ID" : "0005",
+            "END" : 2802,
+            "BEGIN" : 2800,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 2833,
+            "BEGIN" : 2831,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 2852,
+            "BEGIN" : 2851,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3189,
+            "BEGIN" : 3188,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0004",
+            "END" : 3242,
+            "BEGIN" : 3234,
+            "NAME" : "Stephanie",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RANGE",
+            "END" : 3290,
+            "BEGIN" : 3279,
+            "NAME" : "Friday night",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 3388,
+            "BEGIN" : 3382,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3492,
+            "BEGIN" : 3491,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3556,
+            "BEGIN" : 3555,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3831,
+            "BEGIN" : 3829,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3898,
+            "BEGIN" : 3897,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3929,
+            "BEGIN" : 3928,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 3985,
+            "BEGIN" : 3984,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "PRESENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4350,
+            "BEGIN" : 4348,
+            "NAME" : "now",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4456,
+            "BEGIN" : 4455,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "TIME_REFER" : "RECENT",
+            "TIME_TYPE" : "RELATIVE",
+            "END" : 4501,
+            "BEGIN" : 4495,
+            "NAME" : "the day",
+            "TYPE" : "Time Reference"
+          }, {
+            "ID" : "0005",
+            "END" : 4558,
+            "BEGIN" : 4557,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4561,
+            "BEGIN" : 4560,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4574,
+            "BEGIN" : 4573,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0005",
+            "END" : 4613,
+            "BEGIN" : 4612,
+            "NAME" : "John Kelly",
+            "TYPE" : "PEOPLE"
+          }, {
+            "ID" : "0003",
+            "END" : 4686,
+            "BEGIN" : 4676,
+            "NAME" : "Chris Hayes",
+            "TYPE" : "PEOPLE"
+          } ]
+        }
+      } ]
+    } ],
+    "WRITEPRINT" : {
+      "FEATURE" : "INDEXES",
+      "READABILITY_INDEX" : {
+        "GRADE_LEVEL" : 15,
+        "EVALUATION" : "LOW",
+        "VALUE" : 0.0
+      },
+      "STYLE_INDEXES" : {
+        "SEMANTIC_INDEXES" : {
+          "DOCUMENT_STRUCTURE" : {
+            "INDEX" : [ {
+              "VALUE" : 1.0,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "N_SENT"
+            }, {
+              "VALUE" : 4899.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "CHAR_PER_SENT"
+            }, {
+              "VALUE" : 954.0,
+              "VALUE_TYPE" : "MEAN",
+              "NAME" : "WORD_PER_SENT"
+            } ]
+          },
+          "VOCABULARY_RICHNESS" : {
+            "INDEX" : [ {
+              "VALUE" : 91.1,
+              "VALUE_TYPE" : "ABSOLUTE",
+              "NAME" : "SEMANTIC_RICHNESS"
+            }, {
+              "VALUE" : 49.57,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "DIFFERENT_LEMMA"
+            }, {
+              "VALUE" : 33.03,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "SHORT_WORD"
+            }, {
+              "VALUE" : 4.41,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "HIGH_FREQ"
+            }, {
+              "VALUE" : 3.21,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ADVANCED_WORD"
+            }, {
+              "VALUE" : 0.21,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ACADEMIC_WORD"
+            }, {
+              "VALUE" : 85.26,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "COMMON_WORD"
+            } ]
+          },
+          "GRAMMAR" : {
+            "INDEX" : [ {
+              "VALUE" : 11.53,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_NOU"
+            }, {
+              "VALUE" : 7.76,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADJ"
+            }, {
+              "VALUE" : 20.13,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_VER"
+            }, {
+              "VALUE" : 8.28,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_CON"
+            }, {
+              "VALUE" : 9.64,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "WORD_ADV"
+            }, {
+              "VALUE" : 1.56,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_CONDITIONAL"
+            }, {
+              "VALUE" : 7.81,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ED_FORM"
+            }, {
+              "VALUE" : 1.04,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_FUTURE"
+            }, {
+              "VALUE" : 13.02,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_ING_FORM"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PAST_PERFECT"
+            }, {
+              "VALUE" : 1.04,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_PRESENT_PERFECT"
+            }, {
+              "VALUE" : 14.58,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PAST"
+            }, {
+              "VALUE" : 45.83,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_SIMPLE_PRESENT"
+            }, {
+              "VALUE" : 15.1,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "TENSE_UNDEFINED"
+            } ]
+          },
+          "REGISTER" : {
+            "INDEX" : [ {
+              "VALUE" : 0.94,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_ABBREVIATION"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_FOREIGN"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_LITERARY"
+            }, {
+              "VALUE" : 0.84,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "REGISTER_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CRIMINAL_ENTERPRISE_SLANG"
+            }, {
+              "VALUE" : 1.15,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_CYBER_ILLEGAL_SLANG"
+            }, {
+              "VALUE" : 0.21,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_MILITARY_SLANG"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CUSTOM_REGISTER_SOCIAL_SLANG"
+            } ]
+          },
+          "CHAINS" : {
+            "CHAIN-INDEX" : [ {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ABOUT_NATURAL_EVENTS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.52,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "CORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "ILLEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "INCORRECT_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "LEGAL_EXCHANGE_OF_GOODS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ASSAILMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DISSENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_DRUGS_USE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.52,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_ECONOMY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.52,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_EXISTENCE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FINANCES",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_FIRING_A_WEAPON",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.56,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERAL_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.52,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_GENERIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_CREATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRIAL_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INDUSTRY",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INFORMATICS_PROFESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_INVESTIGATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.52,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LAW",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 10.42,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MILITARY_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 4.17,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_MOVEMENT_ON_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.04,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_NO_LINGUISTIC_COMMUNICATION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POLITICS",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 4.17,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_POSSESSION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.04,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_PSYCHOLOGICAL_ACTION",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 2.6,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SHIFT_OF_PLACE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.52,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_SOCIAL_BEHAVIOUR",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 1.04,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TAKING",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.52,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRADE",
+              "TYPE" : "VER"
+            }, {
+              "VALUE" : 0.0,
+              "VALUE_TYPE" : "PERCENT",
+              "NAME" : "OF_TRAVEL",
+              "TYPE" : "VER"
+            } ]
+          }
+        }
+      }
+    }
+  }
+}
